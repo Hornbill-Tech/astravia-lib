@@ -1,0 +1,3353 @@
+[
+  {
+    "parentQuestName": "Astravia Chryse",
+    "jobIds": [],
+    "extraJobIds": null,
+    "quests": [
+      {
+        "id": 6969,
+        "name": "The Floating Island of Chryse",
+        "prevQuestId": null,
+        "areaId": 33,
+        "order": 1,
+        "npcs": [
+          2012018
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 51,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 51823,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 6970,
+        "name": "Welcome to Chryse",
+        "prevQuestId": 6969,
+        "areaId": 33,
+        "order": 2,
+        "npcs": [
+          2170004
+        ],
+        "requirements": {
+          "lvmin": 51,
+          "items": [
+            {
+              "itemId": 4032912,
+              "quantity": 1
+            }
+          ],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 58823,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 6971,
+        "name": "Chief Concerns",
+        "prevQuestId": 6970,
+        "areaId": 33,
+        "order": 3,
+        "npcs": [
+          2170003
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 51,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 5160000,
+              "quantity": 250
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 61000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 6972,
+        "name": "Pet Problems",
+        "prevQuestId": 6971,
+        "areaId": 33,
+        "order": 4,
+        "npcs": [
+          2170003
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 51,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 5160001,
+              "quantity": 250
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 69000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 6973,
+        "name": "Michael and his Golden Bell",
+        "prevQuestId": 6972,
+        "areaId": 33,
+        "order": 5,
+        "npcs": [
+          2170000,
+          2170001
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 51,
+          "items": [
+            {
+              "itemId": 4031191,
+              "quantity": 1
+            },
+            {
+              "itemId": 4031192,
+              "quantity": 1
+            }
+          ],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 70000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 6974,
+        "name": "Pet Problems (2)",
+        "prevQuestId": 6973,
+        "areaId": 33,
+        "order": 6,
+        "npcs": [
+          2170001
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 51,
+          "items": [
+            {
+              "itemId": 4000634,
+              "quantity": 150
+            },
+            {
+              "itemId": 4000635,
+              "quantity": 150
+            }
+          ],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 94000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 6975,
+        "name": "Elder's Request",
+        "prevQuestId": 6974,
+        "areaId": 33,
+        "order": 7,
+        "npcs": [
+          2170002
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 51,
+          "items": [
+            {
+              "itemId": 2010003,
+              "quantity": 50
+            },
+            {
+              "itemId": 2010004,
+              "quantity": 50
+            }
+          ],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 150000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 6976,
+        "name": "Xerxes, the Source of the Crisis",
+        "prevQuestId": 6975,
+        "areaId": 33,
+        "order": 8,
+        "npcs": [
+          2170002
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 51,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 199999,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 6977,
+        "name": "We Need a Hero",
+        "prevQuestId": 6976,
+        "areaId": 33,
+        "order": 9,
+        "npcs": [
+          2170000
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 51,
+          "items": [
+            {
+              "itemId": 4000638,
+              "quantity": 150
+            }
+          ],
+          "mobs": [
+            {
+              "mobId": 5160002,
+              "quantity": 250
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 201000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 6978,
+        "name": "We're Holding Out For A Hero",
+        "prevQuestId": 6977,
+        "areaId": 33,
+        "order": 10,
+        "npcs": [
+          2170000
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 51,
+          "items": [
+            {
+              "itemId": 4000639,
+              "quantity": 150
+            }
+          ],
+          "mobs": [
+            {
+              "mobId": 5160003,
+              "quantity": 250
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 212000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 6979,
+        "name": "Secondhand Arsenal",
+        "prevQuestId": 6978,
+        "areaId": 33,
+        "order": 11,
+        "npcs": [
+          2170000
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 51,
+          "items": [
+            {
+              "itemId": 4000636,
+              "quantity": 150
+            }
+          ],
+          "mobs": [
+            {
+              "mobId": 5160004,
+              "quantity": 250
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 217000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 6980,
+        "name": "A Good Defense",
+        "prevQuestId": 6979,
+        "areaId": 33,
+        "order": 12,
+        "npcs": [
+          2170000
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 51,
+          "items": [
+            {
+              "itemId": 4000637,
+              "quantity": 150
+            }
+          ],
+          "mobs": [
+            {
+              "mobId": 6160000,
+              "quantity": 250
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 220000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 6981,
+        "name": "Know Your Enemy",
+        "prevQuestId": 6980,
+        "areaId": 33,
+        "order": 13,
+        "npcs": [
+          2170002
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 51,
+          "items": [
+            {
+              "itemId": 4000640,
+              "quantity": 150
+            }
+          ],
+          "mobs": [
+            {
+              "mobId": 6160001,
+              "quantity": 250
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 227000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 6982,
+        "name": "Obliterating the Herd",
+        "prevQuestId": 6981,
+        "areaId": 33,
+        "order": 14,
+        "npcs": [
+          2170002
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 51,
+          "items": [
+            {
+              "itemId": 4000641,
+              "quantity": 150
+            }
+          ],
+          "mobs": [
+            {
+              "mobId": 6160002,
+              "quantity": 250
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 260000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 6983,
+        "name": "My Little Xerxes",
+        "prevQuestId": 6982,
+        "areaId": 33,
+        "order": 14,
+        "npcs": [
+          2170002,
+          2170003
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 51,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": null,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 6984,
+        "name": "Xerxes Falls",
+        "prevQuestId": 6983,
+        "areaId": 33,
+        "order": 14,
+        "npcs": [
+          2170002
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 51,
+          "items": [
+            {
+              "itemId": 4033355,
+              "quantity": 1
+            }
+          ],
+          "mobs": [
+            {
+              "mobId": 6160003,
+              "quantity": 1
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 290000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 6985,
+        "name": "All Done in Chryse",
+        "prevQuestId": 6984,
+        "areaId": 33,
+        "order": 15,
+        "npcs": [
+          2170002
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 51,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": null,
+          "mesos": 1000001,
+          "items": [
+            {
+              "itemId": 1142259,
+              "quantity": 1
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "parentQuestName": "Astravia Gold Beach",
+    "jobIds": [],
+    "extraJobIds": null,
+    "quests": [
+      {
+        "id": 6986,
+        "name": "A Golden Opportunity",
+        "prevQuestId": null,
+        "areaId": 30,
+        "order": 1,
+        "npcs": [
+          1082002
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 61,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 80000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 6987,
+        "name": "Flying Blind",
+        "prevQuestId": 6986,
+        "areaId": 30,
+        "order": 2,
+        "npcs": [
+          1082101
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 61,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 3401000,
+              "quantity": 200
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 140000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 6988,
+        "name": "A Mission of Great Importance",
+        "prevQuestId": 6987,
+        "areaId": 30,
+        "order": 3,
+        "npcs": [
+          1082201
+        ],
+        "requirements": {
+          "lvmin": 61,
+          "items": [
+            {
+              "itemId": 4033622,
+              "quantity": 1
+            }
+          ],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 150000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 6989,
+        "name": "Fun, fun and only fun.",
+        "prevQuestId": 6988,
+        "areaId": 30,
+        "order": 4,
+        "npcs": [
+          1082000,
+          1082002
+        ],
+        "requirements": {
+          "lvmin": 61,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 100000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 6990,
+        "name": "Golden Fruit",
+        "prevQuestId": 6989,
+        "areaId": 30,
+        "order": 5,
+        "npcs": [
+          1082000
+        ],
+        "requirements": {
+          "lvmin": 61,
+          "items": [
+            {
+              "itemId": 4033623,
+              "quantity": 10
+            },
+            {
+              "itemId": 4033624,
+              "quantity": 10
+            }
+          ],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 175000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 6991,
+        "name": "Housekeeping!",
+        "prevQuestId": 6990,
+        "areaId": 30,
+        "order": 6,
+        "npcs": [
+          1082000
+        ],
+        "requirements": {
+          "lvmin": 61,
+          "items": [
+            {
+              "itemId": 4000755,
+              "quantity": 200
+            }
+          ],
+          "mobs": [
+            {
+              "mobId": 3401002,
+              "quantity": 250
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 200000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 6992,
+        "name": "Little Troublemaker",
+        "prevQuestId": 6991,
+        "areaId": 30,
+        "order": 7,
+        "npcs": [
+          1082000,
+          1082002
+        ],
+        "requirements": {
+          "lvmin": 61,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": null,
+          "mesos": null,
+          "items": [
+            {
+              "itemId": 4033632,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 6993,
+        "name": "Status Report",
+        "prevQuestId": 6992,
+        "areaId": 30,
+        "order": 8,
+        "npcs": [
+          1082002
+        ],
+        "requirements": {
+          "lvmin": 61,
+          "items": [
+            {
+              "itemId": 4033632,
+              "quantity": 1
+            }
+          ],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 120000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 6994,
+        "name": "Shine a Light",
+        "prevQuestId": 6993,
+        "areaId": 30,
+        "order": 9,
+        "npcs": [
+          1082202
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 61,
+          "items": [
+            {
+              "itemId": 4033631,
+              "quantity": 10
+            }
+          ],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 215000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 6995,
+        "name": "Locals and Yokels",
+        "prevQuestId": 6994,
+        "areaId": 30,
+        "order": 10,
+        "npcs": [
+          1082203
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 61,
+          "items": [
+            {
+              "itemId": 4033626,
+              "quantity": 1
+            }
+          ],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 220000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 6996,
+        "name": "Private Beach",
+        "prevQuestId": 6995,
+        "areaId": 30,
+        "order": 11,
+        "npcs": [
+          1082204
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 61,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 3401004,
+              "quantity": 250
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 225000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 6997,
+        "name": "Put a Ring On It",
+        "prevQuestId": 6996,
+        "areaId": 30,
+        "order": 12,
+        "npcs": [
+          1082202,
+          1082205
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 61,
+          "items": [
+            {
+              "itemId": 4033630,
+              "quantity": 1
+            }
+          ],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": null,
+          "mesos": 1000000,
+          "items": []
+        }
+      },
+      {
+        "id": 6998,
+        "name": "Black Wave",
+        "prevQuestId": 6997,
+        "areaId": 30,
+        "order": 13,
+        "npcs": [
+          1082206
+        ],
+        "requirements": {
+          "lvmin": 61,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 3401005,
+              "quantity": 250
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 230000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 7000,
+        "name": "Fresh Flavors",
+        "prevQuestId": 6998,
+        "areaId": 30,
+        "order": 15,
+        "npcs": [
+          1082207,
+          1082208
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 61,
+          "items": [
+            {
+              "itemId": 4000760,
+              "quantity": 150
+            }
+          ],
+          "mobs": [
+            {
+              "mobId": 3401007,
+              "quantity": 250
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 235000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 7003,
+        "name": "Going Tribal",
+        "prevQuestId": 7000,
+        "areaId": 30,
+        "order": 18,
+        "npcs": [
+          1082210
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 61,
+          "items": [
+            {
+              "itemId": 4033627,
+              "quantity": 1
+            }
+          ],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 255000,
+          "mesos": null,
+          "items": []
+        }
+      }
+    ]
+  },
+  {
+    "parentQuestName": "Astravia Golden Temple",
+    "jobIds": [],
+    "extraJobIds": null,
+    "quests": [
+      {
+        "id": 7006,
+        "name": "Noi More Tourists",
+        "prevQuestId": null,
+        "areaId": 44,
+        "order": 1,
+        "npcs": [
+          9000074
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 131,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": null,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 7019,
+        "name": "All Done in Golden Temple",
+        "prevQuestId": 7006,
+        "areaId": null,
+        "order": 1,
+        "npcs": [
+          9000074
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 131,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": null,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 7007,
+        "name": "Looking for Somchai",
+        "prevQuestId": 7019,
+        "areaId": 44,
+        "order": 2,
+        "npcs": [
+          9000072,
+          9000074
+        ],
+        "requirements": {
+          "lvmin": 131,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 8144000,
+              "quantity": 200
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 9500000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 7008,
+        "name": "Misplaced Tourist",
+        "prevQuestId": 7007,
+        "areaId": 44,
+        "order": 3,
+        "npcs": [
+          9000078
+        ],
+        "requirements": {
+          "lvmin": 131,
+          "items": [
+            {
+              "itemId": 4033177,
+              "quantity": 1
+            }
+          ],
+          "mobs": [
+            {
+              "mobId": 8144001,
+              "quantity": 200
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 9900000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 7009,
+        "name": "Forest Guardian",
+        "prevQuestId": 7008,
+        "areaId": 44,
+        "order": 4,
+        "npcs": [
+          9000076
+        ],
+        "requirements": {
+          "lvmin": 131,
+          "items": [
+            {
+              "itemId": 4033175,
+              "quantity": 1
+            }
+          ],
+          "mobs": [
+            {
+              "mobId": 8144002,
+              "quantity": 200
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 10100000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 7010,
+        "name": "The Legend of SnowFro the Fruitnificent",
+        "prevQuestId": 7009,
+        "areaId": 44,
+        "order": 5,
+        "npcs": [
+          9000075
+        ],
+        "requirements": {
+          "lvmin": 131,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 8144003,
+              "quantity": 200
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 10200000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 7011,
+        "name": "Stolen Camera",
+        "prevQuestId": 7010,
+        "areaId": 44,
+        "order": 6,
+        "npcs": [
+          9000079
+        ],
+        "requirements": {
+          "lvmin": 131,
+          "items": [
+            {
+              "itemId": 4032603,
+              "quantity": 1
+            }
+          ],
+          "mobs": [
+            {
+              "mobId": 9100024,
+              "quantity": 1
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 10700000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 7012,
+        "name": "Demonic Blues",
+        "prevQuestId": 7011,
+        "areaId": 44,
+        "order": 7,
+        "npcs": [
+          9000073
+        ],
+        "requirements": {
+          "lvmin": 131,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 8144004,
+              "quantity": 500
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 10900000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 7013,
+        "name": "Red Hot Demon",
+        "prevQuestId": 7012,
+        "areaId": 44,
+        "order": 8,
+        "npcs": [
+          9000073
+        ],
+        "requirements": {
+          "lvmin": 131,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 8144005,
+              "quantity": 500
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 11000000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 7014,
+        "name": "Demon Rock 1",
+        "prevQuestId": 7013,
+        "areaId": 44,
+        "order": 9,
+        "npcs": [
+          9000073
+        ],
+        "requirements": {
+          "lvmin": 131,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 8144006,
+              "quantity": 500
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 11100000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 7015,
+        "name": "Demon Rock 2",
+        "prevQuestId": 7014,
+        "areaId": 44,
+        "order": 10,
+        "npcs": [
+          9000073
+        ],
+        "requirements": {
+          "lvmin": 131,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 8144007,
+              "quantity": 500
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 11200000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 7016,
+        "name": "A Demon Most Peculiar",
+        "prevQuestId": 7015,
+        "areaId": 44,
+        "order": 11,
+        "npcs": [
+          9000073
+        ],
+        "requirements": {
+          "lvmin": 131,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 8144008,
+              "quantity": 500
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 11250000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 7017,
+        "name": "Sunburst",
+        "prevQuestId": 7016,
+        "areaId": 44,
+        "order": 12,
+        "npcs": [
+          9000098
+        ],
+        "requirements": {
+          "lvmin": 131,
+          "items": [
+            {
+              "itemId": 4001684,
+              "quantity": 1
+            }
+          ],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": null,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 7018,
+        "name": "Ravana the Demon",
+        "prevQuestId": 7017,
+        "areaId": 44,
+        "order": 13,
+        "npcs": [
+          9000073
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 131,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 8800200,
+              "quantity": 1
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 11350000,
+          "mesos": null,
+          "items": []
+        }
+      }
+    ]
+  },
+  {
+    "parentQuestName": "Astravia Ludibrium",
+    "jobIds": [
+      100,
+      110,
+      111,
+      112,
+      120,
+      121,
+      122,
+      130,
+      131,
+      132,
+      200,
+      210,
+      211,
+      212,
+      220,
+      221,
+      222,
+      230,
+      231,
+      232,
+      300,
+      310,
+      311,
+      312,
+      320,
+      321,
+      322,
+      400,
+      410,
+      411,
+      412,
+      420,
+      421,
+      422,
+      500,
+      510,
+      511,
+      512,
+      520,
+      521,
+      522,
+      1100,
+      1110,
+      1111,
+      1112,
+      1200,
+      1210,
+      1211,
+      1212,
+      1300,
+      1310,
+      1311,
+      1312,
+      1400,
+      1410,
+      1411,
+      1412,
+      1500,
+      1510,
+      1511,
+      1512,
+      2100,
+      2110,
+      2111,
+      2112,
+      3200,
+      3210,
+      3211,
+      3212
+    ],
+    "extraJobIds": null,
+    "quests": [
+      {
+        "id": 21768,
+        "name": "Head to Ludibrium",
+        "prevQuestId": null,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2041004
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 41,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 3000005,
+              "quantity": 200
+            },
+            {
+              "mobId": 3110101,
+              "quantity": 100
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 24000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 22201,
+        "name": "All done in Ludibrium",
+        "prevQuestId": 21768,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2041004
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 41,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": null,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 21769,
+        "name": "Cleaning up the Sky Terraces I",
+        "prevQuestId": 22201,
+        "areaId": 37,
+        "order": 2,
+        "npcs": [
+          2041004
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 41,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 3210204,
+              "quantity": 200
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 48000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 21770,
+        "name": "Cleaning up the Sky Terraces II",
+        "prevQuestId": 21769,
+        "areaId": 37,
+        "order": 3,
+        "npcs": [
+          2041004
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 41,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 3110101,
+              "quantity": 200
+            },
+            {
+              "mobId": 3230305,
+              "quantity": 100
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 72000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 21771,
+        "name": "Cleaning up the Toy Factory I",
+        "prevQuestId": 21770,
+        "areaId": 37,
+        "order": 4,
+        "npcs": [
+          2041004
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 41,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 3210203,
+              "quantity": 200
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 95000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 21772,
+        "name": "Venturing into the Path of Time I",
+        "prevQuestId": 21771,
+        "areaId": 37,
+        "order": 5,
+        "npcs": [
+          2041004
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 41,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 3230306,
+              "quantity": 300
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 120000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 21773,
+        "name": "Venturing into the Path of Time II",
+        "prevQuestId": 21772,
+        "areaId": 37,
+        "order": 6,
+        "npcs": [
+          2041004
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 41,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 3210207,
+              "quantity": 150
+            },
+            {
+              "mobId": 4230113,
+              "quantity": 200
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 145000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 21774,
+        "name": "Cleaning up the Toy Factory II",
+        "prevQuestId": 21773,
+        "areaId": 37,
+        "order": 7,
+        "npcs": [
+          2041004
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 41,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 4230111,
+              "quantity": 350
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 170000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 21775,
+        "name": "Venturing into the Path of Time III",
+        "prevQuestId": 21774,
+        "areaId": 37,
+        "order": 8,
+        "npcs": [
+          2041004
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 41,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 4230114,
+              "quantity": 400
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 190000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 21776,
+        "name": "Cleaning up the Toy Factory III",
+        "prevQuestId": 21775,
+        "areaId": 37,
+        "order": 9,
+        "npcs": [
+          2041004
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 41,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 4230112,
+              "quantity": 200
+            },
+            {
+              "mobId": 4230115,
+              "quantity": 200
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 215000,
+          "mesos": null,
+          "items": [
+            {
+              "itemId": 1102046,
+              "quantity": 1
+            },
+            {
+              "itemId": 1112713,
+              "quantity": 1
+            },
+            {
+              "itemId": 1142932,
+              "quantity": 1
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "parentQuestName": "Astravia Milestones",
+    "jobIds": [
+      100,
+      110,
+      111,
+      112,
+      120,
+      121,
+      122,
+      130,
+      131,
+      132,
+      200,
+      210,
+      211,
+      212,
+      220,
+      221,
+      222,
+      230,
+      231,
+      232,
+      300,
+      310,
+      311,
+      312,
+      320,
+      321,
+      322,
+      400,
+      410,
+      411,
+      412,
+      420,
+      421,
+      422,
+      500,
+      510,
+      511,
+      512,
+      520,
+      521,
+      522,
+      1000,
+      1100,
+      1110,
+      1111,
+      1112,
+      1200,
+      1210,
+      1211,
+      1212,
+      1300,
+      1310,
+      1311,
+      1312,
+      1400,
+      1410,
+      1411,
+      1412,
+      1500,
+      1510,
+      1511,
+      1512,
+      2100,
+      2110,
+      2111,
+      2112,
+      3200,
+      3210,
+      3211,
+      3212
+    ],
+    "extraJobIds": [
+      {
+        "questId": 22046,
+        "jobIds": [
+          100,
+          110,
+          111,
+          112,
+          120,
+          121,
+          122,
+          130,
+          131,
+          132,
+          200,
+          210,
+          211,
+          212,
+          220,
+          221,
+          222,
+          230,
+          231,
+          232,
+          300,
+          310,
+          311,
+          312,
+          320,
+          321,
+          322,
+          400,
+          410,
+          411,
+          412,
+          420,
+          421,
+          422,
+          500,
+          510,
+          511,
+          512,
+          520,
+          521,
+          522,
+          1100,
+          1110,
+          1111,
+          1112,
+          1200,
+          1210,
+          1211,
+          1212,
+          1300,
+          1310,
+          1311,
+          1312,
+          1400,
+          1410,
+          1411,
+          1412,
+          1500,
+          1510,
+          1511,
+          1512,
+          2100,
+          2110,
+          2111,
+          2112,
+          3200,
+          3210,
+          3211,
+          3212
+        ]
+      },
+      {
+        "questId": 22047,
+        "jobIds": [
+          100,
+          110,
+          111,
+          112,
+          120,
+          121,
+          122,
+          130,
+          131,
+          132,
+          200,
+          210,
+          211,
+          212,
+          220,
+          221,
+          222,
+          230,
+          231,
+          232,
+          300,
+          310,
+          311,
+          312,
+          320,
+          321,
+          322,
+          400,
+          410,
+          411,
+          412,
+          420,
+          421,
+          422,
+          500,
+          510,
+          511,
+          512,
+          520,
+          521,
+          522,
+          1100,
+          1110,
+          1111,
+          1112,
+          1200,
+          1210,
+          1211,
+          1212,
+          1300,
+          1310,
+          1311,
+          1312,
+          1400,
+          1410,
+          1411,
+          1412,
+          1500,
+          1510,
+          1511,
+          1512,
+          2100,
+          2110,
+          2111,
+          2112,
+          3200,
+          3210,
+          3211,
+          3212
+        ]
+      },
+      {
+        "questId": 22048,
+        "jobIds": [
+          100,
+          110,
+          111,
+          112,
+          120,
+          121,
+          122,
+          130,
+          131,
+          132,
+          200,
+          210,
+          211,
+          212,
+          220,
+          221,
+          222,
+          230,
+          231,
+          232,
+          300,
+          310,
+          311,
+          312,
+          320,
+          321,
+          322,
+          400,
+          410,
+          411,
+          412,
+          420,
+          421,
+          422,
+          500,
+          510,
+          511,
+          512,
+          520,
+          521,
+          522,
+          1100,
+          1110,
+          1111,
+          1112,
+          1200,
+          1210,
+          1211,
+          1212,
+          1300,
+          1310,
+          1311,
+          1312,
+          1400,
+          1410,
+          1411,
+          1412,
+          1500,
+          1510,
+          1511,
+          1512,
+          2100,
+          2110,
+          2111,
+          2112,
+          3200,
+          3210,
+          3211,
+          3212
+        ]
+      },
+      {
+        "questId": 22049,
+        "jobIds": [
+          100,
+          110,
+          111,
+          112,
+          120,
+          121,
+          122,
+          130,
+          131,
+          132,
+          200,
+          210,
+          211,
+          212,
+          220,
+          221,
+          222,
+          230,
+          231,
+          232,
+          300,
+          310,
+          311,
+          312,
+          320,
+          321,
+          322,
+          400,
+          410,
+          411,
+          412,
+          420,
+          421,
+          422,
+          500,
+          510,
+          511,
+          512,
+          520,
+          521,
+          522,
+          1100,
+          1110,
+          1111,
+          1112,
+          1200,
+          1210,
+          1211,
+          1212,
+          1300,
+          1310,
+          1311,
+          1312,
+          1400,
+          1410,
+          1411,
+          1412,
+          1500,
+          1510,
+          1511,
+          1512,
+          2100,
+          2110,
+          2111,
+          2112,
+          3200,
+          3210,
+          3211,
+          3212
+        ]
+      }
+    ],
+    "quests": [
+      {
+        "id": 22040,
+        "name": "You've reached level 10!",
+        "prevQuestId": null,
+        "areaId": null,
+        "order": 1,
+        "npcs": [
+          9200000
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 10,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": null,
+          "mesos": null,
+          "items": [
+            {
+              "itemId": 2000016,
+              "quantity": 100
+            },
+            {
+              "itemId": 2000017,
+              "quantity": 300
+            },
+            {
+              "itemId": 1007419,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 22041,
+        "name": "You've reached level 30!",
+        "prevQuestId": 22040,
+        "areaId": null,
+        "order": 2,
+        "npcs": [
+          9200000
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 30,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": null,
+          "mesos": null,
+          "items": [
+            {
+              "itemId": 1022058,
+              "quantity": 1
+            },
+            {
+              "itemId": 1012076,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 22042,
+        "name": "You've reached level 50!",
+        "prevQuestId": 22041,
+        "areaId": null,
+        "order": 3,
+        "npcs": [
+          9200000
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 50,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": null,
+          "mesos": null,
+          "items": [
+            {
+              "itemId": 1082223,
+              "quantity": 1
+            },
+            {
+              "itemId": 1072344,
+              "quantity": 1
+            },
+            {
+              "itemId": 1102041,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 22043,
+        "name": "You've reached level 70!",
+        "prevQuestId": 22042,
+        "areaId": null,
+        "order": 4,
+        "npcs": [
+          9200000
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 70,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": null,
+          "mesos": null,
+          "items": [
+            {
+              "itemId": 4000999,
+              "quantity": 250
+            },
+            {
+              "itemId": 1022131,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 22044,
+        "name": "You've reached level 100!",
+        "prevQuestId": 22043,
+        "areaId": null,
+        "order": 5,
+        "npcs": [
+          9200000
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 100,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": null,
+          "mesos": null,
+          "items": [
+            {
+              "itemId": 1003863,
+              "quantity": 1
+            },
+            {
+              "itemId": 1012376,
+              "quantity": 1
+            },
+            {
+              "itemId": 1052612,
+              "quantity": 1
+            },
+            {
+              "itemId": 1102562,
+              "quantity": 1
+            },
+            {
+              "itemId": 1113034,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 22045,
+        "name": "You've reached level 120!",
+        "prevQuestId": 22044,
+        "areaId": null,
+        "order": 6,
+        "npcs": [
+          9200000
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 120,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": null,
+          "mesos": null,
+          "items": [
+            {
+              "itemId": 4000999,
+              "quantity": 500
+            },
+            {
+              "itemId": 2022179,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 22046,
+        "name": "You've reached level 140!",
+        "prevQuestId": 22045,
+        "areaId": null,
+        "order": 7,
+        "npcs": [
+          9200000
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 140,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": null,
+          "mesos": null,
+          "items": [
+            {
+              "itemId": 2022179,
+              "quantity": 1
+            },
+            {
+              "itemId": 4000999,
+              "quantity": 500
+            }
+          ]
+        }
+      },
+      {
+        "id": 22047,
+        "name": "You've reached level 160!",
+        "prevQuestId": 22046,
+        "areaId": null,
+        "order": 8,
+        "npcs": [
+          9200000
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 160,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": null,
+          "mesos": null,
+          "items": [
+            {
+              "itemId": 2022179,
+              "quantity": 1
+            },
+            {
+              "itemId": 4000999,
+              "quantity": 500
+            }
+          ]
+        }
+      },
+      {
+        "id": 22048,
+        "name": "You've reached level 180!",
+        "prevQuestId": 22047,
+        "areaId": null,
+        "order": 9,
+        "npcs": [
+          9200000
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 180,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": null,
+          "mesos": null,
+          "items": [
+            {
+              "itemId": 2022179,
+              "quantity": 2
+            },
+            {
+              "itemId": 4000999,
+              "quantity": 500
+            }
+          ]
+        }
+      },
+      {
+        "id": 22049,
+        "name": "You've reached level 200!",
+        "prevQuestId": 22048,
+        "areaId": null,
+        "order": 10,
+        "npcs": [
+          9200000
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 200,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": null,
+          "mesos": null,
+          "items": [
+            {
+              "itemId": 2022282,
+              "quantity": 5
+            },
+            {
+              "itemId": 2022273,
+              "quantity": 5
+            },
+            {
+              "itemId": 4000999,
+              "quantity": 500
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "parentQuestName": "Astravia Bounty Hunter",
+    "jobIds": [],
+    "extraJobIds": null,
+    "quests": [
+      {
+        "id": 22090,
+        "name": "Bounty Hunter I",
+        "prevQuestId": null,
+        "areaId": null,
+        "order": 1,
+        "npcs": [
+          9000040
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 30,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 3220000,
+              "quantity": 5
+            },
+            {
+              "mobId": 3220001,
+              "quantity": 5
+            },
+            {
+              "mobId": 6220000,
+              "quantity": 5
+            },
+            {
+              "mobId": 4130103,
+              "quantity": 5
+            },
+            {
+              "mobId": 5220002,
+              "quantity": 5
+            },
+            {
+              "mobId": 5220000,
+              "quantity": 5
+            },
+            {
+              "mobId": 5220003,
+              "quantity": 5
+            }
+          ]
+        },
+        "rewards": {
+          "exp": null,
+          "mesos": null,
+          "items": [
+            {
+              "itemId": 1022233,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 22091,
+        "name": "Bounty Hunter II",
+        "prevQuestId": 22090,
+        "areaId": null,
+        "order": 2,
+        "npcs": [
+          9000040
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 60,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 6220001,
+              "quantity": 20
+            },
+            {
+              "mobId": 7220001,
+              "quantity": 20
+            },
+            {
+              "mobId": 6130101,
+              "quantity": 20
+            },
+            {
+              "mobId": 7220000,
+              "quantity": 20
+            },
+            {
+              "mobId": 4220000,
+              "quantity": 20
+            },
+            {
+              "mobId": 6090003,
+              "quantity": 20
+            }
+          ]
+        },
+        "rewards": {
+          "exp": null,
+          "mesos": null,
+          "items": [
+            {
+              "itemId": 1022234,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 22092,
+        "name": "Bounty Hunter III",
+        "prevQuestId": 22091,
+        "areaId": null,
+        "order": 3,
+        "npcs": [
+          9000040
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 90,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 6300005,
+              "quantity": 20
+            },
+            {
+              "mobId": 7220002,
+              "quantity": 20
+            },
+            {
+              "mobId": 8150000,
+              "quantity": 6
+            },
+            {
+              "mobId": 8130100,
+              "quantity": 20
+            },
+            {
+              "mobId": 8220001,
+              "quantity": 20
+            },
+            {
+              "mobId": 8220007,
+              "quantity": 20
+            }
+          ]
+        },
+        "rewards": {
+          "exp": null,
+          "mesos": null,
+          "items": [
+            {
+              "itemId": 1022235,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 22093,
+        "name": "Bounty Hunter IV",
+        "prevQuestId": 22092,
+        "areaId": null,
+        "order": 4,
+        "npcs": [
+          9000040
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 120,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 8510000,
+              "quantity": 1
+            },
+            {
+              "mobId": 8520000,
+              "quantity": 1
+            },
+            {
+              "mobId": 8220000,
+              "quantity": 20
+            },
+            {
+              "mobId": 8220009,
+              "quantity": 20
+            },
+            {
+              "mobId": 8220003,
+              "quantity": 20
+            }
+          ]
+        },
+        "rewards": {
+          "exp": null,
+          "mesos": null,
+          "items": [
+            {
+              "itemId": 1022236,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 22094,
+        "name": "Bounty Hunter V",
+        "prevQuestId": 22093,
+        "areaId": null,
+        "order": 5,
+        "npcs": [
+          9000040
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 140,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 9400121,
+              "quantity": 10
+            },
+            {
+              "mobId": 9400405,
+              "quantity": 10
+            },
+            {
+              "mobId": 9400014,
+              "quantity": 10
+            }
+          ]
+        },
+        "rewards": {
+          "exp": null,
+          "mesos": null,
+          "items": [
+            {
+              "itemId": 1022237,
+              "quantity": 1
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "parentQuestName": "Astravia Ellin",
+    "jobIds": [],
+    "extraJobIds": null,
+    "quests": [
+      {
+        "id": 31200,
+        "name": "Invitation to Ellin Forest",
+        "prevQuestId": null,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2041021
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 91,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 500000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31201,
+        "name": "Lush Forest",
+        "prevQuestId": 31200,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2131002,
+          2131003
+        ],
+        "requirements": {
+          "lvmin": 91,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 500000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31202,
+        "name": "Unfamiliar Faces",
+        "prevQuestId": 31201,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2131003,
+          2131007
+        ],
+        "requirements": {
+          "lvmin": 91,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 50000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31203,
+        "name": "Lazy Tess",
+        "prevQuestId": 31202,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2131003,
+          2131007
+        ],
+        "requirements": {
+          "lvmin": 91,
+          "items": [
+            {
+              "itemId": 4000436,
+              "quantity": 200
+            }
+          ],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 250000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31204,
+        "name": "Another Me?",
+        "prevQuestId": 31203,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2131000,
+          2131003
+        ],
+        "requirements": {
+          "lvmin": 91,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 100000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31205,
+        "name": "Exploration Captain, Athena Pierce",
+        "prevQuestId": 31204,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2131000,
+          2131001
+        ],
+        "requirements": {
+          "lvmin": 91,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 19800,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31206,
+        "name": "Perzen's Barrier",
+        "prevQuestId": 31205,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2131001
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 91,
+          "items": [
+            {
+              "itemId": 4033109,
+              "quantity": 100
+            }
+          ],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 300000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31207,
+        "name": "Yuris' Sudden Craving",
+        "prevQuestId": 31206,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2131002,
+          2133000
+        ],
+        "requirements": {
+          "lvmin": 91,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 50000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31208,
+        "name": "Ellin, the Forest Elf",
+        "prevQuestId": 31207,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2133000
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 91,
+          "items": [
+            {
+              "itemId": 4000436,
+              "quantity": 50
+            }
+          ],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 250000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31209,
+        "name": "An Elven Surprise",
+        "prevQuestId": 31208,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2131002,
+          2133000
+        ],
+        "requirements": {
+          "lvmin": 91,
+          "items": [
+            {
+              "itemId": 4033107,
+              "quantity": 1
+            }
+          ],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 150000,
+          "mesos": null,
+          "items": [
+            {
+              "itemId": 4033107,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 31210,
+        "name": "Lazy, Lazy Tess",
+        "prevQuestId": 31209,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2131007
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 91,
+          "items": [
+            {
+              "itemId": 4000438,
+              "quantity": 200
+            }
+          ],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 350000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31211,
+        "name": "Athena Pierce's Concerns",
+        "prevQuestId": 31210,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2131000,
+          2132003
+        ],
+        "requirements": {
+          "lvmin": 91,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 150000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31212,
+        "name": "The Violent Forest",
+        "prevQuestId": 31211,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2131000,
+          2132003
+        ],
+        "requirements": {
+          "lvmin": 91,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 4250001,
+              "quantity": 500
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 500000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31213,
+        "name": "Town Planning",
+        "prevQuestId": 31212,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2131000,
+          2132001
+        ],
+        "requirements": {
+          "lvmin": 91,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 150000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31214,
+        "name": "Lohd? Dark Lord?",
+        "prevQuestId": 31213,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2132001
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 91,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 5250000,
+              "quantity": 500
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 750000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31215,
+        "name": "Lost Child",
+        "prevQuestId": 31214,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2131003,
+          2131005
+        ],
+        "requirements": {
+          "lvmin": 91,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 100000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31216,
+        "name": "High Fever",
+        "prevQuestId": 31215,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2131003,
+          2131005
+        ],
+        "requirements": {
+          "lvmin": 91,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 100000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31217,
+        "name": "Fever Medicine",
+        "prevQuestId": 31216,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2131001,
+          2131003
+        ],
+        "requirements": {
+          "lvmin": 91,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 100000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31218,
+        "name": "Child of Destiny",
+        "prevQuestId": 31217,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2131001
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 91,
+          "items": [
+            {
+              "itemId": 4000437,
+              "quantity": 200
+            }
+          ],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 350000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31219,
+        "name": "Sion's Soulmate",
+        "prevQuestId": 31218,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2131005,
+          2132002
+        ],
+        "requirements": {
+          "lvmin": 91,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 150000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31220,
+        "name": "Source of Magic",
+        "prevQuestId": 31219,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2132002
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 91,
+          "items": [
+            {
+              "itemId": 4000439,
+              "quantity": 200
+            }
+          ],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 500000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31221,
+        "name": "Big Boar Attack!",
+        "prevQuestId": 31220,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2131003,
+          2132000
+        ],
+        "requirements": {
+          "lvmin": 91,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 150000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31222,
+        "name": "Dangerous Rocky Mountain",
+        "prevQuestId": 31221,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2132000
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 91,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 5250002,
+              "quantity": 500
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 900000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31223,
+        "name": "Boulder Mountain Menace",
+        "prevQuestId": 31222,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2132000
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 91,
+          "items": [
+            {
+              "itemId": 4000674,
+              "quantity": 1
+            },
+            {
+              "itemId": 4000440,
+              "quantity": 200
+            }
+          ],
+          "mobs": [
+            {
+              "mobId": 5250004,
+              "quantity": 1
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 1000000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31224,
+        "name": "Chao's Tusk",
+        "prevQuestId": 31223,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2131003,
+          2132000
+        ],
+        "requirements": {
+          "lvmin": 91,
+          "items": [
+            {
+              "itemId": 4033108,
+              "quantity": 1
+            }
+          ],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 500000,
+          "mesos": null,
+          "items": [
+            {
+              "itemId": 4033108,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 31225,
+        "name": "Yuris' Communication Device",
+        "prevQuestId": 31224,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2131002,
+          2133000
+        ],
+        "requirements": {
+          "lvmin": 91,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 200000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31226,
+        "name": "Darkness Draws Near",
+        "prevQuestId": 31225,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2131000,
+          2133000
+        ],
+        "requirements": {
+          "lvmin": 91,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 150000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31227,
+        "name": "Unavoidable Fate",
+        "prevQuestId": 31226,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2131000,
+          2131001
+        ],
+        "requirements": {
+          "lvmin": 91,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": 150000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31228,
+        "name": "Choosing Survival",
+        "prevQuestId": 31227,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2131001
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 91,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 5250005,
+              "quantity": 500
+            },
+            {
+              "mobId": 5250006,
+              "quantity": 500
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 1500000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31229,
+        "name": "Lady of the Corrupted Forest",
+        "prevQuestId": 31228,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2131001
+        ],
+        "requirements": {
+          "lvmin": 91,
+          "items": [],
+          "mobs": [
+            {
+              "mobId": 9303093,
+              "quantity": 1
+            }
+          ]
+        },
+        "rewards": {
+          "exp": 2000000,
+          "mesos": null,
+          "items": []
+        }
+      },
+      {
+        "id": 31232,
+        "name": "All Done in Ellin Forest",
+        "prevQuestId": 31229,
+        "areaId": 37,
+        "order": 1,
+        "npcs": [
+          2131000
+        ],
+        "normalAutoStart": 1,
+        "requirements": {
+          "lvmin": 91,
+          "items": [],
+          "mobs": []
+        },
+        "rewards": {
+          "exp": null,
+          "mesos": null,
+          "items": [
+            {
+              "itemId": 1142363,
+              "quantity": 1
+            },
+            {
+              "itemId": 1402199,
+              "quantity": 1
+            },
+            {
+              "itemId": 1432169,
+              "quantity": 1
+            },
+            {
+              "itemId": 1442225,
+              "quantity": 1
+            },
+            {
+              "itemId": 1382211,
+              "quantity": 1
+            },
+            {
+              "itemId": 1452207,
+              "quantity": 1
+            },
+            {
+              "itemId": 1462195,
+              "quantity": 1
+            },
+            {
+              "itemId": 1472216,
+              "quantity": 1
+            },
+            {
+              "itemId": 1332227,
+              "quantity": 1
+            },
+            {
+              "itemId": 1482170,
+              "quantity": 1
+            },
+            {
+              "itemId": 1492181,
+              "quantity": 1
+            }
+          ]
+        }
+      }
+    ]
+  }
+]
