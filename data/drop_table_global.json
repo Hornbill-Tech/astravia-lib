@@ -1,0 +1,443 @@
+{
+"drop_data_global": [
+	{
+		"id" : 1,
+		"continent" : -1,
+		"itemid" : 4020007,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 5000,
+		"comments" : "DIAMOND"
+	},
+	{
+		"id" : 2,
+		"continent" : -1,
+		"itemid" : 4020005,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 5000,
+		"comments" : "SAPPHIRE"
+	},
+	{
+		"id" : 3,
+		"continent" : -1,
+		"itemid" : 4020000,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 5000,
+		"comments" : "GARNET"
+	},
+	{
+		"id" : 4,
+		"continent" : -1,
+		"itemid" : 4020004,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 5000,
+		"comments" : "OPAL"
+	},
+	{
+		"id" : 5,
+		"continent" : -1,
+		"itemid" : 4020001,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 5000,
+		"comments" : "AMETHYST"
+	},
+	{
+		"id" : 6,
+		"continent" : -1,
+		"itemid" : 4020002,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 5000,
+		"comments" : "AQUAMARINE"
+	},
+	{
+		"id" : 7,
+		"continent" : -1,
+		"itemid" : 4020006,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 5000,
+		"comments" : "TOPAZ"
+	},
+	{
+		"id" : 8,
+		"continent" : -1,
+		"itemid" : 4020003,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 5000,
+		"comments" : "EMERALD"
+	},
+	{
+		"id" : 9,
+		"continent" : -1,
+		"itemid" : 4004000,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 5000,
+		"comments" : "POWER CRYSTAL"
+	},
+	{
+		"id" : 10,
+		"continent" : -1,
+		"itemid" : 4004001,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 5000,
+		"comments" : "WISDOM CRYSTAL"
+	},
+	{
+		"id" : 11,
+		"continent" : -1,
+		"itemid" : 4004003,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 5000,
+		"comments" : "LUK CRYSTAL"
+	},
+	{
+		"id" : 12,
+		"continent" : -1,
+		"itemid" : 4004002,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 5000,
+		"comments" : "DEX CRYSTAL"
+	},
+	{
+		"id" : 13,
+		"continent" : -1,
+		"itemid" : 4020008,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 5000,
+		"comments" : "BLACK CRYSTAL"
+	},
+	{
+		"id" : 14,
+		"continent" : -1,
+		"itemid" : 4004004,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 5000,
+		"comments" : "DARK CRYSTAL"
+	},
+	{
+		"id" : 15,
+		"continent" : -1,
+		"itemid" : 4010000,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 5000,
+		"comments" : "BRONZE"
+	},
+	{
+		"id" : 16,
+		"continent" : -1,
+		"itemid" : 4010001,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 5000,
+		"comments" : "STEEL"
+	},
+	{
+		"id" : 17,
+		"continent" : -1,
+		"itemid" : 4010002,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 5000,
+		"comments" : "MITHRIL"
+	},
+	{
+		"id" : 18,
+		"continent" : -1,
+		"itemid" : 4010003,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 5000,
+		"comments" : "ADAMANTIUM"
+	},
+	{
+		"id" : 19,
+		"continent" : -1,
+		"itemid" : 4010004,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 5000,
+		"comments" : "SILVER"
+	},
+	{
+		"id" : 20,
+		"continent" : -1,
+		"itemid" : 4010005,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 5000,
+		"comments" : "ORIHALCON"
+	},
+	{
+		"id" : 21,
+		"continent" : -1,
+		"itemid" : 4010006,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 5000,
+		"comments" : "GOLD"
+	},
+	{
+		"id" : 22,
+		"continent" : -1,
+		"itemid" : 4010007,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 5000,
+		"comments" : "Lidium"
+	},
+	{
+		"id" : 23,
+		"continent" : -1,
+		"itemid" : 4001126,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 80000,
+		"comments" : "Maple Leaf"
+	},
+	{
+		"id" : 24,
+		"continent" : -1,
+		"itemid" : 4000999,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 80000,
+		"comments" : "SPELL TRACE"
+	},
+	{
+		"id" : 40,
+		"continent" : -1,
+		"itemid" : 4310000,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 0,
+		"comments" : "Astravia Coin"
+	},
+	{
+		"id" : 41,
+		"continent" : -1,
+		"itemid" : 2430030,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 2500,
+		"comments" : "Spawn Totem"
+	},
+	{
+		"id" : 68,
+		"continent" : -1,
+		"itemid" : 0,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 1000000,
+		"comments" : "Gold"
+	},
+	{
+		"id" : 69,
+		"continent" : -1,
+		"itemid" : 4001253,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 0,
+		"comments" : "Casino Coin"
+	},
+	{
+		"id" : 70,
+		"continent" : -1,
+		"itemid" : 3994102,
+		"minimum_quantity" : 0,
+		"maximum_quantity" : 0,
+		"questid" : 0,
+		"chance" : 0,
+		"comments" : "N Letter"
+	},
+	{
+		"id" : 71,
+		"continent" : -1,
+		"itemid" : 3994103,
+		"minimum_quantity" : 0,
+		"maximum_quantity" : 0,
+		"questid" : 0,
+		"chance" : 0,
+		"comments" : "E Letter"
+	},
+	{
+		"id" : 72,
+		"continent" : -1,
+		"itemid" : 3994104,
+		"minimum_quantity" : 0,
+		"maximum_quantity" : 0,
+		"questid" : 0,
+		"chance" : 0,
+		"comments" : "W Letter"
+	},
+	{
+		"id" : 73,
+		"continent" : -1,
+		"itemid" : 3994105,
+		"minimum_quantity" : 0,
+		"maximum_quantity" : 0,
+		"questid" : 0,
+		"chance" : 0,
+		"comments" : "S Letter"
+	},
+	{
+		"id" : 74,
+		"continent" : -1,
+		"itemid" : 5076000,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 1000,
+		"comments" : "Item Mega"
+	},
+	{
+		"id" : 75,
+		"continent" : -1,
+		"itemid" : 5570000,
+		"minimum_quantity" : 0,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 500,
+		"comments" : "Vicious Hammer"
+	},
+	{
+		"id" : 76,
+		"continent" : -1,
+		"itemid" : 2430000,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 1500,
+		"comments" : "S Beauty Coupon"
+	},
+	{
+		"id" : 77,
+		"continent" : -1,
+		"itemid" : 5220000,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 1500,
+		"comments" : "Gachapon"
+	},
+	{
+		"id" : 78,
+		"continent" : -1,
+		"itemid" : 4031865,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 1500,
+		"comments" : "100 NX"
+	},
+	{
+		"id" : 79,
+		"continent" : -1,
+		"itemid" : 4031866,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 500,
+		"comments" : "250 NX"
+	},
+	{
+		"id" : 80,
+		"continent" : -1,
+		"itemid" : 4030012,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 50000,
+		"comments" : "Monster Card"
+	},
+	{
+		"id" : 81,
+		"continent" : -1,
+		"itemid" : 5072000,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 1000,
+		"comments" : "Super Mega"
+	},
+	{
+		"id" : 82,
+		"continent" : -1,
+		"itemid" : 2430349,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 500,
+		"comments" : "EXP Orb"
+	},
+	{
+		"id" : 83,
+		"continent" : -1,
+		"itemid" : 5200000,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 50,
+		"comments" : "Bronze Meso Sack"
+	},
+	{
+		"id" : 84,
+		"continent" : -1,
+		"itemid" : 5200001,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 25,
+		"comments" : "Silver Meso Sack"
+	},
+	{
+		"id" : 85,
+		"continent" : -1,
+		"itemid" : 5200002,
+		"minimum_quantity" : 1,
+		"maximum_quantity" : 1,
+		"questid" : 0,
+		"chance" : 10,
+		"comments" : "Gold Meso Sack"
+	}
+]}
