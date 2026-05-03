@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T07:19:12.120Z",
+  "generatedAt": "2026-05-03T17:51:37.595Z",
   "categories": [
     {
       "key": "adventurers",
@@ -5899,45 +5899,45 @@
                 {
                   "id": 1311003,
                   "name": "Dragon Fury: Spear",
-                  "description": "Sweep your spear in a wide arc, raking up to 6 nearby enemies with draconic rage.",
+                  "description": "Sweep your spear in a wide arc, raking up to 6 nearby enemies 2 times with draconic rage.",
                   "masterLevel": 30,
                   "image": "images/Skill/1311003.png",
                   "levels": [
                     {
                       "level": 1,
-                      "description": "HP - 20 , MP - 10 , Damage 153%."
-                    },
-                    {
-                      "level": 2,
-                      "description": "HP - 20 , MP - 10 , Damage 156%."
-                    },
-                    {
-                      "level": 3,
-                      "description": "HP - 20 , MP - 10 , Damage 159%."
-                    },
-                    {
-                      "level": 4,
                       "description": "HP - 20 , MP - 10 , Damage 162%."
                     },
                     {
-                      "level": 5,
-                      "description": "HP - 20 , MP - 10 , Damage 165%."
+                      "level": 2,
+                      "description": "HP - 20 , MP - 10 , Damage 164%."
                     },
                     {
-                      "level": 6,
+                      "level": 3,
+                      "description": "HP - 20 , MP - 10 , Damage 166%."
+                    },
+                    {
+                      "level": 4,
                       "description": "HP - 20 , MP - 10 , Damage 168%."
                     },
                     {
-                      "level": 7,
-                      "description": "HP - 20 , MP - 10 , Damage 171%."
+                      "level": 5,
+                      "description": "HP - 20 , MP - 10 , Damage 170%."
                     },
                     {
-                      "level": 8,
+                      "level": 6,
+                      "description": "HP - 20 , MP - 10 , Damage 172%."
+                    },
+                    {
+                      "level": 7,
                       "description": "HP - 20 , MP - 10 , Damage 174%."
                     },
                     {
+                      "level": 8,
+                      "description": "HP - 20 , MP - 10 , Damage 176%."
+                    },
+                    {
                       "level": 9,
-                      "description": "HP - 20 , MP - 10 , Damage 177%."
+                      "description": "HP - 20 , MP - 10 , Damage 178%."
                     },
                     {
                       "level": 10,
@@ -5945,83 +5945,83 @@
                     },
                     {
                       "level": 11,
-                      "description": "HP - 25 , MP - 15 , Damage 183%."
+                      "description": "HP - 25 , MP - 15 , Damage 182%."
                     },
                     {
                       "level": 12,
-                      "description": "HP - 25 , MP - 15 , Damage 186%."
+                      "description": "HP - 25 , MP - 15 , Damage 184%."
                     },
                     {
                       "level": 13,
-                      "description": "HP - 25 , MP - 15 , Damage 189%."
+                      "description": "HP - 25 , MP - 15 , Damage 186%."
                     },
                     {
                       "level": 14,
-                      "description": "HP - 25 , MP - 15 , Damage 192%."
+                      "description": "HP - 25 , MP - 15 , Damage 188%."
                     },
                     {
                       "level": 15,
-                      "description": "HP - 25 , MP - 15 , Damage 195%."
+                      "description": "HP - 25 , MP - 15 , Damage 190%."
                     },
                     {
                       "level": 16,
-                      "description": "HP - 25 , MP - 15 , Damage 198%."
+                      "description": "HP - 25 , MP - 15 , Damage 192%."
                     },
                     {
                       "level": 17,
-                      "description": "HP - 25 , MP - 15 , Damage 201%."
+                      "description": "HP - 25 , MP - 15 , Damage 194%."
                     },
                     {
                       "level": 18,
-                      "description": "HP - 25 , MP - 15 , Damage 204%."
+                      "description": "HP - 25 , MP - 15 , Damage 196%."
                     },
                     {
                       "level": 19,
-                      "description": "HP - 25 , MP - 15 , Damage 207%."
+                      "description": "HP - 25 , MP - 15 , Damage 198%."
                     },
                     {
                       "level": 20,
-                      "description": "HP - 25 , MP - 15 , Damage 210%."
+                      "description": "HP - 25 , MP - 15 , Damage 200%."
                     },
                     {
                       "level": 21,
-                      "description": "HP - 30 , MP - 20 , Damage 213%."
+                      "description": "HP - 30 , MP - 20 , Damage 202%."
                     },
                     {
                       "level": 22,
-                      "description": "HP - 30 , MP - 20 , Damage 216%."
+                      "description": "HP - 30 , MP - 20 , Damage 204%."
                     },
                     {
                       "level": 23,
-                      "description": "HP - 30 , MP - 20 , Damage 219%."
+                      "description": "HP - 30 , MP - 20 , Damage 206%."
                     },
                     {
                       "level": 24,
-                      "description": "HP - 30 , MP - 20 , Damage 222%."
+                      "description": "HP - 30 , MP - 20 , Damage 208%."
                     },
                     {
                       "level": 25,
-                      "description": "HP - 30 , MP - 20 , Damage 225%."
+                      "description": "HP - 30 , MP - 20 , Damage 210%."
                     },
                     {
                       "level": 26,
-                      "description": "HP - 30 , MP - 20 , Damage 228%."
+                      "description": "HP - 30 , MP - 20 , Damage 212%."
                     },
                     {
                       "level": 27,
-                      "description": "HP - 30 , MP - 20 , Damage 231%."
+                      "description": "HP - 30 , MP - 20 , Damage 214%."
                     },
                     {
                       "level": 28,
-                      "description": "HP - 30 , MP - 20 , Damage 234%."
+                      "description": "HP - 30 , MP - 20 , Damage 216%."
                     },
                     {
                       "level": 29,
-                      "description": "HP - 30 , MP - 20 , Damage 237%."
+                      "description": "HP - 30 , MP - 20 , Damage 218%."
                     },
                     {
                       "level": 30,
-                      "description": "HP - 30 , MP - 20 , Damage 240%."
+                      "description": "HP - 30 , MP - 20 , Damage 220%."
                     }
                   ]
                 },
@@ -7141,123 +7141,123 @@
                   "levels": [
                     {
                       "level": 1,
-                      "description": "MP - 20 , Damage 75%."
+                      "description": "MP - 20 , Damage 101%."
                     },
                     {
                       "level": 2,
-                      "description": "MP - 20 , Damage 75%."
+                      "description": "MP - 20 , Damage 102%."
                     },
                     {
                       "level": 3,
-                      "description": "MP - 20 , Damage 76%."
+                      "description": "MP - 20 , Damage 103%."
                     },
                     {
                       "level": 4,
-                      "description": "MP - 20 , Damage 77%."
+                      "description": "MP - 20 , Damage 104%."
                     },
                     {
                       "level": 5,
-                      "description": "MP - 20 , Damage 78%."
+                      "description": "MP - 20 , Damage 105%."
                     },
                     {
                       "level": 6,
-                      "description": "MP - 20 , Damage 78%."
+                      "description": "MP - 20 , Damage 106%."
                     },
                     {
                       "level": 7,
-                      "description": "MP - 20 , Damage 79%."
+                      "description": "MP - 20 , Damage 107%."
                     },
                     {
                       "level": 8,
-                      "description": "MP - 20 , Damage 80%."
+                      "description": "MP - 20 , Damage 108%."
                     },
                     {
                       "level": 9,
-                      "description": "MP - 20 , Damage 81%."
+                      "description": "MP - 20 , Damage 109%."
                     },
                     {
                       "level": 10,
-                      "description": "MP - 20 , Damage 82%."
+                      "description": "MP - 20 , Damage 110%."
                     },
                     {
                       "level": 11,
-                      "description": "MP - 20 , Damage 82%."
+                      "description": "MP - 20 , Damage 111%."
                     },
                     {
                       "level": 12,
-                      "description": "MP - 20 , Damage 83%."
+                      "description": "MP - 20 , Damage 112%."
                     },
                     {
                       "level": 13,
-                      "description": "MP - 20 , Damage 84%."
+                      "description": "MP - 20 , Damage 113%."
                     },
                     {
                       "level": 14,
-                      "description": "MP - 20 , Damage 85%."
+                      "description": "MP - 20 , Damage 114%."
                     },
                     {
                       "level": 15,
-                      "description": "MP - 20 , Damage 86%."
+                      "description": "MP - 20 , Damage 115%."
                     },
                     {
                       "level": 16,
-                      "description": "MP - 20 , Damage 86%."
+                      "description": "MP - 20 , Damage 116%."
                     },
                     {
                       "level": 17,
-                      "description": "MP - 20 , Damage 87%."
+                      "description": "MP - 20 , Damage 117%."
                     },
                     {
                       "level": 18,
-                      "description": "MP - 20 , Damage 88%."
+                      "description": "MP - 20 , Damage 118%."
                     },
                     {
                       "level": 19,
-                      "description": "MP - 20 , Damage 89%."
+                      "description": "MP - 20 , Damage 119%."
                     },
                     {
                       "level": 20,
-                      "description": "MP - 20 , Damage 90%."
+                      "description": "MP - 20 , Damage 120%."
                     },
                     {
                       "level": 21,
-                      "description": "MP - 20 , Damage 90%."
+                      "description": "MP - 20 , Damage 121%."
                     },
                     {
                       "level": 22,
-                      "description": "MP - 20 , Damage 91%."
+                      "description": "MP - 20 , Damage 122%."
                     },
                     {
                       "level": 23,
-                      "description": "MP - 20 , Damage 92%."
+                      "description": "MP - 20 , Damage 123%."
                     },
                     {
                       "level": 24,
-                      "description": "MP - 20 , Damage 93%."
+                      "description": "MP - 20 , Damage 124%."
                     },
                     {
                       "level": 25,
-                      "description": "MP - 20 , Damage 94%."
+                      "description": "MP - 20 , Damage 125%."
                     },
                     {
                       "level": 26,
-                      "description": "MP - 20 , Damage 94%."
+                      "description": "MP - 20 , Damage 126%."
                     },
                     {
                       "level": 27,
-                      "description": "MP - 20 , Damage 95%."
+                      "description": "MP - 20 , Damage 127%."
                     },
                     {
                       "level": 28,
-                      "description": "MP - 20 , Damage 96%."
+                      "description": "MP - 20 , Damage 128%."
                     },
                     {
                       "level": 29,
-                      "description": "MP - 20 , Damage 97%."
+                      "description": "MP - 20 , Damage 129%."
                     },
                     {
                       "level": 30,
-                      "description": "MP - 20 , Damage 100%."
+                      "description": "MP - 20 , Damage 130%."
                     }
                   ]
                 },
@@ -7270,123 +7270,123 @@
                   "levels": [
                     {
                       "level": 1,
-                      "description": "MP - 25 , Damage 90%."
+                      "description": "MP - 25 , Damage 219%."
                     },
                     {
                       "level": 2,
-                      "description": "MP - 25 , Damage 92%."
+                      "description": "MP - 25 , Damage 223%."
                     },
                     {
                       "level": 3,
-                      "description": "MP - 25 , Damage 94%."
+                      "description": "MP - 25 , Damage 227%."
                     },
                     {
                       "level": 4,
-                      "description": "MP - 25 , Damage 96%."
+                      "description": "MP - 25 , Damage 231%."
                     },
                     {
                       "level": 5,
-                      "description": "MP - 25 , Damage 98%."
+                      "description": "MP - 25 , Damage 235%."
                     },
                     {
                       "level": 6,
-                      "description": "MP - 25 , Damage 100%."
+                      "description": "MP - 25 , Damage 239%."
                     },
                     {
                       "level": 7,
-                      "description": "MP - 25 , Damage 102%."
+                      "description": "MP - 25 , Damage 243%."
                     },
                     {
                       "level": 8,
-                      "description": "MP - 25 , Damage 104%."
+                      "description": "MP - 25 , Damage 247%."
                     },
                     {
                       "level": 9,
-                      "description": "MP - 25 , Damage 106%."
+                      "description": "MP - 25 , Damage 251%."
                     },
                     {
                       "level": 10,
-                      "description": "MP - 25 , Damage 108%."
+                      "description": "MP - 25 , Damage 255%."
                     },
                     {
                       "level": 11,
-                      "description": "MP - 25 , Damage 110%."
+                      "description": "MP - 25 , Damage 259%."
                     },
                     {
                       "level": 12,
-                      "description": "MP - 25 , Damage 112%."
+                      "description": "MP - 25 , Damage 263%."
                     },
                     {
                       "level": 13,
-                      "description": "MP - 25 , Damage 114%."
+                      "description": "MP - 25 , Damage 267%."
                     },
                     {
                       "level": 14,
-                      "description": "MP - 25 , Damage 116%."
+                      "description": "MP - 25 , Damage 271%."
                     },
                     {
                       "level": 15,
-                      "description": "MP - 25 , Damage 118%."
+                      "description": "MP - 25 , Damage 275%."
                     },
                     {
                       "level": 16,
-                      "description": "MP - 25 , Damage 120%."
+                      "description": "MP - 25 , Damage 279%."
                     },
                     {
                       "level": 17,
-                      "description": "MP - 25 , Damage 122%."
+                      "description": "MP - 25 , Damage 283%."
                     },
                     {
                       "level": 18,
-                      "description": "MP - 25 , Damage 124%."
+                      "description": "MP - 25 , Damage 287%."
                     },
                     {
                       "level": 19,
-                      "description": "MP - 25 , Damage 126%."
+                      "description": "MP - 25 , Damage 291%."
                     },
                     {
                       "level": 20,
-                      "description": "MP - 25 , Damage 128%."
+                      "description": "MP - 25 , Damage 295%."
                     },
                     {
                       "level": 21,
-                      "description": "MP - 35 , Damage 130%."
+                      "description": "MP - 35 , Damage 299%."
                     },
                     {
                       "level": 22,
-                      "description": "MP - 35 , Damage 132%."
+                      "description": "MP - 35 , Damage 303%."
                     },
                     {
                       "level": 23,
-                      "description": "MP - 35 , Damage 134%."
+                      "description": "MP - 35 , Damage 307%."
                     },
                     {
                       "level": 24,
-                      "description": "MP - 35 , Damage 136%."
+                      "description": "MP - 35 , Damage 311%."
                     },
                     {
                       "level": 25,
-                      "description": "MP - 35 , Damage 138%."
+                      "description": "MP - 35 , Damage 315%."
                     },
                     {
                       "level": 26,
-                      "description": "MP - 35 , Damage 140%."
+                      "description": "MP - 35 , Damage 319%."
                     },
                     {
                       "level": 27,
-                      "description": "MP - 35 , Damage 142%."
+                      "description": "MP - 35 , Damage 323%."
                     },
                     {
                       "level": 28,
-                      "description": "MP - 35 , Damage 144%."
+                      "description": "MP - 35 , Damage 327%."
                     },
                     {
                       "level": 29,
-                      "description": "MP - 35 , Damage 146%."
+                      "description": "MP - 35 , Damage 331%."
                     },
                     {
                       "level": 30,
-                      "description": "MP - 35 , Damage 150%."
+                      "description": "MP - 35 , Damage 335%."
                     }
                   ]
                 }
@@ -28155,7 +28155,7 @@
                 {
                   "id": 5220002,
                   "name": "Wrath of the Octopi",
-                  "description": "Summon a second octopus turret to fight alongside the first, doubling your suppressive fire on the field.\nRequired: Octopus Lv.30.",
+                  "description": "Summon a second octopus turret to fight alongside the first, doubling your suppressive fire on the field. Required: Octopus Lv.30.",
                   "masterLevel": 20,
                   "image": "images/Skill/5220002.png",
                   "levels": [
@@ -37498,7 +37498,7 @@
                 {
                   "id": 14111000,
                   "name": "Shadow Partner",
-                  "description": "Summon a shadow ally that mimics your attacks for 600 sec.\nRequired: 1 Summoning Rock.",
+                  "description": "Summon a shadow ally that mimics your attacks for 600 sec. Required: 1 Summoning Rock.",
                   "masterLevel": 30,
                   "image": "images/Skill/14111000.png",
                   "levels": [
@@ -41661,79 +41661,79 @@
                   "levels": [
                     {
                       "level": 1,
-                      "description": "MP - 2, Damage 204%."
+                      "description": "MP - 2, Damage 210%."
                     },
                     {
                       "level": 2,
-                      "description": "MP - 2, Damage 208%."
-                    },
-                    {
-                      "level": 3,
-                      "description": "MP - 2, Damage 212%."
-                    },
-                    {
-                      "level": 4,
-                      "description": "MP - 2, Damage 216%."
-                    },
-                    {
-                      "level": 5,
                       "description": "MP - 2, Damage 220%."
                     },
                     {
+                      "level": 3,
+                      "description": "MP - 2, Damage 230%."
+                    },
+                    {
+                      "level": 4,
+                      "description": "MP - 2, Damage 240%."
+                    },
+                    {
+                      "level": 5,
+                      "description": "MP - 2, Damage 250%."
+                    },
+                    {
                       "level": 6,
-                      "description": "MP - 3, Damage 224%."
+                      "description": "MP - 3, Damage 260%."
                     },
                     {
                       "level": 7,
-                      "description": "MP - 3, Damage 228%."
+                      "description": "MP - 3, Damage 270%."
                     },
                     {
                       "level": 8,
-                      "description": "MP - 3, Damage 232%."
+                      "description": "MP - 3, Damage 280%."
                     },
                     {
                       "level": 9,
-                      "description": "MP - 3, Damage 236%."
+                      "description": "MP - 3, Damage 290%."
                     },
                     {
                       "level": 10,
-                      "description": "MP - 3, Damage 240%."
+                      "description": "MP - 3, Damage 300%."
                     },
                     {
                       "level": 11,
-                      "description": "MP - 4, Damage 244%."
+                      "description": "MP - 4, Damage 310%."
                     },
                     {
                       "level": 12,
-                      "description": "MP - 4, Damage 248%."
+                      "description": "MP - 4, Damage 320%."
                     },
                     {
                       "level": 13,
-                      "description": "MP - 4, Damage 252%."
+                      "description": "MP - 4, Damage 330%."
                     },
                     {
                       "level": 14,
-                      "description": "MP - 4, Damage 256%."
+                      "description": "MP - 4, Damage 340%."
                     },
                     {
                       "level": 15,
-                      "description": "MP - 4, Damage 260%."
+                      "description": "MP - 4, Damage 350%."
                     },
                     {
                       "level": 16,
-                      "description": "MP - 5, Damage 264%."
+                      "description": "MP - 5, Damage 360%."
                     },
                     {
                       "level": 17,
-                      "description": "MP - 5, Damage 268%."
+                      "description": "MP - 5, Damage 370%."
                     },
                     {
                       "level": 18,
-                      "description": "MP - 5, Damage 272%."
+                      "description": "MP - 5, Damage 380%."
                     },
                     {
                       "level": 19,
-                      "description": "MP - 5, Damage 276%."
+                      "description": "MP - 5, Damage 390%."
                     },
                     {
                       "level": 20,
@@ -41744,7 +41744,7 @@
                 {
                   "id": 21001001,
                   "name": "Combat Step",
-                  "description": "Quickly tap the direction key twice to dash a short distance.\nRequired Skill: #cDouble Swing Lv.5#\n[How-to: #cArrow Key: Right + Right#]",
+                  "description": "Quickly tap the direction key twice to dash a short distance. Required Skill: #cDouble Swing Lv.5# [How-to: #cArrow Key: Right + Right#]",
                   "masterLevel": 15,
                   "image": "images/Skill/21001001.png",
                   "levels": [
@@ -41916,79 +41916,79 @@
                   "levels": [
                     {
                       "level": 1,
-                      "description": "MP - 4, Damage 400%."
+                      "description": "MP - 4, Damage 410%."
                     },
                     {
                       "level": 2,
-                      "description": "MP - 4, Damage 402%."
+                      "description": "MP - 4, Damage 420%."
                     },
                     {
                       "level": 3,
-                      "description": "MP - 4, Damage 404%."
+                      "description": "MP - 4, Damage 430%."
                     },
                     {
                       "level": 4,
-                      "description": "MP - 4, Damage 406%."
+                      "description": "MP - 4, Damage 440%."
                     },
                     {
                       "level": 5,
-                      "description": "MP - 4, Damage 408%."
+                      "description": "MP - 4, Damage 450%."
                     },
                     {
                       "level": 6,
-                      "description": "MP - 5, Damage 410%."
+                      "description": "MP - 5, Damage 460%."
                     },
                     {
                       "level": 7,
-                      "description": "MP - 5, Damage 412%."
+                      "description": "MP - 5, Damage 470%."
                     },
                     {
                       "level": 8,
-                      "description": "MP - 5, Damage 414%."
+                      "description": "MP - 5, Damage 480%."
                     },
                     {
                       "level": 9,
-                      "description": "MP - 5, Damage 416%."
+                      "description": "MP - 5, Damage 490%."
                     },
                     {
                       "level": 10,
-                      "description": "MP - 5, Damage 418%."
+                      "description": "MP - 5, Damage 500%."
                     },
                     {
                       "level": 11,
-                      "description": "MP - 6, Damage 420%."
+                      "description": "MP - 6, Damage 510%."
                     },
                     {
                       "level": 12,
-                      "description": "MP - 6, Damage 422%."
+                      "description": "MP - 6, Damage 520%."
                     },
                     {
                       "level": 13,
-                      "description": "MP - 6, Damage 424%."
+                      "description": "MP - 6, Damage 530%."
                     },
                     {
                       "level": 14,
-                      "description": "MP - 6, Damage 426%."
+                      "description": "MP - 6, Damage 540%."
                     },
                     {
                       "level": 15,
-                      "description": "MP - 6, Damage 428%."
+                      "description": "MP - 6, Damage 550%."
                     },
                     {
                       "level": 16,
-                      "description": "MP - 7, Damage 430%."
+                      "description": "MP - 7, Damage 560%."
                     },
                     {
                       "level": 17,
-                      "description": "MP - 7, Damage 432%."
+                      "description": "MP - 7, Damage 570%."
                     },
                     {
                       "level": 18,
-                      "description": "MP - 7, Damage 434%."
+                      "description": "MP - 7, Damage 580%."
                     },
                     {
                       "level": 19,
-                      "description": "MP - 7, Damage 436%."
+                      "description": "MP - 7, Damage 590%."
                     },
                     {
                       "level": 20,
@@ -42492,89 +42492,89 @@
                 {
                   "id": 21110002,
                   "name": "Full Swing",
-                  "description": "Sharpen both Double Swing and Triple Swing into deadlier sweeps.\\nRequired Skill: #cTriple Swing Lv.20#",
+                  "description": "While Full Swing is mastered, Double Swing hits 3 times instead of 2 and Triple Swing hits 4 times instead of 3.\\nRequired Skill: #cTriple Swing Lv.20#",
                   "masterLevel": 20,
                   "image": "images/Skill/21110002.png",
                   "levels": [
                     {
                       "level": 1,
-                      "description": "Double Swing MP -6, 2nd attack damage 144%, Triple Swing MP -8, Damage 500%"
+                      "description": "Double Swing: 3 hits, Damage 210% per hit, MP -6. Triple Swing: 4 hits, Damage 410% per hit, MP -8."
                     },
                     {
                       "level": 2,
-                      "description": "Double Swing MP -6, 2nd attack damage 148%, Triple Swing MP -8, Damage 504%"
+                      "description": "Double Swing: 3 hits, Damage 220% per hit, MP -6. Triple Swing: 4 hits, Damage 420% per hit, MP -8."
                     },
                     {
                       "level": 3,
-                      "description": "Double Swing MP -6, 2nd attack damage 152%, Triple Swing MP -8, Damage 508%"
+                      "description": "Double Swing: 3 hits, Damage 230% per hit, MP -6. Triple Swing: 4 hits, Damage 430% per hit, MP -8."
                     },
                     {
                       "level": 4,
-                      "description": "Double Swing MP -6, 2nd attack damage 156%, Triple Swing MP -8, Damage 512%"
+                      "description": "Double Swing: 3 hits, Damage 240% per hit, MP -6. Triple Swing: 4 hits, Damage 440% per hit, MP -8."
                     },
                     {
                       "level": 5,
-                      "description": "Double Swing MP -6, 2nd attack damage 160%, Triple Swing MP -10, Damage 516%"
+                      "description": "Double Swing: 3 hits, Damage 250% per hit, MP -6. Triple Swing: 4 hits, Damage 450% per hit, MP -8."
                     },
                     {
                       "level": 6,
-                      "description": "Double Swing MP -8, 2nd attack damage 164%, Triple Swing MP -10, Damage 520%"
+                      "description": "Double Swing: 3 hits, Damage 260% per hit, MP -8. Triple Swing: 4 hits, Damage 460% per hit, MP -10."
                     },
                     {
                       "level": 7,
-                      "description": "Double Swing MP -8, 2nd attack damage 168%, Triple Swing MP -10, Damage 524%"
+                      "description": "Double Swing: 3 hits, Damage 270% per hit, MP -8. Triple Swing: 4 hits, Damage 470% per hit, MP -10."
                     },
                     {
                       "level": 8,
-                      "description": "Double Swing MP -8, 2nd attack damage 172%, Triple Swing MP -16, Damage 528%"
+                      "description": "Double Swing: 3 hits, Damage 280% per hit, MP -8. Triple Swing: 4 hits, Damage 480% per hit, MP -10."
                     },
                     {
                       "level": 9,
-                      "description": "Double Swing MP -8, 2nd attack damage 176%, Triple Swing MP -12, Damage 532%"
+                      "description": "Double Swing: 3 hits, Damage 290% per hit, MP -8. Triple Swing: 4 hits, Damage 490% per hit, MP -10."
                     },
                     {
                       "level": 10,
-                      "description": "Double Swing MP -8, 2nd attack damage 180%, Triple Swing MP -12, Damage 536%"
+                      "description": "Double Swing: 3 hits, Damage 300% per hit, MP -8. Triple Swing: 4 hits, Damage 500% per hit, MP -10."
                     },
                     {
                       "level": 11,
-                      "description": "Double Swing MP -10, 2nd attack damage 184%, Triple Swing MP -12, Damage 540%"
+                      "description": "Double Swing: 3 hits, Damage 310% per hit, MP -10. Triple Swing: 4 hits, Damage 510% per hit, MP -12."
                     },
                     {
                       "level": 12,
-                      "description": "Double Swing MP -10, 2nd attack damage 188%, Triple Swing MP -12, Damage 544%"
+                      "description": "Double Swing: 3 hits, Damage 320% per hit, MP -10. Triple Swing: 4 hits, Damage 520% per hit, MP -12."
                     },
                     {
                       "level": 13,
-                      "description": "Double Swing MP -10, 2nd attack damage 192%, Triple Swing MP -14, Damage 548%"
+                      "description": "Double Swing: 3 hits, Damage 330% per hit, MP -10. Triple Swing: 4 hits, Damage 530% per hit, MP -12."
                     },
                     {
                       "level": 14,
-                      "description": "Double Swing MP -10, 2nd attack damage 196%, Triple Swing MP -14, Damage 552%"
+                      "description": "Double Swing: 3 hits, Damage 340% per hit, MP -10. Triple Swing: 4 hits, Damage 540% per hit, MP -12."
                     },
                     {
                       "level": 15,
-                      "description": "Double Swing MP -10, 2nd attack damage 200%, Triple Swing MP -14, Damage 556%"
+                      "description": "Double Swing: 3 hits, Damage 350% per hit, MP -10. Triple Swing: 4 hits, Damage 550% per hit, MP -12."
                     },
                     {
                       "level": 16,
-                      "description": "Double Swing MP -12, 2nd attack damage 204%, Triple Swing MP -14, Damage 560%"
+                      "description": "Double Swing: 3 hits, Damage 360% per hit, MP -12. Triple Swing: 4 hits, Damage 560% per hit, MP -14."
                     },
                     {
                       "level": 17,
-                      "description": "Double Swing MP -12, 2nd attack damage 208%, Triple Swing MP -14, Damage 564%"
+                      "description": "Double Swing: 3 hits, Damage 370% per hit, MP -12. Triple Swing: 4 hits, Damage 570% per hit, MP -14."
                     },
                     {
                       "level": 18,
-                      "description": "Double Swing MP -12, 2nd attack damage 212%, Triple Swing MP -14, Damage 568%"
+                      "description": "Double Swing: 3 hits, Damage 380% per hit, MP -12. Triple Swing: 4 hits, Damage 580% per hit, MP -14."
                     },
                     {
                       "level": 19,
-                      "description": "Double Swing MP -12, 2nd attack damage 216%, Triple Swing MP -14, Damage 572%"
+                      "description": "Double Swing: 3 hits, Damage 390% per hit, MP -12. Triple Swing: 4 hits, Damage 590% per hit, MP -14."
                     },
                     {
                       "level": 20,
-                      "description": "Double Swing MP -12, 2nd attack damage 220%, Triple Swing MP -14, Damage 576%"
+                      "description": "Double Swing: 3 hits, Damage 400% per hit, MP -12. Triple Swing: 4 hits, Damage 600% per hit, MP -14."
                     }
                   ]
                 },
@@ -42716,123 +42716,123 @@
                   "levels": [
                     {
                       "level": 1,
-                      "description": "Damage 655%, attacks up to 4 monsters."
+                      "description": "Damage 310%, attacks up to 4 monsters."
                     },
                     {
                       "level": 2,
-                      "description": "Damage 660%, attacks up to 4 monsters."
+                      "description": "Damage 320%, attacks up to 4 monsters."
                     },
                     {
                       "level": 3,
-                      "description": "Damage 665%, attacks up to 4 monsters."
+                      "description": "Damage 330%, attacks up to 4 monsters."
                     },
                     {
                       "level": 4,
-                      "description": "Damage 670%, attacks up to 4 monsters."
+                      "description": "Damage 340%, attacks up to 4 monsters."
                     },
                     {
                       "level": 5,
-                      "description": "Damage 675%, attacks up to 4 monsters."
+                      "description": "Damage 350%, attacks up to 4 monsters."
                     },
                     {
                       "level": 6,
-                      "description": "Damage 680%, attacks up to 5 monsters."
+                      "description": "Damage 360%, attacks up to 5 monsters."
                     },
                     {
                       "level": 7,
-                      "description": "Damage 685%, attacks up to 5 monsters."
+                      "description": "Damage 370%, attacks up to 5 monsters."
                     },
                     {
                       "level": 8,
-                      "description": "Damage 690%, attacks up to 5 monsters."
+                      "description": "Damage 380%, attacks up to 5 monsters."
                     },
                     {
                       "level": 9,
-                      "description": "Damage 695%, attacks up to 5 monsters."
+                      "description": "Damage 390%, attacks up to 5 monsters."
                     },
                     {
                       "level": 10,
-                      "description": "Damage 700%, attacks up to 5 monsters."
+                      "description": "Damage 400%, attacks up to 5 monsters."
                     },
                     {
                       "level": 11,
-                      "description": "Damage 705%, attacks up to 6 monsters."
+                      "description": "Damage 410%, attacks up to 6 monsters."
                     },
                     {
                       "level": 12,
-                      "description": "Damage 710%, attacks up to 6 monsters."
+                      "description": "Damage 420%, attacks up to 6 monsters."
                     },
                     {
                       "level": 13,
-                      "description": "Damage 715%, attacks up to 6 monsters."
+                      "description": "Damage 430%, attacks up to 6 monsters."
                     },
                     {
                       "level": 14,
-                      "description": "Damage 720%, attacks up to 6 monsters."
+                      "description": "Damage 440%, attacks up to 6 monsters."
                     },
                     {
                       "level": 15,
-                      "description": "Damage 725%, attacks up to 6 monsters."
+                      "description": "Damage 450%, attacks up to 6 monsters."
                     },
                     {
                       "level": 16,
-                      "description": "Damage 730%, attacks up to 7 monsters."
+                      "description": "Damage 460%, attacks up to 7 monsters."
                     },
                     {
                       "level": 17,
-                      "description": "Damage 735%, attacks up to 7 monsters."
+                      "description": "Damage 470%, attacks up to 7 monsters."
                     },
                     {
                       "level": 18,
-                      "description": "Damage 740%, attacks up to 7 monsters."
+                      "description": "Damage 480%, attacks up to 7 monsters."
                     },
                     {
                       "level": 19,
-                      "description": "Damage 745%, attacks up to 7 monsters."
+                      "description": "Damage 490%, attacks up to 7 monsters."
                     },
                     {
                       "level": 20,
-                      "description": "Damage 750%, attacks up to 7 monsters."
+                      "description": "Damage 500%, attacks up to 7 monsters."
                     },
                     {
                       "level": 21,
-                      "description": "Damage 755%, attacks up to 8 monsters."
+                      "description": "Damage 510%, attacks up to 8 monsters."
                     },
                     {
                       "level": 22,
-                      "description": "Damage 760%, attacks up to 8 monsters."
+                      "description": "Damage 520%, attacks up to 8 monsters."
                     },
                     {
                       "level": 23,
-                      "description": "Damage 765%, attacks up to 8 monsters."
+                      "description": "Damage 530%, attacks up to 8 monsters."
                     },
                     {
                       "level": 24,
-                      "description": "Damage 770%, attacks up to 8 monsters."
+                      "description": "Damage 540%, attacks up to 8 monsters."
                     },
                     {
                       "level": 25,
-                      "description": "Damage 775%, attacks up to 8 monsters."
+                      "description": "Damage 550%, attacks up to 8 monsters."
                     },
                     {
                       "level": 26,
-                      "description": "Damage 780%, attacks up to 9 monsters."
+                      "description": "Damage 560%, attacks up to 9 monsters."
                     },
                     {
                       "level": 27,
-                      "description": "Damage 785%, attacks up to 9 monsters."
+                      "description": "Damage 570%, attacks up to 9 monsters."
                     },
                     {
                       "level": 28,
-                      "description": "Damage 790%, attacks up to 9 monsters."
+                      "description": "Damage 580%, attacks up to 9 monsters."
                     },
                     {
                       "level": 29,
-                      "description": "Damage 795%, attacks up to 9 monsters."
+                      "description": "Damage 590%, attacks up to 9 monsters."
                     },
                     {
                       "level": 30,
-                      "description": "Damage 800%, attacks up to 10 monsters."
+                      "description": "Damage 600%, attacks up to 10 monsters."
                     }
                   ]
                 },
@@ -42928,7 +42928,7 @@
                 {
                   "id": 21110007,
                   "name": "(hidden) Full Swing - Double Swing",
-                  "description": "(Hidden) Bonus second strike of Double Swing on up to 12 enemies once Full Swing is mastered.",
+                  "description": "(Hidden) Full Swing follow-up to Double Swing, striking up to 12 enemies 3 times once Full Swing is mastered.",
                   "masterLevel": 0,
                   "image": "images/Skill/21110007.png",
                   "levels": []
@@ -42936,7 +42936,7 @@
                 {
                   "id": 21110008,
                   "name": "(hidden) Full Swing - Triple Swing",
-                  "description": "(Hidden) Bonus third strike of Triple Swing on up to 12 enemies once Full Swing is mastered.",
+                  "description": "(Hidden) Full Swing follow-up to Triple Swing, striking up to 12 enemies 4 times once Full Swing is mastered.",
                   "masterLevel": 0,
                   "image": "images/Skill/21110008.png",
                   "levels": []
