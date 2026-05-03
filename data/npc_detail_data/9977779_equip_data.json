@@ -1,0 +1,6624 @@
+{
+  "Warrior": [
+    {
+      "name": "Lionheart Set",
+      "recipes": [
+        {
+          "name": "Lionheart Hat",
+          "itemId": 1003172,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1004234,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4021000,
+              "amount": 20
+            },
+            {
+              "itemId": 4021004,
+              "amount": 20
+            },
+            {
+              "itemId": 4000642,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000643,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000659,
+              "amount": 2
+            }
+          ],
+          "cost": 200000000,
+          "requiredLevel": 130,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Lionheart Overall",
+          "itemId": 1052314,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1052804,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4021006,
+              "amount": 20
+            },
+            {
+              "itemId": 4021003,
+              "amount": 20
+            },
+            {
+              "itemId": 4000644,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000645,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000659,
+              "amount": 2
+            }
+          ],
+          "cost": 925000000,
+          "requiredLevel": 130,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Lionheart Shoes",
+          "itemId": 1072485,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1072972,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4005003,
+              "amount": 20
+            },
+            {
+              "itemId": 4005002,
+              "amount": 20
+            },
+            {
+              "itemId": 4000646,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000647,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000659,
+              "amount": 2
+            }
+          ],
+          "cost": 200000000,
+          "requiredLevel": 130,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Lionheart Gloves",
+          "itemId": 1082295,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1082613,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4005000,
+              "amount": 20
+            },
+            {
+              "itemId": 4005001,
+              "amount": 20
+            },
+            {
+              "itemId": 4000648,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000649,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000659,
+              "amount": 2
+            }
+          ],
+          "cost": 200000000,
+          "requiredLevel": 130,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Lionheart Cape",
+          "itemId": 1102275,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1102713,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4021001,
+              "amount": 20
+            },
+            {
+              "itemId": 4021002,
+              "amount": 20
+            },
+            {
+              "itemId": 4000650,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000651,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000659,
+              "amount": 2
+            }
+          ],
+          "cost": 200000000,
+          "requiredLevel": 130,
+          "requiredMakerLevel": 3
+        }
+      ]
+    },
+    {
+      "name": "Amaterasu Set",
+      "recipes": [
+        {
+          "name": "Amaterasu Hat",
+          "itemId": 1003601,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1003172,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250200,
+              "amount": 20
+            },
+            {
+              "itemId": 4250300,
+              "amount": 20
+            },
+            {
+              "itemId": 4000652,
+              "amount": 800
+            },
+            {
+              "itemId": 4000653,
+              "amount": 800
+            },
+            {
+              "itemId": 4000654,
+              "amount": 800
+            },
+            {
+              "itemId": 4036346,
+              "amount": 800
+            },
+            {
+              "itemId": 4033732,
+              "amount": 2
+            },
+            {
+              "itemId": 4001890,
+              "amount": 2
+            }
+          ],
+          "cost": 380000000,
+          "requiredLevel": 140,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Amaterasu Overall",
+          "itemId": 1052509,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1052314,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250600,
+              "amount": 20
+            },
+            {
+              "itemId": 4250700,
+              "amount": 20
+            },
+            {
+              "itemId": 4000655,
+              "amount": 800
+            },
+            {
+              "itemId": 4000656,
+              "amount": 800
+            },
+            {
+              "itemId": 4000657,
+              "amount": 800
+            },
+            {
+              "itemId": 4034077,
+              "amount": 800
+            },
+            {
+              "itemId": 4001894,
+              "amount": 2
+            },
+            {
+              "itemId": 4001893,
+              "amount": 2
+            }
+          ],
+          "cost": 1325000000,
+          "requiredLevel": 140,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Amaterasu Shoes",
+          "itemId": 1072711,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1072485,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4251000,
+              "amount": 20
+            },
+            {
+              "itemId": 4251100,
+              "amount": 20
+            },
+            {
+              "itemId": 4000658,
+              "amount": 800
+            },
+            {
+              "itemId": 4000704,
+              "amount": 800
+            },
+            {
+              "itemId": 4000705,
+              "amount": 800
+            },
+            {
+              "itemId": 4034137,
+              "amount": 800
+            },
+            {
+              "itemId": 4033732,
+              "amount": 2
+            },
+            {
+              "itemId": 4001893,
+              "amount": 2
+            }
+          ],
+          "cost": 380000000,
+          "requiredLevel": 140,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Amaterasu Gloves",
+          "itemId": 1082472,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1082295,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250800,
+              "amount": 20
+            },
+            {
+              "itemId": 4250900,
+              "amount": 20
+            },
+            {
+              "itemId": 4000707,
+              "amount": 800
+            },
+            {
+              "itemId": 4000709,
+              "amount": 800
+            },
+            {
+              "itemId": 4000706,
+              "amount": 800
+            },
+            {
+              "itemId": 4000734,
+              "amount": 800
+            },
+            {
+              "itemId": 4001890,
+              "amount": 2
+            },
+            {
+              "itemId": 4001894,
+              "amount": 2
+            }
+          ],
+          "cost": 380000000,
+          "requiredLevel": 140,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Amaterasu Cape",
+          "itemId": 1102456,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1102275,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250400,
+              "amount": 20
+            },
+            {
+              "itemId": 4250500,
+              "amount": 20
+            },
+            {
+              "itemId": 4000710,
+              "amount": 800
+            },
+            {
+              "itemId": 4000712,
+              "amount": 800
+            },
+            {
+              "itemId": 4000711,
+              "amount": 800
+            },
+            {
+              "itemId": 4000735,
+              "amount": 800
+            },
+            {
+              "itemId": 4033732,
+              "amount": 2
+            },
+            {
+              "itemId": 4001894,
+              "amount": 2
+            }
+          ],
+          "cost": 380000000,
+          "requiredLevel": 140,
+          "requiredMakerLevel": 3
+        }
+      ]
+    },
+    {
+      "name": "Absolab Set",
+      "recipes": [
+        {
+          "name": "Absolab Hat",
+          "itemId": 1004422,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1003601,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250201,
+              "amount": 20
+            },
+            {
+              "itemId": 4250301,
+              "amount": 20
+            },
+            {
+              "itemId": 4001897,
+              "amount": 2
+            },
+            {
+              "itemId": 4000727,
+              "amount": 400
+            },
+            {
+              "itemId": 4000730,
+              "amount": 400
+            },
+            {
+              "itemId": 4000740,
+              "amount": 400
+            },
+            {
+              "itemId": 4000743,
+              "amount": 400
+            },
+            {
+              "itemId": 4000736,
+              "amount": 400
+            },
+            {
+              "itemId": 4036147,
+              "amount": 400
+            },
+            {
+              "itemId": 4034887,
+              "amount": 400
+            },
+            {
+              "itemId": 4009340,
+              "amount": 400
+            },
+            {
+              "itemId": 4023025,
+              "amount": 400
+            },
+            {
+              "itemId": 4036492,
+              "amount": 400
+            },
+            {
+              "itemId": 4036140,
+              "amount": 400
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 150,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Absolab Overall",
+          "itemId": 1052882,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1052509,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250601,
+              "amount": 20
+            },
+            {
+              "itemId": 4250701,
+              "amount": 20
+            },
+            {
+              "itemId": 4001897,
+              "amount": 3
+            },
+            {
+              "itemId": 4000741,
+              "amount": 400
+            },
+            {
+              "itemId": 4000744,
+              "amount": 400
+            },
+            {
+              "itemId": 4000739,
+              "amount": 400
+            },
+            {
+              "itemId": 4000729,
+              "amount": 400
+            },
+            {
+              "itemId": 4001674,
+              "amount": 400
+            },
+            {
+              "itemId": 4036493,
+              "amount": 400
+            },
+            {
+              "itemId": 4031568,
+              "amount": 400
+            },
+            {
+              "itemId": 4034414,
+              "amount": 400
+            },
+            {
+              "itemId": 4036508,
+              "amount": 400
+            },
+            {
+              "itemId": 4036145,
+              "amount": 400
+            },
+            {
+              "itemId": 4036146,
+              "amount": 400
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 150,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Absolab Shoes",
+          "itemId": 1073030,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1072711,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4251001,
+              "amount": 20
+            },
+            {
+              "itemId": 4251101,
+              "amount": 20
+            },
+            {
+              "itemId": 4001897,
+              "amount": 3
+            },
+            {
+              "itemId": 4000728,
+              "amount": 400
+            },
+            {
+              "itemId": 4000731,
+              "amount": 400
+            },
+            {
+              "itemId": 4000733,
+              "amount": 400
+            },
+            {
+              "itemId": 4000732,
+              "amount": 400
+            },
+            {
+              "itemId": 4009219,
+              "amount": 400
+            },
+            {
+              "itemId": 4036494,
+              "amount": 400
+            },
+            {
+              "itemId": 4034658,
+              "amount": 400
+            },
+            {
+              "itemId": 4033401,
+              "amount": 400
+            },
+            {
+              "itemId": 4032434,
+              "amount": 400
+            },
+            {
+              "itemId": 4033664,
+              "amount": 400
+            },
+            {
+              "itemId": 4033733,
+              "amount": 400
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 150,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Absolab Gloves",
+          "itemId": 1082636,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1082472,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250801,
+              "amount": 20
+            },
+            {
+              "itemId": 4250901,
+              "amount": 20
+            },
+            {
+              "itemId": 4001897,
+              "amount": 3
+            },
+            {
+              "itemId": 4000734,
+              "amount": 400
+            },
+            {
+              "itemId": 4000735,
+              "amount": 400
+            },
+            {
+              "itemId": 4000736,
+              "amount": 400
+            },
+            {
+              "itemId": 4000738,
+              "amount": 400
+            },
+            {
+              "itemId": 4009220,
+              "amount": 400
+            },
+            {
+              "itemId": 4036495,
+              "amount": 400
+            },
+            {
+              "itemId": 4036021,
+              "amount": 400
+            },
+            {
+              "itemId": 4032434,
+              "amount": 400
+            },
+            {
+              "itemId": 4036508,
+              "amount": 400
+            },
+            {
+              "itemId": 4036169,
+              "amount": 400
+            },
+            {
+              "itemId": 4036170,
+              "amount": 400
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 150,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Absolab Cape",
+          "itemId": 1102775,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1102456,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250401,
+              "amount": 20
+            },
+            {
+              "itemId": 4250501,
+              "amount": 20
+            },
+            {
+              "itemId": 4001897,
+              "amount": 3
+            },
+            {
+              "itemId": 4000737,
+              "amount": 400
+            },
+            {
+              "itemId": 4034426,
+              "amount": 400
+            },
+            {
+              "itemId": 4033907,
+              "amount": 400
+            },
+            {
+              "itemId": 4036348,
+              "amount": 400
+            },
+            {
+              "itemId": 4009221,
+              "amount": 400
+            },
+            {
+              "itemId": 4036452,
+              "amount": 400
+            },
+            {
+              "itemId": 4034000,
+              "amount": 400
+            },
+            {
+              "itemId": 4170023,
+              "amount": 400
+            },
+            {
+              "itemId": 4023025,
+              "amount": 400
+            },
+            {
+              "itemId": 4034867,
+              "amount": 400
+            },
+            {
+              "itemId": 4034889,
+              "amount": 400
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 1,
+          "requiredMakerLevel": 3
+        }
+      ]
+    },
+    {
+      "name": "Arcane Umbra Set",
+      "recipes": [
+        {
+          "name": "Arcane Umbra Hat",
+          "itemId": 1004808,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1004422,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250202,
+              "amount": 15
+            },
+            {
+              "itemId": 4250302,
+              "amount": 15
+            },
+            {
+              "itemId": 4036535,
+              "amount": 3
+            },
+            {
+              "itemId": 4036536,
+              "amount": 3
+            },
+            {
+              "itemId": 4036537,
+              "amount": 3
+            },
+            {
+              "itemId": 4036538,
+              "amount": 3
+            },
+            {
+              "itemId": 4033427,
+              "amount": 200
+            },
+            {
+              "itemId": 4036143,
+              "amount": 200
+            },
+            {
+              "itemId": 4036151,
+              "amount": 200
+            },
+            {
+              "itemId": 4036491,
+              "amount": 200
+            },
+            {
+              "itemId": 4034914,
+              "amount": 200
+            },
+            {
+              "itemId": 4034915,
+              "amount": 200
+            },
+            {
+              "itemId": 4034916,
+              "amount": 200
+            },
+            {
+              "itemId": 4034917,
+              "amount": 200
+            },
+            {
+              "itemId": 4034918,
+              "amount": 200
+            },
+            {
+              "itemId": 4034919,
+              "amount": 200
+            },
+            {
+              "itemId": 4034920,
+              "amount": 200
+            },
+            {
+              "itemId": 4034930,
+              "amount": 200
+            },
+            {
+              "itemId": 4034950,
+              "amount": 200
+            },
+            {
+              "itemId": 4034951,
+              "amount": 200
+            },
+            {
+              "itemId": 4034946,
+              "amount": 200
+            },
+            {
+              "itemId": 4034948,
+              "amount": 200
+            },
+            {
+              "itemId": 4021022,
+              "amount": 200
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 190,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Arcane Umbra Overall",
+          "itemId": 1053063,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1052882,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250602,
+              "amount": 15
+            },
+            {
+              "itemId": 4250702,
+              "amount": 15
+            },
+            {
+              "itemId": 4036535,
+              "amount": 3
+            },
+            {
+              "itemId": 4036536,
+              "amount": 3
+            },
+            {
+              "itemId": 4036537,
+              "amount": 3
+            },
+            {
+              "itemId": 4036538,
+              "amount": 3
+            },
+            {
+              "itemId": 4036141,
+              "amount": 200
+            },
+            {
+              "itemId": 4036490,
+              "amount": 200
+            },
+            {
+              "itemId": 4036144,
+              "amount": 200
+            },
+            {
+              "itemId": 4036451,
+              "amount": 200
+            },
+            {
+              "itemId": 4034952,
+              "amount": 200
+            },
+            {
+              "itemId": 4034953,
+              "amount": 200
+            },
+            {
+              "itemId": 4034954,
+              "amount": 200
+            },
+            {
+              "itemId": 4034955,
+              "amount": 200
+            },
+            {
+              "itemId": 4034956,
+              "amount": 200
+            },
+            {
+              "itemId": 4034957,
+              "amount": 200
+            },
+            {
+              "itemId": 4034942,
+              "amount": 200
+            },
+            {
+              "itemId": 4034943,
+              "amount": 200
+            },
+            {
+              "itemId": 4034944,
+              "amount": 200
+            },
+            {
+              "itemId": 4034945,
+              "amount": 200
+            },
+            {
+              "itemId": 4034947,
+              "amount": 200
+            },
+            {
+              "itemId": 4034949,
+              "amount": 200
+            },
+            {
+              "itemId": 4031453,
+              "amount": 200
+            }
+          ],
+          "cost": 1850000000,
+          "requiredLevel": 1,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Arcane Umbra Shoes",
+          "itemId": 1073158,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1073030,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4251002,
+              "amount": 15
+            },
+            {
+              "itemId": 4251102,
+              "amount": 15
+            },
+            {
+              "itemId": 4036535,
+              "amount": 3
+            },
+            {
+              "itemId": 4036536,
+              "amount": 3
+            },
+            {
+              "itemId": 4036537,
+              "amount": 3
+            },
+            {
+              "itemId": 4036538,
+              "amount": 3
+            },
+            {
+              "itemId": 4036453,
+              "amount": 200
+            },
+            {
+              "itemId": 4033658,
+              "amount": 200
+            },
+            {
+              "itemId": 4033665,
+              "amount": 200
+            },
+            {
+              "itemId": 4000736,
+              "amount": 200
+            },
+            {
+              "itemId": 4034983,
+              "amount": 200
+            },
+            {
+              "itemId": 4034981,
+              "amount": 200
+            },
+            {
+              "itemId": 4034982,
+              "amount": 200
+            },
+            {
+              "itemId": 4034979,
+              "amount": 200
+            },
+            {
+              "itemId": 4034980,
+              "amount": 200
+            },
+            {
+              "itemId": 4034994,
+              "amount": 200
+            },
+            {
+              "itemId": 4001878,
+              "amount": 200
+            },
+            {
+              "itemId": 4036096,
+              "amount": 200
+            },
+            {
+              "itemId": 4036097,
+              "amount": 200
+            },
+            {
+              "itemId": 4036098,
+              "amount": 200
+            },
+            {
+              "itemId": 4036099,
+              "amount": 200
+            },
+            {
+              "itemId": 4036100,
+              "amount": 200
+            },
+            {
+              "itemId": 4021040,
+              "amount": 200
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 190,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Arcane Umbra Gloves",
+          "itemId": 1082695,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1082636,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250802,
+              "amount": 15
+            },
+            {
+              "itemId": 4250902,
+              "amount": 15
+            },
+            {
+              "itemId": 4036535,
+              "amount": 3
+            },
+            {
+              "itemId": 4036536,
+              "amount": 3
+            },
+            {
+              "itemId": 4036537,
+              "amount": 3
+            },
+            {
+              "itemId": 4036538,
+              "amount": 3
+            },
+            {
+              "itemId": 4036171,
+              "amount": 200
+            },
+            {
+              "itemId": 4036163,
+              "amount": 200
+            },
+            {
+              "itemId": 4036167,
+              "amount": 200
+            },
+            {
+              "itemId": 4036164,
+              "amount": 200
+            },
+            {
+              "itemId": 4034295,
+              "amount": 200
+            },
+            {
+              "itemId": 4034296,
+              "amount": 200
+            },
+            {
+              "itemId": 4036309,
+              "amount": 200
+            },
+            {
+              "itemId": 4033935,
+              "amount": 200
+            },
+            {
+              "itemId": 4033936,
+              "amount": 200
+            },
+            {
+              "itemId": 4036335,
+              "amount": 200
+            },
+            {
+              "itemId": 4036336,
+              "amount": 200
+            },
+            {
+              "itemId": 4036312,
+              "amount": 200
+            },
+            {
+              "itemId": 4009005,
+              "amount": 200
+            },
+            {
+              "itemId": 4036398,
+              "amount": 200
+            },
+            {
+              "itemId": 4036399,
+              "amount": 200
+            },
+            {
+              "itemId": 4036400,
+              "amount": 200
+            },
+            {
+              "itemId": 4031453,
+              "amount": 200
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 190,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Arcane Umbra Cape",
+          "itemId": 1102940,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1102775,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250402,
+              "amount": 15
+            },
+            {
+              "itemId": 4250502,
+              "amount": 15
+            },
+            {
+              "itemId": 4036535,
+              "amount": 3
+            },
+            {
+              "itemId": 4036536,
+              "amount": 3
+            },
+            {
+              "itemId": 4036537,
+              "amount": 3
+            },
+            {
+              "itemId": 4036538,
+              "amount": 3
+            },
+            {
+              "itemId": 4036168,
+              "amount": 200
+            },
+            {
+              "itemId": 4031929,
+              "amount": 200
+            },
+            {
+              "itemId": 4000590,
+              "amount": 200
+            },
+            {
+              "itemId": 4034156,
+              "amount": 200
+            },
+            {
+              "itemId": 4036401,
+              "amount": 200
+            },
+            {
+              "itemId": 4036402,
+              "amount": 200
+            },
+            {
+              "itemId": 4036403,
+              "amount": 200
+            },
+            {
+              "itemId": 4036404,
+              "amount": 200
+            },
+            {
+              "itemId": 4036405,
+              "amount": 200
+            },
+            {
+              "itemId": 4036406,
+              "amount": 200
+            },
+            {
+              "itemId": 4036407,
+              "amount": 200
+            },
+            {
+              "itemId": 4036456,
+              "amount": 200
+            },
+            {
+              "itemId": 4036457,
+              "amount": 200
+            },
+            {
+              "itemId": 4036446,
+              "amount": 200
+            },
+            {
+              "itemId": 4001889,
+              "amount": 200
+            },
+            {
+              "itemId": 4036444,
+              "amount": 200
+            },
+            {
+              "itemId": 4021040,
+              "amount": 200
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 190,
+          "requiredMakerLevel": 3
+        }
+      ]
+    }
+  ],
+  "Magician": [
+    {
+      "name": "Lionheart Set",
+      "recipes": [
+        {
+          "name": "Lionheart Hat",
+          "itemId": 1003173,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1004235,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4021000,
+              "amount": 20
+            },
+            {
+              "itemId": 4021004,
+              "amount": 20
+            },
+            {
+              "itemId": 4000642,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000643,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000659,
+              "amount": 2
+            }
+          ],
+          "cost": 200000000,
+          "requiredLevel": 130,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Lionheart Overall",
+          "itemId": 1052315,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1052805,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4021006,
+              "amount": 20
+            },
+            {
+              "itemId": 4021003,
+              "amount": 20
+            },
+            {
+              "itemId": 4000644,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000645,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000659,
+              "amount": 2
+            }
+          ],
+          "cost": 925000000,
+          "requiredLevel": 130,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Lionheart Shoes",
+          "itemId": 1072486,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1072973,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4005003,
+              "amount": 20
+            },
+            {
+              "itemId": 4005002,
+              "amount": 20
+            },
+            {
+              "itemId": 4000646,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000647,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000659,
+              "amount": 2
+            }
+          ],
+          "cost": 200000000,
+          "requiredLevel": 130,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Lionheart Gloves",
+          "itemId": 1082296,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1082614,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4005000,
+              "amount": 20
+            },
+            {
+              "itemId": 4005001,
+              "amount": 20
+            },
+            {
+              "itemId": 4000648,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000649,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000659,
+              "amount": 2
+            }
+          ],
+          "cost": 200000000,
+          "requiredLevel": 130,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Lionheart Cape",
+          "itemId": 1102276,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1102714,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4021001,
+              "amount": 20
+            },
+            {
+              "itemId": 4021002,
+              "amount": 20
+            },
+            {
+              "itemId": 4000650,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000651,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000659,
+              "amount": 2
+            }
+          ],
+          "cost": 200000000,
+          "requiredLevel": 130,
+          "requiredMakerLevel": 3
+        }
+      ]
+    },
+    {
+      "name": "Amaterasu Set",
+      "recipes": [
+        {
+          "name": "Amaterasu Hat",
+          "itemId": 1003603,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1003173,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250200,
+              "amount": 20
+            },
+            {
+              "itemId": 4250300,
+              "amount": 20
+            },
+            {
+              "itemId": 4000652,
+              "amount": 800
+            },
+            {
+              "itemId": 4000653,
+              "amount": 800
+            },
+            {
+              "itemId": 4000654,
+              "amount": 800
+            },
+            {
+              "itemId": 4036346,
+              "amount": 800
+            },
+            {
+              "itemId": 4033732,
+              "amount": 2
+            },
+            {
+              "itemId": 4001890,
+              "amount": 2
+            }
+          ],
+          "cost": 380000000,
+          "requiredLevel": 140,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Amaterasu Overall",
+          "itemId": 1052511,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1052315,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250600,
+              "amount": 20
+            },
+            {
+              "itemId": 4250700,
+              "amount": 20
+            },
+            {
+              "itemId": 4000655,
+              "amount": 800
+            },
+            {
+              "itemId": 4000656,
+              "amount": 800
+            },
+            {
+              "itemId": 4000657,
+              "amount": 800
+            },
+            {
+              "itemId": 4034077,
+              "amount": 800
+            },
+            {
+              "itemId": 4001894,
+              "amount": 2
+            },
+            {
+              "itemId": 4001893,
+              "amount": 2
+            }
+          ],
+          "cost": 1325000000,
+          "requiredLevel": 140,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Amaterasu Shoes",
+          "itemId": 1072713,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1072486,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4251000,
+              "amount": 20
+            },
+            {
+              "itemId": 4251100,
+              "amount": 20
+            },
+            {
+              "itemId": 4000658,
+              "amount": 800
+            },
+            {
+              "itemId": 4000704,
+              "amount": 800
+            },
+            {
+              "itemId": 4000705,
+              "amount": 800
+            },
+            {
+              "itemId": 4034137,
+              "amount": 800
+            },
+            {
+              "itemId": 4033732,
+              "amount": 2
+            },
+            {
+              "itemId": 4001893,
+              "amount": 2
+            }
+          ],
+          "cost": 380000000,
+          "requiredLevel": 140,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Amaterasu Gloves",
+          "itemId": 1082474,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1082296,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250800,
+              "amount": 20
+            },
+            {
+              "itemId": 4250900,
+              "amount": 20
+            },
+            {
+              "itemId": 4000707,
+              "amount": 800
+            },
+            {
+              "itemId": 4000709,
+              "amount": 800
+            },
+            {
+              "itemId": 4000706,
+              "amount": 800
+            },
+            {
+              "itemId": 4000734,
+              "amount": 800
+            },
+            {
+              "itemId": 4001890,
+              "amount": 2
+            },
+            {
+              "itemId": 4001894,
+              "amount": 2
+            }
+          ],
+          "cost": 380000000,
+          "requiredLevel": 140,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Amaterasu Cape",
+          "itemId": 1102458,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1102276,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250400,
+              "amount": 20
+            },
+            {
+              "itemId": 4250500,
+              "amount": 20
+            },
+            {
+              "itemId": 4000710,
+              "amount": 800
+            },
+            {
+              "itemId": 4000712,
+              "amount": 800
+            },
+            {
+              "itemId": 4000711,
+              "amount": 800
+            },
+            {
+              "itemId": 4000735,
+              "amount": 800
+            },
+            {
+              "itemId": 4033732,
+              "amount": 2
+            },
+            {
+              "itemId": 4001894,
+              "amount": 2
+            }
+          ],
+          "cost": 380000000,
+          "requiredLevel": 140,
+          "requiredMakerLevel": 3
+        }
+      ]
+    },
+    {
+      "name": "Absolab Set",
+      "recipes": [
+        {
+          "name": "Absolab Hat",
+          "itemId": 1004423,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1003603,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250201,
+              "amount": 20
+            },
+            {
+              "itemId": 4250301,
+              "amount": 20
+            },
+            {
+              "itemId": 4001897,
+              "amount": 1
+            },
+            {
+              "itemId": 4033732,
+              "amount": 2
+            },
+            {
+              "itemId": 4001890,
+              "amount": 2
+            },
+            {
+              "itemId": 4001894,
+              "amount": 2
+            },
+            {
+              "itemId": 4000727,
+              "amount": 400
+            },
+            {
+              "itemId": 4000730,
+              "amount": 400
+            },
+            {
+              "itemId": 4000740,
+              "amount": 400
+            },
+            {
+              "itemId": 4000743,
+              "amount": 400
+            },
+            {
+              "itemId": 4000736,
+              "amount": 400
+            },
+            {
+              "itemId": 4036147,
+              "amount": 400
+            },
+            {
+              "itemId": 4034887,
+              "amount": 400
+            },
+            {
+              "itemId": 4009340,
+              "amount": 400
+            },
+            {
+              "itemId": 4023025,
+              "amount": 400
+            },
+            {
+              "itemId": 4036492,
+              "amount": 400
+            },
+            {
+              "itemId": 4036140,
+              "amount": 400
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 150,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Absolab Overall",
+          "itemId": 1052887,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1052511,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250601,
+              "amount": 20
+            },
+            {
+              "itemId": 4250701,
+              "amount": 20
+            },
+            {
+              "itemId": 4001897,
+              "amount": 3
+            },
+            {
+              "itemId": 4000741,
+              "amount": 400
+            },
+            {
+              "itemId": 4000744,
+              "amount": 400
+            },
+            {
+              "itemId": 4000739,
+              "amount": 400
+            },
+            {
+              "itemId": 4000729,
+              "amount": 400
+            },
+            {
+              "itemId": 4001674,
+              "amount": 400
+            },
+            {
+              "itemId": 4036493,
+              "amount": 400
+            },
+            {
+              "itemId": 4031568,
+              "amount": 400
+            },
+            {
+              "itemId": 4034414,
+              "amount": 400
+            },
+            {
+              "itemId": 4036508,
+              "amount": 400
+            },
+            {
+              "itemId": 4036145,
+              "amount": 400
+            },
+            {
+              "itemId": 4036146,
+              "amount": 400
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 150,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Absolab Shoes",
+          "itemId": 1073032,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1072713,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4251001,
+              "amount": 20
+            },
+            {
+              "itemId": 4251101,
+              "amount": 20
+            },
+            {
+              "itemId": 4001897,
+              "amount": 3
+            },
+            {
+              "itemId": 4000728,
+              "amount": 400
+            },
+            {
+              "itemId": 4000731,
+              "amount": 400
+            },
+            {
+              "itemId": 4000733,
+              "amount": 400
+            },
+            {
+              "itemId": 4000732,
+              "amount": 400
+            },
+            {
+              "itemId": 4009219,
+              "amount": 400
+            },
+            {
+              "itemId": 4036494,
+              "amount": 400
+            },
+            {
+              "itemId": 4034658,
+              "amount": 400
+            },
+            {
+              "itemId": 4033401,
+              "amount": 400
+            },
+            {
+              "itemId": 4032434,
+              "amount": 400
+            },
+            {
+              "itemId": 4033664,
+              "amount": 400
+            },
+            {
+              "itemId": 4033733,
+              "amount": 400
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 150,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Absolab Gloves",
+          "itemId": 1082637,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1082474,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250801,
+              "amount": 20
+            },
+            {
+              "itemId": 4250901,
+              "amount": 20
+            },
+            {
+              "itemId": 4001897,
+              "amount": 3
+            },
+            {
+              "itemId": 4000734,
+              "amount": 400
+            },
+            {
+              "itemId": 4000735,
+              "amount": 400
+            },
+            {
+              "itemId": 4000736,
+              "amount": 400
+            },
+            {
+              "itemId": 4000738,
+              "amount": 400
+            },
+            {
+              "itemId": 4009220,
+              "amount": 400
+            },
+            {
+              "itemId": 4036495,
+              "amount": 400
+            },
+            {
+              "itemId": 4036021,
+              "amount": 400
+            },
+            {
+              "itemId": 4032434,
+              "amount": 400
+            },
+            {
+              "itemId": 4036508,
+              "amount": 400
+            },
+            {
+              "itemId": 4036169,
+              "amount": 400
+            },
+            {
+              "itemId": 4036170,
+              "amount": 400
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 150,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Absolab Cape",
+          "itemId": 1102794,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1102458,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250401,
+              "amount": 20
+            },
+            {
+              "itemId": 4250501,
+              "amount": 20
+            },
+            {
+              "itemId": 4001897,
+              "amount": 3
+            },
+            {
+              "itemId": 4000737,
+              "amount": 400
+            },
+            {
+              "itemId": 4034426,
+              "amount": 400
+            },
+            {
+              "itemId": 4033907,
+              "amount": 400
+            },
+            {
+              "itemId": 4036348,
+              "amount": 400
+            },
+            {
+              "itemId": 4009221,
+              "amount": 400
+            },
+            {
+              "itemId": 4036452,
+              "amount": 400
+            },
+            {
+              "itemId": 4034000,
+              "amount": 400
+            },
+            {
+              "itemId": 4170023,
+              "amount": 400
+            },
+            {
+              "itemId": 4023025,
+              "amount": 400
+            },
+            {
+              "itemId": 4034867,
+              "amount": 400
+            },
+            {
+              "itemId": 4034889,
+              "amount": 400
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 150,
+          "requiredMakerLevel": 3
+        }
+      ]
+    },
+    {
+      "name": "Arcane Umbra Set",
+      "recipes": [
+        {
+          "name": "Arcane Umbra Hat",
+          "itemId": 1004809,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1004423,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250202,
+              "amount": 15
+            },
+            {
+              "itemId": 4250302,
+              "amount": 15
+            },
+            {
+              "itemId": 4036535,
+              "amount": 3
+            },
+            {
+              "itemId": 4036536,
+              "amount": 3
+            },
+            {
+              "itemId": 4036537,
+              "amount": 3
+            },
+            {
+              "itemId": 4036538,
+              "amount": 3
+            },
+            {
+              "itemId": 4033427,
+              "amount": 200
+            },
+            {
+              "itemId": 4036143,
+              "amount": 200
+            },
+            {
+              "itemId": 4036151,
+              "amount": 200
+            },
+            {
+              "itemId": 4036491,
+              "amount": 200
+            },
+            {
+              "itemId": 4034914,
+              "amount": 200
+            },
+            {
+              "itemId": 4034915,
+              "amount": 200
+            },
+            {
+              "itemId": 4034916,
+              "amount": 200
+            },
+            {
+              "itemId": 4034917,
+              "amount": 200
+            },
+            {
+              "itemId": 4034918,
+              "amount": 200
+            },
+            {
+              "itemId": 4034919,
+              "amount": 200
+            },
+            {
+              "itemId": 4034920,
+              "amount": 200
+            },
+            {
+              "itemId": 4034930,
+              "amount": 200
+            },
+            {
+              "itemId": 4034950,
+              "amount": 200
+            },
+            {
+              "itemId": 4034951,
+              "amount": 200
+            },
+            {
+              "itemId": 4034946,
+              "amount": 200
+            },
+            {
+              "itemId": 4034948,
+              "amount": 200
+            },
+            {
+              "itemId": 4021022,
+              "amount": 200
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 190,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Arcane Umbra Overall",
+          "itemId": 1053064,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1052887,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250602,
+              "amount": 15
+            },
+            {
+              "itemId": 4250702,
+              "amount": 15
+            },
+            {
+              "itemId": 4036535,
+              "amount": 3
+            },
+            {
+              "itemId": 4036536,
+              "amount": 3
+            },
+            {
+              "itemId": 4036537,
+              "amount": 3
+            },
+            {
+              "itemId": 4036538,
+              "amount": 3
+            },
+            {
+              "itemId": 4036141,
+              "amount": 200
+            },
+            {
+              "itemId": 4036490,
+              "amount": 200
+            },
+            {
+              "itemId": 4036144,
+              "amount": 200
+            },
+            {
+              "itemId": 4036451,
+              "amount": 200
+            },
+            {
+              "itemId": 4034952,
+              "amount": 200
+            },
+            {
+              "itemId": 4034953,
+              "amount": 200
+            },
+            {
+              "itemId": 4034954,
+              "amount": 200
+            },
+            {
+              "itemId": 4034955,
+              "amount": 200
+            },
+            {
+              "itemId": 4034956,
+              "amount": 200
+            },
+            {
+              "itemId": 4034957,
+              "amount": 200
+            },
+            {
+              "itemId": 4034942,
+              "amount": 200
+            },
+            {
+              "itemId": 4034943,
+              "amount": 200
+            },
+            {
+              "itemId": 4034944,
+              "amount": 200
+            },
+            {
+              "itemId": 4034945,
+              "amount": 200
+            },
+            {
+              "itemId": 4034947,
+              "amount": 200
+            },
+            {
+              "itemId": 4034949,
+              "amount": 200
+            },
+            {
+              "itemId": 4031453,
+              "amount": 200
+            }
+          ],
+          "cost": 1850000000,
+          "requiredLevel": 190,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Arcane Umbra Shoes",
+          "itemId": 1073159,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1073032,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4251002,
+              "amount": 15
+            },
+            {
+              "itemId": 4251102,
+              "amount": 15
+            },
+            {
+              "itemId": 4036535,
+              "amount": 3
+            },
+            {
+              "itemId": 4036536,
+              "amount": 3
+            },
+            {
+              "itemId": 4036537,
+              "amount": 3
+            },
+            {
+              "itemId": 4036538,
+              "amount": 3
+            },
+            {
+              "itemId": 4036453,
+              "amount": 200
+            },
+            {
+              "itemId": 4033658,
+              "amount": 200
+            },
+            {
+              "itemId": 4033665,
+              "amount": 200
+            },
+            {
+              "itemId": 4000736,
+              "amount": 200
+            },
+            {
+              "itemId": 4034983,
+              "amount": 200
+            },
+            {
+              "itemId": 4034981,
+              "amount": 200
+            },
+            {
+              "itemId": 4034982,
+              "amount": 200
+            },
+            {
+              "itemId": 4034979,
+              "amount": 200
+            },
+            {
+              "itemId": 4034980,
+              "amount": 200
+            },
+            {
+              "itemId": 4034994,
+              "amount": 200
+            },
+            {
+              "itemId": 4001878,
+              "amount": 200
+            },
+            {
+              "itemId": 4036096,
+              "amount": 200
+            },
+            {
+              "itemId": 4036097,
+              "amount": 200
+            },
+            {
+              "itemId": 4036098,
+              "amount": 200
+            },
+            {
+              "itemId": 4036099,
+              "amount": 200
+            },
+            {
+              "itemId": 4036100,
+              "amount": 200
+            },
+            {
+              "itemId": 4021040,
+              "amount": 200
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 190,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Arcane Umbra Gloves",
+          "itemId": 1082696,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1082637,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250802,
+              "amount": 15
+            },
+            {
+              "itemId": 4250902,
+              "amount": 15
+            },
+            {
+              "itemId": 4036535,
+              "amount": 3
+            },
+            {
+              "itemId": 4036536,
+              "amount": 3
+            },
+            {
+              "itemId": 4036537,
+              "amount": 3
+            },
+            {
+              "itemId": 4036538,
+              "amount": 3
+            },
+            {
+              "itemId": 4036171,
+              "amount": 200
+            },
+            {
+              "itemId": 4036163,
+              "amount": 200
+            },
+            {
+              "itemId": 4036167,
+              "amount": 200
+            },
+            {
+              "itemId": 4036164,
+              "amount": 200
+            },
+            {
+              "itemId": 4034295,
+              "amount": 200
+            },
+            {
+              "itemId": 4034296,
+              "amount": 200
+            },
+            {
+              "itemId": 4036309,
+              "amount": 200
+            },
+            {
+              "itemId": 4033935,
+              "amount": 200
+            },
+            {
+              "itemId": 4033936,
+              "amount": 200
+            },
+            {
+              "itemId": 4036335,
+              "amount": 200
+            },
+            {
+              "itemId": 4036336,
+              "amount": 200
+            },
+            {
+              "itemId": 4036312,
+              "amount": 200
+            },
+            {
+              "itemId": 4009005,
+              "amount": 200
+            },
+            {
+              "itemId": 4036398,
+              "amount": 200
+            },
+            {
+              "itemId": 4036399,
+              "amount": 200
+            },
+            {
+              "itemId": 4036400,
+              "amount": 200
+            },
+            {
+              "itemId": 4031453,
+              "amount": 200
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 190,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Arcane Umbra Cape",
+          "itemId": 1102941,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1102794,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250402,
+              "amount": 15
+            },
+            {
+              "itemId": 4250502,
+              "amount": 15
+            },
+            {
+              "itemId": 4036535,
+              "amount": 3
+            },
+            {
+              "itemId": 4036536,
+              "amount": 3
+            },
+            {
+              "itemId": 4036537,
+              "amount": 3
+            },
+            {
+              "itemId": 4036538,
+              "amount": 3
+            },
+            {
+              "itemId": 4036168,
+              "amount": 200
+            },
+            {
+              "itemId": 4031929,
+              "amount": 200
+            },
+            {
+              "itemId": 4000590,
+              "amount": 200
+            },
+            {
+              "itemId": 4034156,
+              "amount": 200
+            },
+            {
+              "itemId": 4036401,
+              "amount": 200
+            },
+            {
+              "itemId": 4036402,
+              "amount": 200
+            },
+            {
+              "itemId": 4036403,
+              "amount": 200
+            },
+            {
+              "itemId": 4036404,
+              "amount": 200
+            },
+            {
+              "itemId": 4036405,
+              "amount": 200
+            },
+            {
+              "itemId": 4036406,
+              "amount": 200
+            },
+            {
+              "itemId": 4036407,
+              "amount": 200
+            },
+            {
+              "itemId": 4036456,
+              "amount": 200
+            },
+            {
+              "itemId": 4036457,
+              "amount": 200
+            },
+            {
+              "itemId": 4036446,
+              "amount": 200
+            },
+            {
+              "itemId": 4001889,
+              "amount": 200
+            },
+            {
+              "itemId": 4036444,
+              "amount": 200
+            },
+            {
+              "itemId": 4021040,
+              "amount": 200
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 190,
+          "requiredMakerLevel": 3
+        }
+      ]
+    }
+  ],
+  "Bowman": [
+    {
+      "name": "Lionheart Set",
+      "recipes": [
+        {
+          "name": "Lionheart Hat",
+          "itemId": 1003174,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1004236,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4021000,
+              "amount": 20
+            },
+            {
+              "itemId": 4021004,
+              "amount": 20
+            },
+            {
+              "itemId": 4000642,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000643,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000659,
+              "amount": 2
+            }
+          ],
+          "cost": 200000000,
+          "requiredLevel": 130,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Lionheart Overall",
+          "itemId": 1052316,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1052806,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4021006,
+              "amount": 20
+            },
+            {
+              "itemId": 4021003,
+              "amount": 20
+            },
+            {
+              "itemId": 4000644,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000645,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000659,
+              "amount": 2
+            }
+          ],
+          "cost": 925000000,
+          "requiredLevel": 130,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Lionheart Shoes",
+          "itemId": 1072487,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1072974,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4005003,
+              "amount": 20
+            },
+            {
+              "itemId": 4005002,
+              "amount": 20
+            },
+            {
+              "itemId": 4000646,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000647,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000659,
+              "amount": 2
+            }
+          ],
+          "cost": 200000000,
+          "requiredLevel": 130,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Lionheart Gloves",
+          "itemId": 1082297,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1082615,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4005000,
+              "amount": 20
+            },
+            {
+              "itemId": 4005001,
+              "amount": 20
+            },
+            {
+              "itemId": 4000648,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000649,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000659,
+              "amount": 2
+            }
+          ],
+          "cost": 200000000,
+          "requiredLevel": 130,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Lionheart Cape",
+          "itemId": 1102277,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1102715,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4021001,
+              "amount": 20
+            },
+            {
+              "itemId": 4021002,
+              "amount": 20
+            },
+            {
+              "itemId": 4000650,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000651,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000659,
+              "amount": 2
+            }
+          ],
+          "cost": 200000000,
+          "requiredLevel": 130,
+          "requiredMakerLevel": 3
+        }
+      ]
+    },
+    {
+      "name": "Amaterasu Set",
+      "recipes": [
+        {
+          "name": "Amaterasu Hat",
+          "itemId": 1003602,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1003174,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250200,
+              "amount": 20
+            },
+            {
+              "itemId": 4250300,
+              "amount": 20
+            },
+            {
+              "itemId": 4000652,
+              "amount": 800
+            },
+            {
+              "itemId": 4000653,
+              "amount": 800
+            },
+            {
+              "itemId": 4000654,
+              "amount": 800
+            },
+            {
+              "itemId": 4036346,
+              "amount": 800
+            },
+            {
+              "itemId": 4033732,
+              "amount": 2
+            },
+            {
+              "itemId": 4001890,
+              "amount": 2
+            }
+          ],
+          "cost": 380000000,
+          "requiredLevel": 140,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Amaterasu Overall",
+          "itemId": 1052510,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1052316,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250600,
+              "amount": 20
+            },
+            {
+              "itemId": 4250700,
+              "amount": 20
+            },
+            {
+              "itemId": 4000655,
+              "amount": 800
+            },
+            {
+              "itemId": 4000656,
+              "amount": 800
+            },
+            {
+              "itemId": 4000657,
+              "amount": 800
+            },
+            {
+              "itemId": 4034077,
+              "amount": 800
+            },
+            {
+              "itemId": 4001894,
+              "amount": 2
+            },
+            {
+              "itemId": 4001893,
+              "amount": 2
+            }
+          ],
+          "cost": 1325000000,
+          "requiredLevel": 140,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Amaterasu Shoes",
+          "itemId": 1072712,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1072487,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4251000,
+              "amount": 20
+            },
+            {
+              "itemId": 4251100,
+              "amount": 20
+            },
+            {
+              "itemId": 4000658,
+              "amount": 800
+            },
+            {
+              "itemId": 4000704,
+              "amount": 800
+            },
+            {
+              "itemId": 4000705,
+              "amount": 800
+            },
+            {
+              "itemId": 4034137,
+              "amount": 800
+            },
+            {
+              "itemId": 4033732,
+              "amount": 2
+            },
+            {
+              "itemId": 4001893,
+              "amount": 2
+            }
+          ],
+          "cost": 380000000,
+          "requiredLevel": 140,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Amaterasu Gloves",
+          "itemId": 1082473,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1082297,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250800,
+              "amount": 20
+            },
+            {
+              "itemId": 4250900,
+              "amount": 20
+            },
+            {
+              "itemId": 4000707,
+              "amount": 800
+            },
+            {
+              "itemId": 4000709,
+              "amount": 800
+            },
+            {
+              "itemId": 4000706,
+              "amount": 800
+            },
+            {
+              "itemId": 4000734,
+              "amount": 800
+            },
+            {
+              "itemId": 4001890,
+              "amount": 2
+            },
+            {
+              "itemId": 4001894,
+              "amount": 2
+            }
+          ],
+          "cost": 380000000,
+          "requiredLevel": 140,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Amaterasu Cape",
+          "itemId": 1102457,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1102277,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250400,
+              "amount": 20
+            },
+            {
+              "itemId": 4250500,
+              "amount": 20
+            },
+            {
+              "itemId": 4000710,
+              "amount": 800
+            },
+            {
+              "itemId": 4000712,
+              "amount": 800
+            },
+            {
+              "itemId": 4000711,
+              "amount": 800
+            },
+            {
+              "itemId": 4000735,
+              "amount": 800
+            },
+            {
+              "itemId": 4033732,
+              "amount": 2
+            },
+            {
+              "itemId": 4001894,
+              "amount": 2
+            }
+          ],
+          "cost": 380000000,
+          "requiredLevel": 140,
+          "requiredMakerLevel": 3
+        }
+      ]
+    },
+    {
+      "name": "Absolab Set",
+      "recipes": [
+        {
+          "name": "Absolab Hat",
+          "itemId": 1004424,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1003602,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250201,
+              "amount": 20
+            },
+            {
+              "itemId": 4250301,
+              "amount": 20
+            },
+            {
+              "itemId": 4001897,
+              "amount": 3
+            },
+            {
+              "itemId": 4000727,
+              "amount": 400
+            },
+            {
+              "itemId": 4000730,
+              "amount": 400
+            },
+            {
+              "itemId": 4000740,
+              "amount": 400
+            },
+            {
+              "itemId": 4000743,
+              "amount": 400
+            },
+            {
+              "itemId": 4000736,
+              "amount": 400
+            },
+            {
+              "itemId": 4036147,
+              "amount": 400
+            },
+            {
+              "itemId": 4034887,
+              "amount": 400
+            },
+            {
+              "itemId": 4009340,
+              "amount": 400
+            },
+            {
+              "itemId": 4023025,
+              "amount": 400
+            },
+            {
+              "itemId": 4036492,
+              "amount": 400
+            },
+            {
+              "itemId": 4036140,
+              "amount": 400
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 150,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Absolab Overall",
+          "itemId": 1052888,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1052510,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250601,
+              "amount": 20
+            },
+            {
+              "itemId": 4250701,
+              "amount": 20
+            },
+            {
+              "itemId": 4001897,
+              "amount": 3
+            },
+            {
+              "itemId": 4000741,
+              "amount": 400
+            },
+            {
+              "itemId": 4000744,
+              "amount": 400
+            },
+            {
+              "itemId": 4000739,
+              "amount": 400
+            },
+            {
+              "itemId": 4000729,
+              "amount": 400
+            },
+            {
+              "itemId": 4001674,
+              "amount": 400
+            },
+            {
+              "itemId": 4036493,
+              "amount": 400
+            },
+            {
+              "itemId": 4031568,
+              "amount": 400
+            },
+            {
+              "itemId": 4034414,
+              "amount": 400
+            },
+            {
+              "itemId": 4036508,
+              "amount": 400
+            },
+            {
+              "itemId": 4036145,
+              "amount": 400
+            },
+            {
+              "itemId": 4036146,
+              "amount": 400
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 150,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Absolab Shoes",
+          "itemId": 1073033,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1072712,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4251001,
+              "amount": 20
+            },
+            {
+              "itemId": 4251101,
+              "amount": 20
+            },
+            {
+              "itemId": 4001897,
+              "amount": 3
+            },
+            {
+              "itemId": 4000728,
+              "amount": 400
+            },
+            {
+              "itemId": 4000731,
+              "amount": 400
+            },
+            {
+              "itemId": 4000733,
+              "amount": 400
+            },
+            {
+              "itemId": 4000732,
+              "amount": 400
+            },
+            {
+              "itemId": 4009219,
+              "amount": 400
+            },
+            {
+              "itemId": 4036494,
+              "amount": 400
+            },
+            {
+              "itemId": 4034658,
+              "amount": 400
+            },
+            {
+              "itemId": 4033401,
+              "amount": 400
+            },
+            {
+              "itemId": 4032434,
+              "amount": 400
+            },
+            {
+              "itemId": 4033664,
+              "amount": 400
+            },
+            {
+              "itemId": 4033733,
+              "amount": 400
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 150,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Absolab Gloves",
+          "itemId": 1082638,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1082473,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250801,
+              "amount": 20
+            },
+            {
+              "itemId": 4250901,
+              "amount": 20
+            },
+            {
+              "itemId": 4001897,
+              "amount": 3
+            },
+            {
+              "itemId": 4000734,
+              "amount": 400
+            },
+            {
+              "itemId": 4000735,
+              "amount": 400
+            },
+            {
+              "itemId": 4000736,
+              "amount": 400
+            },
+            {
+              "itemId": 4000738,
+              "amount": 400
+            },
+            {
+              "itemId": 4009220,
+              "amount": 400
+            },
+            {
+              "itemId": 4036495,
+              "amount": 400
+            },
+            {
+              "itemId": 4036021,
+              "amount": 400
+            },
+            {
+              "itemId": 4032434,
+              "amount": 400
+            },
+            {
+              "itemId": 4036508,
+              "amount": 400
+            },
+            {
+              "itemId": 4036169,
+              "amount": 400
+            },
+            {
+              "itemId": 4036170,
+              "amount": 400
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 150,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Absolab Cape",
+          "itemId": 1102795,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1102457,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250401,
+              "amount": 20
+            },
+            {
+              "itemId": 4250501,
+              "amount": 20
+            },
+            {
+              "itemId": 4001897,
+              "amount": 3
+            },
+            {
+              "itemId": 4000737,
+              "amount": 400
+            },
+            {
+              "itemId": 4034426,
+              "amount": 400
+            },
+            {
+              "itemId": 4033907,
+              "amount": 400
+            },
+            {
+              "itemId": 4036348,
+              "amount": 400
+            },
+            {
+              "itemId": 4009221,
+              "amount": 400
+            },
+            {
+              "itemId": 4036452,
+              "amount": 400
+            },
+            {
+              "itemId": 4034000,
+              "amount": 400
+            },
+            {
+              "itemId": 4170023,
+              "amount": 400
+            },
+            {
+              "itemId": 4023025,
+              "amount": 400
+            },
+            {
+              "itemId": 4034867,
+              "amount": 400
+            },
+            {
+              "itemId": 4034889,
+              "amount": 400
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 150,
+          "requiredMakerLevel": 3
+        }
+      ]
+    },
+    {
+      "name": "Arcane Umbra Set",
+      "recipes": [
+        {
+          "name": "Arcane Umbra Hat",
+          "itemId": 1004810,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1004424,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250202,
+              "amount": 15
+            },
+            {
+              "itemId": 4250302,
+              "amount": 15
+            },
+            {
+              "itemId": 4036535,
+              "amount": 3
+            },
+            {
+              "itemId": 4036536,
+              "amount": 3
+            },
+            {
+              "itemId": 4036537,
+              "amount": 3
+            },
+            {
+              "itemId": 4036538,
+              "amount": 3
+            },
+            {
+              "itemId": 4033427,
+              "amount": 200
+            },
+            {
+              "itemId": 4036143,
+              "amount": 200
+            },
+            {
+              "itemId": 4036151,
+              "amount": 200
+            },
+            {
+              "itemId": 4036491,
+              "amount": 200
+            },
+            {
+              "itemId": 4034914,
+              "amount": 200
+            },
+            {
+              "itemId": 4034915,
+              "amount": 200
+            },
+            {
+              "itemId": 4034916,
+              "amount": 200
+            },
+            {
+              "itemId": 4034917,
+              "amount": 200
+            },
+            {
+              "itemId": 4034918,
+              "amount": 200
+            },
+            {
+              "itemId": 4034919,
+              "amount": 200
+            },
+            {
+              "itemId": 4034920,
+              "amount": 200
+            },
+            {
+              "itemId": 4034930,
+              "amount": 200
+            },
+            {
+              "itemId": 4034950,
+              "amount": 200
+            },
+            {
+              "itemId": 4034951,
+              "amount": 200
+            },
+            {
+              "itemId": 4034946,
+              "amount": 200
+            },
+            {
+              "itemId": 4034948,
+              "amount": 200
+            },
+            {
+              "itemId": 4021022,
+              "amount": 200
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 190,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Arcane Umbra Overall",
+          "itemId": 1053065,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1052888,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250602,
+              "amount": 15
+            },
+            {
+              "itemId": 4250702,
+              "amount": 15
+            },
+            {
+              "itemId": 4036535,
+              "amount": 3
+            },
+            {
+              "itemId": 4036536,
+              "amount": 3
+            },
+            {
+              "itemId": 4036537,
+              "amount": 3
+            },
+            {
+              "itemId": 4036538,
+              "amount": 3
+            },
+            {
+              "itemId": 4036141,
+              "amount": 200
+            },
+            {
+              "itemId": 4036490,
+              "amount": 200
+            },
+            {
+              "itemId": 4036144,
+              "amount": 200
+            },
+            {
+              "itemId": 4036451,
+              "amount": 200
+            },
+            {
+              "itemId": 4034952,
+              "amount": 200
+            },
+            {
+              "itemId": 4034953,
+              "amount": 200
+            },
+            {
+              "itemId": 4034954,
+              "amount": 200
+            },
+            {
+              "itemId": 4034955,
+              "amount": 200
+            },
+            {
+              "itemId": 4034956,
+              "amount": 200
+            },
+            {
+              "itemId": 4034957,
+              "amount": 200
+            },
+            {
+              "itemId": 4034942,
+              "amount": 200
+            },
+            {
+              "itemId": 4034943,
+              "amount": 200
+            },
+            {
+              "itemId": 4034944,
+              "amount": 200
+            },
+            {
+              "itemId": 4034945,
+              "amount": 200
+            },
+            {
+              "itemId": 4034947,
+              "amount": 200
+            },
+            {
+              "itemId": 4034949,
+              "amount": 200
+            },
+            {
+              "itemId": 4031453,
+              "amount": 200
+            }
+          ],
+          "cost": 1850000000,
+          "requiredLevel": 190,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Arcane Umbra Shoes",
+          "itemId": 1073160,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1073033,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4251002,
+              "amount": 15
+            },
+            {
+              "itemId": 4251102,
+              "amount": 15
+            },
+            {
+              "itemId": 4036535,
+              "amount": 3
+            },
+            {
+              "itemId": 4036536,
+              "amount": 3
+            },
+            {
+              "itemId": 4036537,
+              "amount": 3
+            },
+            {
+              "itemId": 4036538,
+              "amount": 3
+            },
+            {
+              "itemId": 4036453,
+              "amount": 200
+            },
+            {
+              "itemId": 4033658,
+              "amount": 200
+            },
+            {
+              "itemId": 4033665,
+              "amount": 200
+            },
+            {
+              "itemId": 4000736,
+              "amount": 200
+            },
+            {
+              "itemId": 4034983,
+              "amount": 200
+            },
+            {
+              "itemId": 4034981,
+              "amount": 200
+            },
+            {
+              "itemId": 4034982,
+              "amount": 200
+            },
+            {
+              "itemId": 4034979,
+              "amount": 200
+            },
+            {
+              "itemId": 4034980,
+              "amount": 200
+            },
+            {
+              "itemId": 4034994,
+              "amount": 200
+            },
+            {
+              "itemId": 4001878,
+              "amount": 200
+            },
+            {
+              "itemId": 4036096,
+              "amount": 200
+            },
+            {
+              "itemId": 4036097,
+              "amount": 200
+            },
+            {
+              "itemId": 4036098,
+              "amount": 200
+            },
+            {
+              "itemId": 4036099,
+              "amount": 200
+            },
+            {
+              "itemId": 4036100,
+              "amount": 200
+            },
+            {
+              "itemId": 4021040,
+              "amount": 200
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 190,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Arcane Umbra Gloves",
+          "itemId": 1082697,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1082638,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250802,
+              "amount": 15
+            },
+            {
+              "itemId": 4250902,
+              "amount": 15
+            },
+            {
+              "itemId": 4036535,
+              "amount": 3
+            },
+            {
+              "itemId": 4036536,
+              "amount": 3
+            },
+            {
+              "itemId": 4036537,
+              "amount": 3
+            },
+            {
+              "itemId": 4036538,
+              "amount": 3
+            },
+            {
+              "itemId": 4036171,
+              "amount": 200
+            },
+            {
+              "itemId": 4036163,
+              "amount": 200
+            },
+            {
+              "itemId": 4036167,
+              "amount": 200
+            },
+            {
+              "itemId": 4036164,
+              "amount": 200
+            },
+            {
+              "itemId": 4034295,
+              "amount": 200
+            },
+            {
+              "itemId": 4034296,
+              "amount": 200
+            },
+            {
+              "itemId": 4036309,
+              "amount": 200
+            },
+            {
+              "itemId": 4033935,
+              "amount": 200
+            },
+            {
+              "itemId": 4033936,
+              "amount": 200
+            },
+            {
+              "itemId": 4036335,
+              "amount": 200
+            },
+            {
+              "itemId": 4036336,
+              "amount": 200
+            },
+            {
+              "itemId": 4036312,
+              "amount": 200
+            },
+            {
+              "itemId": 4009005,
+              "amount": 200
+            },
+            {
+              "itemId": 4036398,
+              "amount": 200
+            },
+            {
+              "itemId": 4036399,
+              "amount": 200
+            },
+            {
+              "itemId": 4036400,
+              "amount": 200
+            },
+            {
+              "itemId": 4031453,
+              "amount": 200
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 190,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Arcane Umbra Cape",
+          "itemId": 1102942,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1102795,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250402,
+              "amount": 15
+            },
+            {
+              "itemId": 4250502,
+              "amount": 15
+            },
+            {
+              "itemId": 4036535,
+              "amount": 3
+            },
+            {
+              "itemId": 4036536,
+              "amount": 3
+            },
+            {
+              "itemId": 4036537,
+              "amount": 3
+            },
+            {
+              "itemId": 4036538,
+              "amount": 3
+            },
+            {
+              "itemId": 4036168,
+              "amount": 200
+            },
+            {
+              "itemId": 4031929,
+              "amount": 200
+            },
+            {
+              "itemId": 4000590,
+              "amount": 200
+            },
+            {
+              "itemId": 4034156,
+              "amount": 200
+            },
+            {
+              "itemId": 4036401,
+              "amount": 200
+            },
+            {
+              "itemId": 4036402,
+              "amount": 200
+            },
+            {
+              "itemId": 4036403,
+              "amount": 200
+            },
+            {
+              "itemId": 4036404,
+              "amount": 200
+            },
+            {
+              "itemId": 4036405,
+              "amount": 200
+            },
+            {
+              "itemId": 4036406,
+              "amount": 200
+            },
+            {
+              "itemId": 4036407,
+              "amount": 200
+            },
+            {
+              "itemId": 4036456,
+              "amount": 200
+            },
+            {
+              "itemId": 4036457,
+              "amount": 200
+            },
+            {
+              "itemId": 4036446,
+              "amount": 200
+            },
+            {
+              "itemId": 4001889,
+              "amount": 200
+            },
+            {
+              "itemId": 4036444,
+              "amount": 200
+            },
+            {
+              "itemId": 4021040,
+              "amount": 200
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 190,
+          "requiredMakerLevel": 3
+        }
+      ]
+    }
+  ],
+  "Thief": [
+    {
+      "name": "Lionheart Set",
+      "recipes": [
+        {
+          "name": "Lionheart Hat",
+          "itemId": 1003175,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1004237,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4021000,
+              "amount": 20
+            },
+            {
+              "itemId": 4021004,
+              "amount": 20
+            },
+            {
+              "itemId": 4000642,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000643,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000659,
+              "amount": 2
+            }
+          ],
+          "cost": 200000000,
+          "requiredLevel": 130,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Lionheart Overall",
+          "itemId": 1052317,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1052807,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4021006,
+              "amount": 20
+            },
+            {
+              "itemId": 4021003,
+              "amount": 20
+            },
+            {
+              "itemId": 4000644,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000645,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000659,
+              "amount": 2
+            }
+          ],
+          "cost": 925000000,
+          "requiredLevel": 130,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Lionheart Shoes",
+          "itemId": 1072488,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1072975,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4005003,
+              "amount": 20
+            },
+            {
+              "itemId": 4005002,
+              "amount": 20
+            },
+            {
+              "itemId": 4000646,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000647,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000659,
+              "amount": 2
+            }
+          ],
+          "cost": 200000000,
+          "requiredLevel": 130,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Lionheart Gloves",
+          "itemId": 1082298,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1082616,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4005000,
+              "amount": 20
+            },
+            {
+              "itemId": 4005001,
+              "amount": 20
+            },
+            {
+              "itemId": 4000648,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000649,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000659,
+              "amount": 2
+            }
+          ],
+          "cost": 200000000,
+          "requiredLevel": 130,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Lionheart Cape",
+          "itemId": 1102278,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1102716,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4021001,
+              "amount": 20
+            },
+            {
+              "itemId": 4021002,
+              "amount": 20
+            },
+            {
+              "itemId": 4000650,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000651,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000659,
+              "amount": 2
+            }
+          ],
+          "cost": 200000000,
+          "requiredLevel": 130,
+          "requiredMakerLevel": 3
+        }
+      ]
+    },
+    {
+      "name": "Amaterasu Set",
+      "recipes": [
+        {
+          "name": "Amaterasu Hat",
+          "itemId": 1003604,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1003175,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250200,
+              "amount": 20
+            },
+            {
+              "itemId": 4250300,
+              "amount": 20
+            },
+            {
+              "itemId": 4000652,
+              "amount": 800
+            },
+            {
+              "itemId": 4000653,
+              "amount": 800
+            },
+            {
+              "itemId": 4000654,
+              "amount": 800
+            },
+            {
+              "itemId": 4036346,
+              "amount": 800
+            },
+            {
+              "itemId": 4033732,
+              "amount": 2
+            },
+            {
+              "itemId": 4001890,
+              "amount": 2
+            }
+          ],
+          "cost": 380000000,
+          "requiredLevel": 140,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Amaterasu Overall",
+          "itemId": 1052512,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1052317,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250600,
+              "amount": 20
+            },
+            {
+              "itemId": 4250700,
+              "amount": 20
+            },
+            {
+              "itemId": 4000655,
+              "amount": 800
+            },
+            {
+              "itemId": 4000656,
+              "amount": 800
+            },
+            {
+              "itemId": 4000657,
+              "amount": 800
+            },
+            {
+              "itemId": 4034077,
+              "amount": 800
+            },
+            {
+              "itemId": 4001894,
+              "amount": 2
+            },
+            {
+              "itemId": 4001893,
+              "amount": 2
+            }
+          ],
+          "cost": 1325000000,
+          "requiredLevel": 140,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Amaterasu Shoes",
+          "itemId": 1072714,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1072488,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4251000,
+              "amount": 20
+            },
+            {
+              "itemId": 4251100,
+              "amount": 20
+            },
+            {
+              "itemId": 4000658,
+              "amount": 800
+            },
+            {
+              "itemId": 4000704,
+              "amount": 800
+            },
+            {
+              "itemId": 4000705,
+              "amount": 800
+            },
+            {
+              "itemId": 4034137,
+              "amount": 800
+            },
+            {
+              "itemId": 4033732,
+              "amount": 2
+            },
+            {
+              "itemId": 4001893,
+              "amount": 2
+            }
+          ],
+          "cost": 380000000,
+          "requiredLevel": 140,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Amaterasu Gloves",
+          "itemId": 1082475,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1082298,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250800,
+              "amount": 20
+            },
+            {
+              "itemId": 4250900,
+              "amount": 20
+            },
+            {
+              "itemId": 4000707,
+              "amount": 800
+            },
+            {
+              "itemId": 4000709,
+              "amount": 800
+            },
+            {
+              "itemId": 4000706,
+              "amount": 800
+            },
+            {
+              "itemId": 4000734,
+              "amount": 800
+            },
+            {
+              "itemId": 4001890,
+              "amount": 2
+            },
+            {
+              "itemId": 4001894,
+              "amount": 2
+            }
+          ],
+          "cost": 380000000,
+          "requiredLevel": 140,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Amaterasu Cape",
+          "itemId": 1102459,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1102278,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250400,
+              "amount": 20
+            },
+            {
+              "itemId": 4250500,
+              "amount": 20
+            },
+            {
+              "itemId": 4000710,
+              "amount": 800
+            },
+            {
+              "itemId": 4000712,
+              "amount": 800
+            },
+            {
+              "itemId": 4000711,
+              "amount": 800
+            },
+            {
+              "itemId": 4000735,
+              "amount": 800
+            },
+            {
+              "itemId": 4033732,
+              "amount": 2
+            },
+            {
+              "itemId": 4001894,
+              "amount": 2
+            }
+          ],
+          "cost": 380000000,
+          "requiredLevel": 140,
+          "requiredMakerLevel": 3
+        }
+      ]
+    },
+    {
+      "name": "Absolab Set",
+      "recipes": [
+        {
+          "name": "Absolab Hat",
+          "itemId": 1004425,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1003604,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250201,
+              "amount": 20
+            },
+            {
+              "itemId": 4250301,
+              "amount": 20
+            },
+            {
+              "itemId": 4001897,
+              "amount": 3
+            },
+            {
+              "itemId": 4000727,
+              "amount": 400
+            },
+            {
+              "itemId": 4000730,
+              "amount": 400
+            },
+            {
+              "itemId": 4000740,
+              "amount": 400
+            },
+            {
+              "itemId": 4000743,
+              "amount": 400
+            },
+            {
+              "itemId": 4000736,
+              "amount": 400
+            },
+            {
+              "itemId": 4036147,
+              "amount": 400
+            },
+            {
+              "itemId": 4034887,
+              "amount": 400
+            },
+            {
+              "itemId": 4009340,
+              "amount": 400
+            },
+            {
+              "itemId": 4023025,
+              "amount": 400
+            },
+            {
+              "itemId": 4036492,
+              "amount": 400
+            },
+            {
+              "itemId": 4036140,
+              "amount": 400
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 150,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Absolab Overall",
+          "itemId": 1052889,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1052512,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250601,
+              "amount": 20
+            },
+            {
+              "itemId": 4250701,
+              "amount": 20
+            },
+            {
+              "itemId": 4001897,
+              "amount": 3
+            },
+            {
+              "itemId": 4000741,
+              "amount": 400
+            },
+            {
+              "itemId": 4000744,
+              "amount": 400
+            },
+            {
+              "itemId": 4000739,
+              "amount": 400
+            },
+            {
+              "itemId": 4000729,
+              "amount": 400
+            },
+            {
+              "itemId": 4001674,
+              "amount": 400
+            },
+            {
+              "itemId": 4036493,
+              "amount": 400
+            },
+            {
+              "itemId": 4031568,
+              "amount": 400
+            },
+            {
+              "itemId": 4034414,
+              "amount": 400
+            },
+            {
+              "itemId": 4036508,
+              "amount": 400
+            },
+            {
+              "itemId": 4036145,
+              "amount": 400
+            },
+            {
+              "itemId": 4036146,
+              "amount": 400
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 150,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Absolab Shoes",
+          "itemId": 1073034,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1072714,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4251001,
+              "amount": 20
+            },
+            {
+              "itemId": 4251101,
+              "amount": 20
+            },
+            {
+              "itemId": 4001897,
+              "amount": 3
+            },
+            {
+              "itemId": 4000728,
+              "amount": 400
+            },
+            {
+              "itemId": 4000731,
+              "amount": 400
+            },
+            {
+              "itemId": 4000733,
+              "amount": 400
+            },
+            {
+              "itemId": 4000732,
+              "amount": 400
+            },
+            {
+              "itemId": 4009219,
+              "amount": 400
+            },
+            {
+              "itemId": 4036494,
+              "amount": 400
+            },
+            {
+              "itemId": 4034658,
+              "amount": 400
+            },
+            {
+              "itemId": 4033401,
+              "amount": 400
+            },
+            {
+              "itemId": 4032434,
+              "amount": 400
+            },
+            {
+              "itemId": 4033664,
+              "amount": 400
+            },
+            {
+              "itemId": 4033733,
+              "amount": 400
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 150,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Absolab Gloves",
+          "itemId": 1082639,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1082475,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250801,
+              "amount": 20
+            },
+            {
+              "itemId": 4250901,
+              "amount": 20
+            },
+            {
+              "itemId": 4001897,
+              "amount": 3
+            },
+            {
+              "itemId": 4000734,
+              "amount": 400
+            },
+            {
+              "itemId": 4000735,
+              "amount": 400
+            },
+            {
+              "itemId": 4000736,
+              "amount": 400
+            },
+            {
+              "itemId": 4000738,
+              "amount": 400
+            },
+            {
+              "itemId": 4009220,
+              "amount": 400
+            },
+            {
+              "itemId": 4036495,
+              "amount": 400
+            },
+            {
+              "itemId": 4036021,
+              "amount": 400
+            },
+            {
+              "itemId": 4032434,
+              "amount": 400
+            },
+            {
+              "itemId": 4036508,
+              "amount": 400
+            },
+            {
+              "itemId": 4036169,
+              "amount": 400
+            },
+            {
+              "itemId": 4036170,
+              "amount": 400
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 150,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Absolab Cape",
+          "itemId": 1102796,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1102459,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250401,
+              "amount": 20
+            },
+            {
+              "itemId": 4250501,
+              "amount": 20
+            },
+            {
+              "itemId": 4001897,
+              "amount": 3
+            },
+            {
+              "itemId": 4000737,
+              "amount": 400
+            },
+            {
+              "itemId": 4034426,
+              "amount": 400
+            },
+            {
+              "itemId": 4033907,
+              "amount": 400
+            },
+            {
+              "itemId": 4036348,
+              "amount": 400
+            },
+            {
+              "itemId": 4009221,
+              "amount": 400
+            },
+            {
+              "itemId": 4036452,
+              "amount": 400
+            },
+            {
+              "itemId": 4034000,
+              "amount": 400
+            },
+            {
+              "itemId": 4170023,
+              "amount": 400
+            },
+            {
+              "itemId": 4023025,
+              "amount": 400
+            },
+            {
+              "itemId": 4034867,
+              "amount": 400
+            },
+            {
+              "itemId": 4034889,
+              "amount": 400
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 150,
+          "requiredMakerLevel": 3
+        }
+      ]
+    },
+    {
+      "name": "Arcane Umbra Set",
+      "recipes": [
+        {
+          "name": "Arcane Umbra Hat",
+          "itemId": 1004811,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1004425,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250202,
+              "amount": 15
+            },
+            {
+              "itemId": 4250302,
+              "amount": 15
+            },
+            {
+              "itemId": 4036535,
+              "amount": 3
+            },
+            {
+              "itemId": 4036536,
+              "amount": 3
+            },
+            {
+              "itemId": 4036537,
+              "amount": 3
+            },
+            {
+              "itemId": 4036538,
+              "amount": 3
+            },
+            {
+              "itemId": 4033427,
+              "amount": 200
+            },
+            {
+              "itemId": 4036143,
+              "amount": 200
+            },
+            {
+              "itemId": 4036151,
+              "amount": 200
+            },
+            {
+              "itemId": 4036491,
+              "amount": 200
+            },
+            {
+              "itemId": 4034914,
+              "amount": 200
+            },
+            {
+              "itemId": 4034915,
+              "amount": 200
+            },
+            {
+              "itemId": 4034916,
+              "amount": 200
+            },
+            {
+              "itemId": 4034917,
+              "amount": 200
+            },
+            {
+              "itemId": 4034918,
+              "amount": 200
+            },
+            {
+              "itemId": 4034919,
+              "amount": 200
+            },
+            {
+              "itemId": 4034920,
+              "amount": 200
+            },
+            {
+              "itemId": 4034930,
+              "amount": 200
+            },
+            {
+              "itemId": 4034950,
+              "amount": 200
+            },
+            {
+              "itemId": 4034951,
+              "amount": 200
+            },
+            {
+              "itemId": 4034946,
+              "amount": 200
+            },
+            {
+              "itemId": 4034948,
+              "amount": 200
+            },
+            {
+              "itemId": 4021022,
+              "amount": 200
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 190,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Arcane Umbra Overall",
+          "itemId": 1053066,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1052889,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250602,
+              "amount": 15
+            },
+            {
+              "itemId": 4250702,
+              "amount": 15
+            },
+            {
+              "itemId": 4036535,
+              "amount": 3
+            },
+            {
+              "itemId": 4036536,
+              "amount": 3
+            },
+            {
+              "itemId": 4036537,
+              "amount": 3
+            },
+            {
+              "itemId": 4036538,
+              "amount": 3
+            },
+            {
+              "itemId": 4036141,
+              "amount": 200
+            },
+            {
+              "itemId": 4036490,
+              "amount": 200
+            },
+            {
+              "itemId": 4036144,
+              "amount": 200
+            },
+            {
+              "itemId": 4036451,
+              "amount": 200
+            },
+            {
+              "itemId": 4034952,
+              "amount": 200
+            },
+            {
+              "itemId": 4034953,
+              "amount": 200
+            },
+            {
+              "itemId": 4034954,
+              "amount": 200
+            },
+            {
+              "itemId": 4034955,
+              "amount": 200
+            },
+            {
+              "itemId": 4034956,
+              "amount": 200
+            },
+            {
+              "itemId": 4034957,
+              "amount": 200
+            },
+            {
+              "itemId": 4034942,
+              "amount": 200
+            },
+            {
+              "itemId": 4034943,
+              "amount": 200
+            },
+            {
+              "itemId": 4034944,
+              "amount": 200
+            },
+            {
+              "itemId": 4034945,
+              "amount": 200
+            },
+            {
+              "itemId": 4034947,
+              "amount": 200
+            },
+            {
+              "itemId": 4034949,
+              "amount": 200
+            },
+            {
+              "itemId": 4031453,
+              "amount": 200
+            }
+          ],
+          "cost": 1850000000,
+          "requiredLevel": 190,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Arcane Umbra Shoes",
+          "itemId": 1073161,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1073034,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4251002,
+              "amount": 15
+            },
+            {
+              "itemId": 4251102,
+              "amount": 15
+            },
+            {
+              "itemId": 4036535,
+              "amount": 3
+            },
+            {
+              "itemId": 4036536,
+              "amount": 3
+            },
+            {
+              "itemId": 4036537,
+              "amount": 3
+            },
+            {
+              "itemId": 4036538,
+              "amount": 3
+            },
+            {
+              "itemId": 4036453,
+              "amount": 200
+            },
+            {
+              "itemId": 4033658,
+              "amount": 200
+            },
+            {
+              "itemId": 4033665,
+              "amount": 200
+            },
+            {
+              "itemId": 4000736,
+              "amount": 200
+            },
+            {
+              "itemId": 4034983,
+              "amount": 200
+            },
+            {
+              "itemId": 4034981,
+              "amount": 200
+            },
+            {
+              "itemId": 4034982,
+              "amount": 200
+            },
+            {
+              "itemId": 4034979,
+              "amount": 200
+            },
+            {
+              "itemId": 4034980,
+              "amount": 200
+            },
+            {
+              "itemId": 4034994,
+              "amount": 200
+            },
+            {
+              "itemId": 4001878,
+              "amount": 200
+            },
+            {
+              "itemId": 4036096,
+              "amount": 200
+            },
+            {
+              "itemId": 4036097,
+              "amount": 200
+            },
+            {
+              "itemId": 4036098,
+              "amount": 200
+            },
+            {
+              "itemId": 4036099,
+              "amount": 200
+            },
+            {
+              "itemId": 4036100,
+              "amount": 200
+            },
+            {
+              "itemId": 4021040,
+              "amount": 200
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 190,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Arcane Umbra Gloves",
+          "itemId": 1082698,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1082639,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250802,
+              "amount": 15
+            },
+            {
+              "itemId": 4250902,
+              "amount": 15
+            },
+            {
+              "itemId": 4036535,
+              "amount": 3
+            },
+            {
+              "itemId": 4036536,
+              "amount": 3
+            },
+            {
+              "itemId": 4036537,
+              "amount": 3
+            },
+            {
+              "itemId": 4036538,
+              "amount": 3
+            },
+            {
+              "itemId": 4036171,
+              "amount": 200
+            },
+            {
+              "itemId": 4036163,
+              "amount": 200
+            },
+            {
+              "itemId": 4036167,
+              "amount": 200
+            },
+            {
+              "itemId": 4036164,
+              "amount": 200
+            },
+            {
+              "itemId": 4034295,
+              "amount": 200
+            },
+            {
+              "itemId": 4034296,
+              "amount": 200
+            },
+            {
+              "itemId": 4036309,
+              "amount": 200
+            },
+            {
+              "itemId": 4033935,
+              "amount": 200
+            },
+            {
+              "itemId": 4033936,
+              "amount": 200
+            },
+            {
+              "itemId": 4036335,
+              "amount": 200
+            },
+            {
+              "itemId": 4036336,
+              "amount": 200
+            },
+            {
+              "itemId": 4036312,
+              "amount": 200
+            },
+            {
+              "itemId": 4009005,
+              "amount": 200
+            },
+            {
+              "itemId": 4036398,
+              "amount": 200
+            },
+            {
+              "itemId": 4036399,
+              "amount": 200
+            },
+            {
+              "itemId": 4036400,
+              "amount": 200
+            },
+            {
+              "itemId": 4031453,
+              "amount": 200
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 190,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Arcane Umbra Cape",
+          "itemId": 1102943,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1102796,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250402,
+              "amount": 15
+            },
+            {
+              "itemId": 4250502,
+              "amount": 15
+            },
+            {
+              "itemId": 4036535,
+              "amount": 3
+            },
+            {
+              "itemId": 4036536,
+              "amount": 3
+            },
+            {
+              "itemId": 4036537,
+              "amount": 3
+            },
+            {
+              "itemId": 4036538,
+              "amount": 3
+            },
+            {
+              "itemId": 4036168,
+              "amount": 200
+            },
+            {
+              "itemId": 4031929,
+              "amount": 200
+            },
+            {
+              "itemId": 4000590,
+              "amount": 200
+            },
+            {
+              "itemId": 4034156,
+              "amount": 200
+            },
+            {
+              "itemId": 4036401,
+              "amount": 200
+            },
+            {
+              "itemId": 4036402,
+              "amount": 200
+            },
+            {
+              "itemId": 4036403,
+              "amount": 200
+            },
+            {
+              "itemId": 4036404,
+              "amount": 200
+            },
+            {
+              "itemId": 4036405,
+              "amount": 200
+            },
+            {
+              "itemId": 4036406,
+              "amount": 200
+            },
+            {
+              "itemId": 4036407,
+              "amount": 200
+            },
+            {
+              "itemId": 4036456,
+              "amount": 200
+            },
+            {
+              "itemId": 4036457,
+              "amount": 200
+            },
+            {
+              "itemId": 4036446,
+              "amount": 200
+            },
+            {
+              "itemId": 4001889,
+              "amount": 200
+            },
+            {
+              "itemId": 4036444,
+              "amount": 200
+            },
+            {
+              "itemId": 4021040,
+              "amount": 200
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 190,
+          "requiredMakerLevel": 3
+        }
+      ]
+    }
+  ],
+  "Pirate": [
+    {
+      "name": "Lionheart Set",
+      "recipes": [
+        {
+          "name": "Lionheart Hat",
+          "itemId": 1003176,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1004238,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4021000,
+              "amount": 20
+            },
+            {
+              "itemId": 4021004,
+              "amount": 20
+            },
+            {
+              "itemId": 4000642,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000643,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000659,
+              "amount": 2
+            }
+          ],
+          "cost": 200000000,
+          "requiredLevel": 130,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Lionheart Overall",
+          "itemId": 1052318,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1052808,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4021006,
+              "amount": 20
+            },
+            {
+              "itemId": 4021003,
+              "amount": 20
+            },
+            {
+              "itemId": 4000644,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000645,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000659,
+              "amount": 2
+            }
+          ],
+          "cost": 925000000,
+          "requiredLevel": 130,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Lionheart Shoes",
+          "itemId": 1072489,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1072976,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4005003,
+              "amount": 20
+            },
+            {
+              "itemId": 4005002,
+              "amount": 20
+            },
+            {
+              "itemId": 4000646,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000647,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000659,
+              "amount": 2
+            }
+          ],
+          "cost": 200000000,
+          "requiredLevel": 130,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Lionheart Gloves",
+          "itemId": 1082299,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1082617,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4005000,
+              "amount": 20
+            },
+            {
+              "itemId": 4005001,
+              "amount": 20
+            },
+            {
+              "itemId": 4000648,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000649,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000659,
+              "amount": 2
+            }
+          ],
+          "cost": 200000000,
+          "requiredLevel": 130,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Lionheart Cape",
+          "itemId": 1102279,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1102717,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4021001,
+              "amount": 20
+            },
+            {
+              "itemId": 4021002,
+              "amount": 20
+            },
+            {
+              "itemId": 4000650,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000651,
+              "amount": 1400
+            },
+            {
+              "itemId": 4000659,
+              "amount": 2
+            }
+          ],
+          "cost": 200000000,
+          "requiredLevel": 130,
+          "requiredMakerLevel": 3
+        }
+      ]
+    },
+    {
+      "name": "Amaterasu Set",
+      "recipes": [
+        {
+          "name": "Amaterasu Hat",
+          "itemId": 1003605,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1003176,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250200,
+              "amount": 20
+            },
+            {
+              "itemId": 4250300,
+              "amount": 20
+            },
+            {
+              "itemId": 4000652,
+              "amount": 800
+            },
+            {
+              "itemId": 4000653,
+              "amount": 800
+            },
+            {
+              "itemId": 4000654,
+              "amount": 800
+            },
+            {
+              "itemId": 4036346,
+              "amount": 800
+            },
+            {
+              "itemId": 4033732,
+              "amount": 2
+            },
+            {
+              "itemId": 4001890,
+              "amount": 2
+            }
+          ],
+          "cost": 380000000,
+          "requiredLevel": 140,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Amaterasu Overall",
+          "itemId": 1052513,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1052318,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250600,
+              "amount": 20
+            },
+            {
+              "itemId": 4250700,
+              "amount": 20
+            },
+            {
+              "itemId": 4000655,
+              "amount": 800
+            },
+            {
+              "itemId": 4000656,
+              "amount": 800
+            },
+            {
+              "itemId": 4000657,
+              "amount": 800
+            },
+            {
+              "itemId": 4034077,
+              "amount": 800
+            },
+            {
+              "itemId": 4001894,
+              "amount": 2
+            },
+            {
+              "itemId": 4001893,
+              "amount": 2
+            }
+          ],
+          "cost": 1325000000,
+          "requiredLevel": 140,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Amaterasu Shoes",
+          "itemId": 1072715,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1072489,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4251000,
+              "amount": 20
+            },
+            {
+              "itemId": 4251100,
+              "amount": 20
+            },
+            {
+              "itemId": 4000658,
+              "amount": 800
+            },
+            {
+              "itemId": 4000704,
+              "amount": 800
+            },
+            {
+              "itemId": 4000705,
+              "amount": 800
+            },
+            {
+              "itemId": 4034137,
+              "amount": 800
+            },
+            {
+              "itemId": 4033732,
+              "amount": 2
+            },
+            {
+              "itemId": 4001893,
+              "amount": 2
+            }
+          ],
+          "cost": 380000000,
+          "requiredLevel": 140,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Amaterasu Gloves",
+          "itemId": 1082476,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1082299,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250800,
+              "amount": 20
+            },
+            {
+              "itemId": 4250900,
+              "amount": 20
+            },
+            {
+              "itemId": 4000707,
+              "amount": 800
+            },
+            {
+              "itemId": 4000709,
+              "amount": 800
+            },
+            {
+              "itemId": 4000706,
+              "amount": 800
+            },
+            {
+              "itemId": 4000734,
+              "amount": 800
+            },
+            {
+              "itemId": 4001890,
+              "amount": 2
+            },
+            {
+              "itemId": 4001894,
+              "amount": 2
+            }
+          ],
+          "cost": 380000000,
+          "requiredLevel": 140,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Amaterasu Cape",
+          "itemId": 1102460,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1102279,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250400,
+              "amount": 20
+            },
+            {
+              "itemId": 4250500,
+              "amount": 20
+            },
+            {
+              "itemId": 4000710,
+              "amount": 800
+            },
+            {
+              "itemId": 4000712,
+              "amount": 800
+            },
+            {
+              "itemId": 4000711,
+              "amount": 800
+            },
+            {
+              "itemId": 4000735,
+              "amount": 800
+            },
+            {
+              "itemId": 4033732,
+              "amount": 2
+            },
+            {
+              "itemId": 4001894,
+              "amount": 2
+            }
+          ],
+          "cost": 380000000,
+          "requiredLevel": 140,
+          "requiredMakerLevel": 3
+        }
+      ]
+    },
+    {
+      "name": "Absolab Set",
+      "recipes": [
+        {
+          "name": "Absolab Hat",
+          "itemId": 1004426,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1003605,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250201,
+              "amount": 20
+            },
+            {
+              "itemId": 4250301,
+              "amount": 20
+            },
+            {
+              "itemId": 4001897,
+              "amount": 3
+            },
+            {
+              "itemId": 4000727,
+              "amount": 400
+            },
+            {
+              "itemId": 4000730,
+              "amount": 400
+            },
+            {
+              "itemId": 4000740,
+              "amount": 400
+            },
+            {
+              "itemId": 4000743,
+              "amount": 400
+            },
+            {
+              "itemId": 4000736,
+              "amount": 400
+            },
+            {
+              "itemId": 4036147,
+              "amount": 400
+            },
+            {
+              "itemId": 4034887,
+              "amount": 400
+            },
+            {
+              "itemId": 4009340,
+              "amount": 400
+            },
+            {
+              "itemId": 4023025,
+              "amount": 400
+            },
+            {
+              "itemId": 4036492,
+              "amount": 400
+            },
+            {
+              "itemId": 4036140,
+              "amount": 400
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 150,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Absolab Overall",
+          "itemId": 1052890,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1052513,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250601,
+              "amount": 20
+            },
+            {
+              "itemId": 4250701,
+              "amount": 20
+            },
+            {
+              "itemId": 4001897,
+              "amount": 3
+            },
+            {
+              "itemId": 4000741,
+              "amount": 400
+            },
+            {
+              "itemId": 4000744,
+              "amount": 400
+            },
+            {
+              "itemId": 4000739,
+              "amount": 400
+            },
+            {
+              "itemId": 4000729,
+              "amount": 400
+            },
+            {
+              "itemId": 4001674,
+              "amount": 400
+            },
+            {
+              "itemId": 4036493,
+              "amount": 400
+            },
+            {
+              "itemId": 4031568,
+              "amount": 400
+            },
+            {
+              "itemId": 4034414,
+              "amount": 400
+            },
+            {
+              "itemId": 4036508,
+              "amount": 400
+            },
+            {
+              "itemId": 4036145,
+              "amount": 400
+            },
+            {
+              "itemId": 4036146,
+              "amount": 400
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 150,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Absolab Shoes",
+          "itemId": 1073035,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1072715,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4251001,
+              "amount": 20
+            },
+            {
+              "itemId": 4251101,
+              "amount": 20
+            },
+            {
+              "itemId": 4001897,
+              "amount": 3
+            },
+            {
+              "itemId": 4000728,
+              "amount": 400
+            },
+            {
+              "itemId": 4000731,
+              "amount": 400
+            },
+            {
+              "itemId": 4000733,
+              "amount": 400
+            },
+            {
+              "itemId": 4000732,
+              "amount": 400
+            },
+            {
+              "itemId": 4009219,
+              "amount": 400
+            },
+            {
+              "itemId": 4036494,
+              "amount": 400
+            },
+            {
+              "itemId": 4034658,
+              "amount": 400
+            },
+            {
+              "itemId": 4033401,
+              "amount": 400
+            },
+            {
+              "itemId": 4032434,
+              "amount": 400
+            },
+            {
+              "itemId": 4033664,
+              "amount": 400
+            },
+            {
+              "itemId": 4033733,
+              "amount": 400
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 150,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Absolab Gloves",
+          "itemId": 1082640,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1082476,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250801,
+              "amount": 20
+            },
+            {
+              "itemId": 4250901,
+              "amount": 20
+            },
+            {
+              "itemId": 4001897,
+              "amount": 3
+            },
+            {
+              "itemId": 4000734,
+              "amount": 400
+            },
+            {
+              "itemId": 4000735,
+              "amount": 400
+            },
+            {
+              "itemId": 4000736,
+              "amount": 400
+            },
+            {
+              "itemId": 4000738,
+              "amount": 400
+            },
+            {
+              "itemId": 4009220,
+              "amount": 400
+            },
+            {
+              "itemId": 4036495,
+              "amount": 400
+            },
+            {
+              "itemId": 4036021,
+              "amount": 400
+            },
+            {
+              "itemId": 4032434,
+              "amount": 400
+            },
+            {
+              "itemId": 4036508,
+              "amount": 400
+            },
+            {
+              "itemId": 4036169,
+              "amount": 400
+            },
+            {
+              "itemId": 4036170,
+              "amount": 400
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 150,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Absolab Cape",
+          "itemId": 1102797,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1102460,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250401,
+              "amount": 20
+            },
+            {
+              "itemId": 4250501,
+              "amount": 20
+            },
+            {
+              "itemId": 4001897,
+              "amount": 3
+            },
+            {
+              "itemId": 4000737,
+              "amount": 400
+            },
+            {
+              "itemId": 4034426,
+              "amount": 400
+            },
+            {
+              "itemId": 4033907,
+              "amount": 400
+            },
+            {
+              "itemId": 4036348,
+              "amount": 400
+            },
+            {
+              "itemId": 4009221,
+              "amount": 400
+            },
+            {
+              "itemId": 4036452,
+              "amount": 400
+            },
+            {
+              "itemId": 4034000,
+              "amount": 400
+            },
+            {
+              "itemId": 4170023,
+              "amount": 400
+            },
+            {
+              "itemId": 4023025,
+              "amount": 400
+            },
+            {
+              "itemId": 4034867,
+              "amount": 400
+            },
+            {
+              "itemId": 4034889,
+              "amount": 400
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 150,
+          "requiredMakerLevel": 3
+        }
+      ]
+    },
+    {
+      "name": "Arcane Umbra Set",
+      "recipes": [
+        {
+          "name": "Arcane Umbra Hat",
+          "itemId": 1004812,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1004426,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250202,
+              "amount": 15
+            },
+            {
+              "itemId": 4250302,
+              "amount": 15
+            },
+            {
+              "itemId": 4036535,
+              "amount": 3
+            },
+            {
+              "itemId": 4036536,
+              "amount": 3
+            },
+            {
+              "itemId": 4036537,
+              "amount": 3
+            },
+            {
+              "itemId": 4036538,
+              "amount": 3
+            },
+            {
+              "itemId": 4033427,
+              "amount": 200
+            },
+            {
+              "itemId": 4036143,
+              "amount": 200
+            },
+            {
+              "itemId": 4036151,
+              "amount": 200
+            },
+            {
+              "itemId": 4036491,
+              "amount": 200
+            },
+            {
+              "itemId": 4034914,
+              "amount": 200
+            },
+            {
+              "itemId": 4034915,
+              "amount": 200
+            },
+            {
+              "itemId": 4034916,
+              "amount": 200
+            },
+            {
+              "itemId": 4034917,
+              "amount": 200
+            },
+            {
+              "itemId": 4034918,
+              "amount": 200
+            },
+            {
+              "itemId": 4034919,
+              "amount": 200
+            },
+            {
+              "itemId": 4034920,
+              "amount": 200
+            },
+            {
+              "itemId": 4034930,
+              "amount": 200
+            },
+            {
+              "itemId": 4034950,
+              "amount": 200
+            },
+            {
+              "itemId": 4034951,
+              "amount": 200
+            },
+            {
+              "itemId": 4034946,
+              "amount": 200
+            },
+            {
+              "itemId": 4034948,
+              "amount": 200
+            },
+            {
+              "itemId": 4021022,
+              "amount": 200
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 190,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Arcane Umbra Overall",
+          "itemId": 1053067,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1052890,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250602,
+              "amount": 15
+            },
+            {
+              "itemId": 4250702,
+              "amount": 15
+            },
+            {
+              "itemId": 4036535,
+              "amount": 3
+            },
+            {
+              "itemId": 4036536,
+              "amount": 3
+            },
+            {
+              "itemId": 4036537,
+              "amount": 3
+            },
+            {
+              "itemId": 4036538,
+              "amount": 3
+            },
+            {
+              "itemId": 4036141,
+              "amount": 200
+            },
+            {
+              "itemId": 4036490,
+              "amount": 200
+            },
+            {
+              "itemId": 4036144,
+              "amount": 200
+            },
+            {
+              "itemId": 4036451,
+              "amount": 200
+            },
+            {
+              "itemId": 4034952,
+              "amount": 200
+            },
+            {
+              "itemId": 4034953,
+              "amount": 200
+            },
+            {
+              "itemId": 4034954,
+              "amount": 200
+            },
+            {
+              "itemId": 4034955,
+              "amount": 200
+            },
+            {
+              "itemId": 4034956,
+              "amount": 200
+            },
+            {
+              "itemId": 4034957,
+              "amount": 200
+            },
+            {
+              "itemId": 4034942,
+              "amount": 200
+            },
+            {
+              "itemId": 4034943,
+              "amount": 200
+            },
+            {
+              "itemId": 4034944,
+              "amount": 200
+            },
+            {
+              "itemId": 4034945,
+              "amount": 200
+            },
+            {
+              "itemId": 4034947,
+              "amount": 200
+            },
+            {
+              "itemId": 4034949,
+              "amount": 200
+            },
+            {
+              "itemId": 4031453,
+              "amount": 200
+            }
+          ],
+          "cost": 1850000000,
+          "requiredLevel": 190,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Arcane Umbra Shoes",
+          "itemId": 1073162,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1073035,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4251002,
+              "amount": 15
+            },
+            {
+              "itemId": 4251102,
+              "amount": 15
+            },
+            {
+              "itemId": 4036535,
+              "amount": 3
+            },
+            {
+              "itemId": 4036536,
+              "amount": 3
+            },
+            {
+              "itemId": 4036537,
+              "amount": 3
+            },
+            {
+              "itemId": 4036538,
+              "amount": 3
+            },
+            {
+              "itemId": 4036453,
+              "amount": 200
+            },
+            {
+              "itemId": 4033658,
+              "amount": 200
+            },
+            {
+              "itemId": 4033665,
+              "amount": 200
+            },
+            {
+              "itemId": 4000736,
+              "amount": 200
+            },
+            {
+              "itemId": 4034983,
+              "amount": 200
+            },
+            {
+              "itemId": 4034981,
+              "amount": 200
+            },
+            {
+              "itemId": 4034982,
+              "amount": 200
+            },
+            {
+              "itemId": 4034979,
+              "amount": 200
+            },
+            {
+              "itemId": 4034980,
+              "amount": 200
+            },
+            {
+              "itemId": 4034994,
+              "amount": 200
+            },
+            {
+              "itemId": 4001878,
+              "amount": 200
+            },
+            {
+              "itemId": 4036096,
+              "amount": 200
+            },
+            {
+              "itemId": 4036097,
+              "amount": 200
+            },
+            {
+              "itemId": 4036098,
+              "amount": 200
+            },
+            {
+              "itemId": 4036099,
+              "amount": 200
+            },
+            {
+              "itemId": 4036100,
+              "amount": 200
+            },
+            {
+              "itemId": 4021040,
+              "amount": 200
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 190,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Arcane Umbra Gloves",
+          "itemId": 1082699,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1082640,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250802,
+              "amount": 15
+            },
+            {
+              "itemId": 4250902,
+              "amount": 15
+            },
+            {
+              "itemId": 4036535,
+              "amount": 3
+            },
+            {
+              "itemId": 4036536,
+              "amount": 3
+            },
+            {
+              "itemId": 4036537,
+              "amount": 3
+            },
+            {
+              "itemId": 4036538,
+              "amount": 3
+            },
+            {
+              "itemId": 4036171,
+              "amount": 200
+            },
+            {
+              "itemId": 4036163,
+              "amount": 200
+            },
+            {
+              "itemId": 4036167,
+              "amount": 200
+            },
+            {
+              "itemId": 4036164,
+              "amount": 200
+            },
+            {
+              "itemId": 4034295,
+              "amount": 200
+            },
+            {
+              "itemId": 4034296,
+              "amount": 200
+            },
+            {
+              "itemId": 4036309,
+              "amount": 200
+            },
+            {
+              "itemId": 4033935,
+              "amount": 200
+            },
+            {
+              "itemId": 4033936,
+              "amount": 200
+            },
+            {
+              "itemId": 4036335,
+              "amount": 200
+            },
+            {
+              "itemId": 4036336,
+              "amount": 200
+            },
+            {
+              "itemId": 4036312,
+              "amount": 200
+            },
+            {
+              "itemId": 4009005,
+              "amount": 200
+            },
+            {
+              "itemId": 4036398,
+              "amount": 200
+            },
+            {
+              "itemId": 4036399,
+              "amount": 200
+            },
+            {
+              "itemId": 4036400,
+              "amount": 200
+            },
+            {
+              "itemId": 4031453,
+              "amount": 200
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 190,
+          "requiredMakerLevel": 3
+        },
+        {
+          "name": "Arcane Umbra Cape",
+          "itemId": 1102944,
+          "quantity": 1,
+          "materials": [
+            {
+              "itemId": 1102797,
+              "amount": 1,
+              "processStarforce": true
+            },
+            {
+              "itemId": 4250402,
+              "amount": 15
+            },
+            {
+              "itemId": 4250502,
+              "amount": 15
+            },
+            {
+              "itemId": 4036535,
+              "amount": 3
+            },
+            {
+              "itemId": 4036536,
+              "amount": 3
+            },
+            {
+              "itemId": 4036537,
+              "amount": 3
+            },
+            {
+              "itemId": 4036538,
+              "amount": 3
+            },
+            {
+              "itemId": 4036168,
+              "amount": 200
+            },
+            {
+              "itemId": 4031929,
+              "amount": 200
+            },
+            {
+              "itemId": 4000590,
+              "amount": 200
+            },
+            {
+              "itemId": 4034156,
+              "amount": 200
+            },
+            {
+              "itemId": 4036401,
+              "amount": 200
+            },
+            {
+              "itemId": 4036402,
+              "amount": 200
+            },
+            {
+              "itemId": 4036403,
+              "amount": 200
+            },
+            {
+              "itemId": 4036404,
+              "amount": 200
+            },
+            {
+              "itemId": 4036405,
+              "amount": 200
+            },
+            {
+              "itemId": 4036406,
+              "amount": 200
+            },
+            {
+              "itemId": 4036407,
+              "amount": 200
+            },
+            {
+              "itemId": 4036456,
+              "amount": 200
+            },
+            {
+              "itemId": 4036457,
+              "amount": 200
+            },
+            {
+              "itemId": 4036446,
+              "amount": 200
+            },
+            {
+              "itemId": 4001889,
+              "amount": 200
+            },
+            {
+              "itemId": 4036444,
+              "amount": 200
+            },
+            {
+              "itemId": 4021040,
+              "amount": 200
+            }
+          ],
+          "cost": 480000000,
+          "requiredLevel": 190,
+          "requiredMakerLevel": 3
+        }
+      ]
+    }
+  ]
+}
