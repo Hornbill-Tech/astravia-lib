@@ -178,7 +178,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "2",
@@ -359,7 +360,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/2_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "3",
@@ -540,7 +542,8 @@
         "y": 73
       },
       "image": "images/DamageSkin/3_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "4",
@@ -721,7 +724,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/4_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "5",
@@ -902,7 +906,8 @@
         "y": 67
       },
       "image": "images/DamageSkin/5_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "6",
@@ -1083,7 +1088,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/6_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "7",
@@ -1264,7 +1270,8 @@
         "y": 78
       },
       "image": "images/DamageSkin/7_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "8",
@@ -1445,7 +1452,8 @@
         "y": 71
       },
       "image": "images/DamageSkin/8_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "9",
@@ -1626,7 +1634,8 @@
         "y": 82
       },
       "image": "images/DamageSkin/9_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "10",
@@ -1807,7 +1816,8 @@
         "y": 81
       },
       "image": "images/DamageSkin/10_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "11",
@@ -1988,7 +1998,8 @@
         "y": 75
       },
       "image": "images/DamageSkin/11_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "12",
@@ -2169,7 +2180,8 @@
         "y": 74
       },
       "image": "images/DamageSkin/12_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "13",
@@ -2350,7 +2362,8 @@
         "y": 76
       },
       "image": "images/DamageSkin/13_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "14",
@@ -2531,7 +2544,8 @@
         "y": 72
       },
       "image": "images/DamageSkin/14_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "15",
@@ -2712,7 +2726,8 @@
         "y": 76
       },
       "image": "images/DamageSkin/15_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "16",
@@ -2893,7 +2908,8 @@
         "y": 83
       },
       "image": "images/DamageSkin/16_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "17",
@@ -3074,7 +3090,8 @@
         "y": 63
       },
       "image": "images/DamageSkin/17_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "18",
@@ -3255,7 +3272,8 @@
         "y": 74
       },
       "image": "images/DamageSkin/18_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "19",
@@ -3436,7 +3454,8 @@
         "y": 79
       },
       "image": "images/DamageSkin/19_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "20",
@@ -3617,7 +3636,8 @@
         "y": 82
       },
       "image": "images/DamageSkin/20_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "21",
@@ -3798,7 +3818,8 @@
         "y": 79
       },
       "image": "images/DamageSkin/21_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "22",
@@ -3979,7 +4000,8 @@
         "y": 85
       },
       "image": "images/DamageSkin/22_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "23",
@@ -4160,7 +4182,8 @@
         "y": 77
       },
       "image": "images/DamageSkin/23_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "24",
@@ -4341,7 +4364,8 @@
         "y": 66
       },
       "image": "images/DamageSkin/24_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "25",
@@ -4522,7 +4546,8 @@
         "y": 81
       },
       "image": "images/DamageSkin/25_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "26",
@@ -4703,7 +4728,8 @@
         "y": 69
       },
       "image": "images/DamageSkin/26_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "27",
@@ -4884,7 +4910,8 @@
         "y": 69
       },
       "image": "images/DamageSkin/27_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "28",
@@ -5065,7 +5092,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/28_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "29",
@@ -5246,7 +5274,8 @@
         "y": 76
       },
       "image": "images/DamageSkin/29_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "30",
@@ -5427,7 +5456,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/30_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "31",
@@ -5608,7 +5638,8 @@
         "y": 75
       },
       "image": "images/DamageSkin/31_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "32",
@@ -5789,7 +5820,8 @@
         "y": 76
       },
       "image": "images/DamageSkin/32_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "33",
@@ -5970,7 +6002,8 @@
         "y": 71
       },
       "image": "images/DamageSkin/33_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "34",
@@ -6151,7 +6184,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/34_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "35",
@@ -6332,7 +6366,8 @@
         "y": 50
       },
       "image": "images/DamageSkin/35_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "36",
@@ -6513,7 +6548,8 @@
         "y": 68
       },
       "image": "images/DamageSkin/36_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "37",
@@ -6694,7 +6730,8 @@
         "y": 130
       },
       "image": "images/DamageSkin/37_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "38",
@@ -6875,7 +6912,8 @@
         "y": 82
       },
       "image": "images/DamageSkin/38_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "39",
@@ -7056,7 +7094,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/39_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "40",
@@ -7237,7 +7276,8 @@
         "y": 86
       },
       "image": "images/DamageSkin/40_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "41",
@@ -7418,7 +7458,8 @@
         "y": 89
       },
       "image": "images/DamageSkin/41_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "42",
@@ -7599,7 +7640,8 @@
         "y": 97
       },
       "image": "images/DamageSkin/42_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "43",
@@ -7780,7 +7822,8 @@
         "y": 83
       },
       "image": "images/DamageSkin/43_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "44",
@@ -7961,7 +8004,8 @@
         "y": 72
       },
       "image": "images/DamageSkin/44_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "45",
@@ -8142,7 +8186,8 @@
         "y": 71
       },
       "image": "images/DamageSkin/45_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "46",
@@ -8323,7 +8368,8 @@
         "y": 74
       },
       "image": "images/DamageSkin/46_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "47",
@@ -8504,7 +8550,8 @@
         "y": 76
       },
       "image": "images/DamageSkin/47_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "48",
@@ -8685,7 +8732,8 @@
         "y": 106
       },
       "image": "images/DamageSkin/48_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "49",
@@ -8866,7 +8914,8 @@
         "y": 95
       },
       "image": "images/DamageSkin/49_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "50",
@@ -9047,7 +9096,8 @@
         "y": 82
       },
       "image": "images/DamageSkin/50_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "51",
@@ -9228,7 +9278,8 @@
         "y": 74
       },
       "image": "images/DamageSkin/51_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "52",
@@ -9409,7 +9460,8 @@
         "y": 79
       },
       "image": "images/DamageSkin/52_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "53",
@@ -9590,7 +9642,8 @@
         "y": 56
       },
       "image": "images/DamageSkin/53_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "54",
@@ -9771,7 +9824,8 @@
         "y": 78
       },
       "image": "images/DamageSkin/54_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "55",
@@ -9952,7 +10006,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/55_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "56",
@@ -10133,7 +10188,8 @@
         "y": 67
       },
       "image": "images/DamageSkin/56_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "57",
@@ -10314,7 +10370,8 @@
         "y": 78
       },
       "image": "images/DamageSkin/57_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "58",
@@ -10495,7 +10552,8 @@
         "y": 74
       },
       "image": "images/DamageSkin/58_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "59",
@@ -10676,7 +10734,8 @@
         "y": 77
       },
       "image": "images/DamageSkin/59_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "60",
@@ -10857,7 +10916,8 @@
         "y": 81
       },
       "image": "images/DamageSkin/60_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "61",
@@ -11038,7 +11098,8 @@
         "y": 69
       },
       "image": "images/DamageSkin/61_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "62",
@@ -11219,7 +11280,8 @@
         "y": 69
       },
       "image": "images/DamageSkin/62_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "63",
@@ -11400,7 +11462,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/63_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "64",
@@ -11581,7 +11644,8 @@
         "y": 50
       },
       "image": "images/DamageSkin/64_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "65",
@@ -11762,7 +11826,8 @@
         "y": 68
       },
       "image": "images/DamageSkin/65_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "66",
@@ -11943,7 +12008,8 @@
         "y": 82
       },
       "image": "images/DamageSkin/66_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "67",
@@ -12124,7 +12190,8 @@
         "y": 86
       },
       "image": "images/DamageSkin/67_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "68",
@@ -12305,7 +12372,8 @@
         "y": 89
       },
       "image": "images/DamageSkin/68_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "69",
@@ -12486,7 +12554,8 @@
         "y": 97
       },
       "image": "images/DamageSkin/69_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "70",
@@ -12667,7 +12736,8 @@
         "y": 83
       },
       "image": "images/DamageSkin/70_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "71",
@@ -12848,7 +12918,8 @@
         "y": 72
       },
       "image": "images/DamageSkin/71_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "72",
@@ -13029,7 +13100,8 @@
         "y": 71
       },
       "image": "images/DamageSkin/72_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "73",
@@ -13210,7 +13282,8 @@
         "y": 74
       },
       "image": "images/DamageSkin/73_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "74",
@@ -13391,7 +13464,8 @@
         "y": 47
       },
       "image": "images/DamageSkin/74_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "75",
@@ -13572,7 +13646,8 @@
         "y": 55
       },
       "image": "images/DamageSkin/75_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "76",
@@ -13753,7 +13828,8 @@
         "y": 74
       },
       "image": "images/DamageSkin/76_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "77",
@@ -13934,7 +14010,8 @@
         "y": 85
       },
       "image": "images/DamageSkin/77_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "78",
@@ -14115,7 +14192,8 @@
         "y": 87
       },
       "image": "images/DamageSkin/78_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "79",
@@ -14296,7 +14374,8 @@
         "y": 74
       },
       "image": "images/DamageSkin/79_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "80",
@@ -14477,7 +14556,8 @@
         "y": 76
       },
       "image": "images/DamageSkin/80_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "81",
@@ -14658,7 +14738,8 @@
         "y": 66
       },
       "image": "images/DamageSkin/81_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "82",
@@ -14839,7 +14920,8 @@
         "y": 64
       },
       "image": "images/DamageSkin/82_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "83",
@@ -15020,7 +15102,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/83_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "84",
@@ -15201,7 +15284,8 @@
         "y": 95
       },
       "image": "images/DamageSkin/84_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "85",
@@ -15382,7 +15466,8 @@
         "y": 86
       },
       "image": "images/DamageSkin/85_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "86",
@@ -15563,7 +15648,8 @@
         "y": 83
       },
       "image": "images/DamageSkin/86_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "87",
@@ -15744,7 +15830,8 @@
         "y": 64
       },
       "image": "images/DamageSkin/87_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "88",
@@ -15925,7 +16012,8 @@
         "y": 75
       },
       "image": "images/DamageSkin/88_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "89",
@@ -16106,7 +16194,8 @@
         "y": 48
       },
       "image": "images/DamageSkin/89_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "90",
@@ -16287,7 +16376,8 @@
         "y": 85
       },
       "image": "images/DamageSkin/90_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "91",
@@ -16468,7 +16558,8 @@
         "y": 80
       },
       "image": "images/DamageSkin/91_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "92",
@@ -16649,7 +16740,8 @@
         "y": 44
       },
       "image": "images/DamageSkin/92_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "93",
@@ -16830,7 +16922,8 @@
         "y": 76
       },
       "image": "images/DamageSkin/93_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "94",
@@ -17011,7 +17104,8 @@
         "y": 47
       },
       "image": "images/DamageSkin/94_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "95",
@@ -17192,7 +17286,8 @@
         "y": 95
       },
       "image": "images/DamageSkin/95_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "96",
@@ -17373,7 +17468,8 @@
         "y": 61
       },
       "image": "images/DamageSkin/96_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "97",
@@ -17554,7 +17650,8 @@
         "y": 57
       },
       "image": "images/DamageSkin/97_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "98",
@@ -17735,7 +17832,8 @@
         "y": 53
       },
       "image": "images/DamageSkin/98_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "99",
@@ -17916,7 +18014,8 @@
         "y": 58
       },
       "image": "images/DamageSkin/99_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "100",
@@ -18097,7 +18196,8 @@
         "y": 40
       },
       "image": "images/DamageSkin/100_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "101",
@@ -18278,7 +18378,8 @@
         "y": 79
       },
       "image": "images/DamageSkin/101_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "102",
@@ -18459,7 +18560,8 @@
         "y": 105
       },
       "image": "images/DamageSkin/102_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "103",
@@ -18640,7 +18742,8 @@
         "y": 104
       },
       "image": "images/DamageSkin/103_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "104",
@@ -18821,7 +18924,8 @@
         "y": 83
       },
       "image": "images/DamageSkin/104_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "105",
@@ -19002,7 +19106,8 @@
         "y": 86
       },
       "image": "images/DamageSkin/105_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "106",
@@ -19183,7 +19288,8 @@
         "y": 97
       },
       "image": "images/DamageSkin/106_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "107",
@@ -19364,7 +19470,8 @@
         "y": 61
       },
       "image": "images/DamageSkin/107_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "108",
@@ -19545,7 +19652,8 @@
         "y": 58
       },
       "image": "images/DamageSkin/108_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "109",
@@ -19726,7 +19834,8 @@
         "y": 89
       },
       "image": "images/DamageSkin/109_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "110",
@@ -19907,7 +20016,8 @@
         "y": 57
       },
       "image": "images/DamageSkin/110_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "111",
@@ -20088,7 +20198,8 @@
         "y": 0
       },
       "image": "images/DamageSkin/111_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "112",
@@ -20269,7 +20380,8 @@
         "y": 111
       },
       "image": "images/DamageSkin/112_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "113",
@@ -20450,7 +20562,8 @@
         "y": 42
       },
       "image": "images/DamageSkin/113_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "114",
@@ -20631,7 +20744,8 @@
         "y": 85
       },
       "image": "images/DamageSkin/114_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "115",
@@ -20812,7 +20926,8 @@
         "y": 0
       },
       "image": "images/DamageSkin/115_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "116",
@@ -20993,7 +21108,8 @@
         "y": 62
       },
       "image": "images/DamageSkin/116_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "117",
@@ -21174,7 +21290,8 @@
         "y": 0
       },
       "image": "images/DamageSkin/117_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "118",
@@ -21355,7 +21472,8 @@
         "y": 73
       },
       "image": "images/DamageSkin/118_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "119",
@@ -21536,7 +21654,8 @@
         "y": 67
       },
       "image": "images/DamageSkin/119_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "120",
@@ -21717,7 +21836,8 @@
         "y": 116
       },
       "image": "images/DamageSkin/120_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "121",
@@ -21898,7 +22018,8 @@
         "y": 97
       },
       "image": "images/DamageSkin/121_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "122",
@@ -22079,7 +22200,8 @@
         "y": 125
       },
       "image": "images/DamageSkin/122_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "123",
@@ -22260,7 +22382,8 @@
         "y": 77
       },
       "image": "images/DamageSkin/123_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "124",
@@ -22441,7 +22564,8 @@
         "y": 77
       },
       "image": "images/DamageSkin/124_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "125",
@@ -22622,7 +22746,8 @@
         "y": 102
       },
       "image": "images/DamageSkin/125_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "126",
@@ -22803,7 +22928,8 @@
         "y": 53
       },
       "image": "images/DamageSkin/126_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "127",
@@ -22984,7 +23110,8 @@
         "y": 100
       },
       "image": "images/DamageSkin/127_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "128",
@@ -23165,7 +23292,8 @@
         "y": 107
       },
       "image": "images/DamageSkin/128_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "129",
@@ -23346,7 +23474,8 @@
         "y": 87
       },
       "image": "images/DamageSkin/129_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "130",
@@ -23527,7 +23656,8 @@
         "y": 93
       },
       "image": "images/DamageSkin/130_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "131",
@@ -23708,7 +23838,8 @@
         "y": 91
       },
       "image": "images/DamageSkin/131_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "132",
@@ -23889,7 +24020,8 @@
         "y": 78
       },
       "image": "images/DamageSkin/132_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "133",
@@ -24070,7 +24202,8 @@
         "y": 62
       },
       "image": "images/DamageSkin/133_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "134",
@@ -24251,7 +24384,8 @@
         "y": 123
       },
       "image": "images/DamageSkin/134_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "135",
@@ -24432,7 +24566,8 @@
         "y": 95
       },
       "image": "images/DamageSkin/135_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "136",
@@ -24613,7 +24748,8 @@
         "y": 93
       },
       "image": "images/DamageSkin/136_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "137",
@@ -24794,7 +24930,8 @@
         "y": 96
       },
       "image": "images/DamageSkin/137_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "138",
@@ -24975,7 +25112,8 @@
         "y": 92
       },
       "image": "images/DamageSkin/138_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "139",
@@ -25156,7 +25294,8 @@
         "y": 94
       },
       "image": "images/DamageSkin/139_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "140",
@@ -25337,7 +25476,8 @@
         "y": 125
       },
       "image": "images/DamageSkin/140_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "141",
@@ -25518,7 +25658,8 @@
         "y": 73
       },
       "image": "images/DamageSkin/141_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "142",
@@ -25699,7 +25840,8 @@
         "y": 108
       },
       "image": "images/DamageSkin/142_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "143",
@@ -25880,7 +26022,8 @@
         "y": 76
       },
       "image": "images/DamageSkin/143_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "144",
@@ -26061,7 +26204,8 @@
         "y": 78
       },
       "image": "images/DamageSkin/144_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "145",
@@ -26242,7 +26386,8 @@
         "y": 115
       },
       "image": "images/DamageSkin/145_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "146",
@@ -26423,7 +26568,8 @@
         "y": 108
       },
       "image": "images/DamageSkin/146_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "147",
@@ -26604,7 +26750,8 @@
         "y": 65
       },
       "image": "images/DamageSkin/147_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "148",
@@ -26785,7 +26932,8 @@
         "y": 101
       },
       "image": "images/DamageSkin/148_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "149",
@@ -26966,7 +27114,8 @@
         "y": 108
       },
       "image": "images/DamageSkin/149_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "150",
@@ -27147,7 +27296,8 @@
         "y": 130
       },
       "image": "images/DamageSkin/150_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "152",
@@ -27328,7 +27478,8 @@
         "y": 112
       },
       "image": "images/DamageSkin/152_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "153",
@@ -27509,7 +27660,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/153_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "154",
@@ -27690,7 +27842,8 @@
         "y": 76
       },
       "image": "images/DamageSkin/154_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "155",
@@ -27871,7 +28024,8 @@
         "y": 97
       },
       "image": "images/DamageSkin/155_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "156",
@@ -28052,7 +28206,8 @@
         "y": 96
       },
       "image": "images/DamageSkin/156_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "157",
@@ -28233,7 +28388,8 @@
         "y": 137
       },
       "image": "images/DamageSkin/157_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "158",
@@ -28414,7 +28570,8 @@
         "y": 88
       },
       "image": "images/DamageSkin/158_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "159",
@@ -28595,7 +28752,8 @@
         "y": 78
       },
       "image": "images/DamageSkin/159_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "160",
@@ -28776,7 +28934,8 @@
         "y": 92
       },
       "image": "images/DamageSkin/160_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "161",
@@ -28957,7 +29116,8 @@
         "y": 64
       },
       "image": "images/DamageSkin/161_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "162",
@@ -29138,7 +29298,8 @@
         "y": 81
       },
       "image": "images/DamageSkin/162_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "163",
@@ -29319,7 +29480,8 @@
         "y": 97
       },
       "image": "images/DamageSkin/163_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "164",
@@ -29500,7 +29662,8 @@
         "y": 72
       },
       "image": "images/DamageSkin/164_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "165",
@@ -29681,7 +29844,8 @@
         "y": 88
       },
       "image": "images/DamageSkin/165_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "166",
@@ -29862,7 +30026,8 @@
         "y": 58
       },
       "image": "images/DamageSkin/166_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "167",
@@ -30043,7 +30208,8 @@
         "y": 72
       },
       "image": "images/DamageSkin/167_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "168",
@@ -30224,7 +30390,8 @@
         "y": 108
       },
       "image": "images/DamageSkin/168_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "169",
@@ -30405,7 +30572,8 @@
         "y": 53
       },
       "image": "images/DamageSkin/169_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "170",
@@ -30586,7 +30754,8 @@
         "y": 159
       },
       "image": "images/DamageSkin/170_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "171",
@@ -30767,7 +30936,8 @@
         "y": 81
       },
       "image": "images/DamageSkin/171_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "172",
@@ -30948,7 +31118,8 @@
         "y": 133
       },
       "image": "images/DamageSkin/172_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "173",
@@ -31129,7 +31300,8 @@
         "y": 96
       },
       "image": "images/DamageSkin/173_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "174",
@@ -31310,7 +31482,8 @@
         "y": 66
       },
       "image": "images/DamageSkin/174_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "175",
@@ -31491,7 +31664,8 @@
         "y": 76
       },
       "image": "images/DamageSkin/175_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "176",
@@ -31672,7 +31846,8 @@
         "y": 154
       },
       "image": "images/DamageSkin/176_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "177",
@@ -31853,7 +32028,8 @@
         "y": 78
       },
       "image": "images/DamageSkin/177_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "178",
@@ -32034,7 +32210,8 @@
         "y": 84
       },
       "image": "images/DamageSkin/178_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "179",
@@ -32215,7 +32392,8 @@
         "y": 16
       },
       "image": "images/DamageSkin/179_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "180",
@@ -32396,7 +32574,8 @@
         "y": 86
       },
       "image": "images/DamageSkin/180_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "181",
@@ -32577,7 +32756,8 @@
         "y": 79
       },
       "image": "images/DamageSkin/181_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "182",
@@ -32758,7 +32938,8 @@
         "y": 65
       },
       "image": "images/DamageSkin/182_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "183",
@@ -32939,7 +33120,8 @@
         "y": 69
       },
       "image": "images/DamageSkin/183_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "184",
@@ -33120,7 +33302,8 @@
         "y": 46
       },
       "image": "images/DamageSkin/184_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "185",
@@ -33301,7 +33484,8 @@
         "y": 67
       },
       "image": "images/DamageSkin/185_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "186",
@@ -33482,7 +33666,81 @@
         "y": 90
       },
       "image": "images/DamageSkin/186_effect.png"
-    }
+    },
+    "unit": [
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 25,
+          "y": 48
+        },
+        "image": "images/DamageSkin/186_unit_dot.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 24,
+          "y": 47
+        },
+        "image": "images/DamageSkin/186_unit_k.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 23,
+          "y": 49
+        },
+        "image": "images/DamageSkin/186_unit_m.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 22,
+          "y": 46
+        },
+        "image": "images/DamageSkin/186_unit_b.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 25,
+          "y": 48
+        },
+        "image": "images/DamageSkin/186_unit_crit_dot.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 24,
+          "y": 47
+        },
+        "image": "images/DamageSkin/186_unit_crit_k.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 23,
+          "y": 49
+        },
+        "image": "images/DamageSkin/186_unit_crit_m.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 22,
+          "y": 46
+        },
+        "image": "images/DamageSkin/186_unit_crit_b.png",
+        "kind": "critical"
+      }
+    ]
   },
   {
     "id": "187",
@@ -33663,7 +33921,8 @@
         "y": 52
       },
       "image": "images/DamageSkin/187_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "188",
@@ -33844,7 +34103,8 @@
         "y": 83
       },
       "image": "images/DamageSkin/188_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "189",
@@ -34025,7 +34285,8 @@
         "y": 66
       },
       "image": "images/DamageSkin/189_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "190",
@@ -34206,7 +34467,8 @@
         "y": 106
       },
       "image": "images/DamageSkin/190_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "191",
@@ -34387,7 +34649,8 @@
         "y": 55
       },
       "image": "images/DamageSkin/191_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "192",
@@ -34568,7 +34831,8 @@
         "y": 78
       },
       "image": "images/DamageSkin/192_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "193",
@@ -34749,7 +35013,8 @@
         "y": 93
       },
       "image": "images/DamageSkin/193_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "194",
@@ -34930,7 +35195,8 @@
         "y": 96
       },
       "image": "images/DamageSkin/194_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "195",
@@ -35111,7 +35377,8 @@
         "y": 86
       },
       "image": "images/DamageSkin/195_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "196",
@@ -35292,7 +35559,8 @@
         "y": 102
       },
       "image": "images/DamageSkin/196_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "197",
@@ -35473,7 +35741,8 @@
         "y": 79
       },
       "image": "images/DamageSkin/197_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "198",
@@ -35654,7 +35923,8 @@
         "y": 88
       },
       "image": "images/DamageSkin/198_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "199",
@@ -35835,7 +36105,8 @@
         "y": 63
       },
       "image": "images/DamageSkin/199_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "200",
@@ -36016,7 +36287,8 @@
         "y": 64
       },
       "image": "images/DamageSkin/200_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "201",
@@ -36197,7 +36469,8 @@
         "y": 81
       },
       "image": "images/DamageSkin/201_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "202",
@@ -36378,7 +36651,8 @@
         "y": 86
       },
       "image": "images/DamageSkin/202_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "203",
@@ -36559,7 +36833,8 @@
         "y": 72
       },
       "image": "images/DamageSkin/203_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "204",
@@ -36740,7 +37015,8 @@
         "y": 81
       },
       "image": "images/DamageSkin/204_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "205",
@@ -36921,7 +37197,8 @@
         "y": 64
       },
       "image": "images/DamageSkin/205_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "206",
@@ -37102,7 +37379,8 @@
         "y": 67
       },
       "image": "images/DamageSkin/206_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "207",
@@ -37283,7 +37561,8 @@
         "y": 41
       },
       "image": "images/DamageSkin/207_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "208",
@@ -37464,7 +37743,27 @@
         "y": 73
       },
       "image": "images/DamageSkin/208_effect.png"
-    }
+    },
+    "unit": [
+      {
+        "digit": "b",
+        "origin": {
+          "x": 18,
+          "y": 38
+        },
+        "image": "images/DamageSkin/208_unit_b.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 21,
+          "y": 47
+        },
+        "image": "images/DamageSkin/208_unit_crit_b.png",
+        "kind": "critical"
+      }
+    ]
   },
   {
     "id": "209",
@@ -37645,7 +37944,8 @@
         "y": 94
       },
       "image": "images/DamageSkin/209_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "210",
@@ -37826,7 +38126,8 @@
         "y": 122
       },
       "image": "images/DamageSkin/210_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "211",
@@ -38007,7 +38308,27 @@
         "y": 117
       },
       "image": "images/DamageSkin/211_effect.png"
-    }
+    },
+    "unit": [
+      {
+        "digit": "b",
+        "origin": {
+          "x": 36,
+          "y": 71
+        },
+        "image": "images/DamageSkin/211_unit_b.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 40,
+          "y": 86
+        },
+        "image": "images/DamageSkin/211_unit_crit_b.png",
+        "kind": "critical"
+      }
+    ]
   },
   {
     "id": "212",
@@ -38188,7 +38509,8 @@
         "y": 55
       },
       "image": "images/DamageSkin/212_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "213",
@@ -38369,7 +38691,8 @@
         "y": 58
       },
       "image": "images/DamageSkin/213_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "214",
@@ -38550,7 +38873,8 @@
         "y": 36
       },
       "image": "images/DamageSkin/214_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "215",
@@ -38731,7 +39055,27 @@
         "y": 36
       },
       "image": "images/DamageSkin/215_effect.png"
-    }
+    },
+    "unit": [
+      {
+        "digit": "b",
+        "origin": {
+          "x": 29,
+          "y": 72
+        },
+        "image": "images/DamageSkin/215_unit_b.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 41,
+          "y": 87
+        },
+        "image": "images/DamageSkin/215_unit_crit_b.png",
+        "kind": "critical"
+      }
+    ]
   },
   {
     "id": "216",
@@ -38912,7 +39256,8 @@
         "y": 65
       },
       "image": "images/DamageSkin/216_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "217",
@@ -39093,7 +39438,27 @@
         "y": 74
       },
       "image": "images/DamageSkin/217_effect.png"
-    }
+    },
+    "unit": [
+      {
+        "digit": "b",
+        "origin": {
+          "x": 26,
+          "y": 41
+        },
+        "image": "images/DamageSkin/217_unit_b.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 25,
+          "y": 38
+        },
+        "image": "images/DamageSkin/217_unit_crit_b.png",
+        "kind": "critical"
+      }
+    ]
   },
   {
     "id": "218",
@@ -39274,7 +39639,8 @@
         "y": 69
       },
       "image": "images/DamageSkin/218_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "219",
@@ -39455,7 +39821,8 @@
         "y": 67
       },
       "image": "images/DamageSkin/219_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "221",
@@ -39636,7 +40003,81 @@
         "y": 79
       },
       "image": "images/DamageSkin/221_effect.png"
-    }
+    },
+    "unit": [
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 23,
+          "y": 44
+        },
+        "image": "images/DamageSkin/221_unit_dot.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 24,
+          "y": 42
+        },
+        "image": "images/DamageSkin/221_unit_k.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 24,
+          "y": 41
+        },
+        "image": "images/DamageSkin/221_unit_m.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 27,
+          "y": 42
+        },
+        "image": "images/DamageSkin/221_unit_b.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 23,
+          "y": 46
+        },
+        "image": "images/DamageSkin/221_unit_crit_dot.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 24,
+          "y": 44
+        },
+        "image": "images/DamageSkin/221_unit_crit_k.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 25,
+          "y": 43
+        },
+        "image": "images/DamageSkin/221_unit_crit_m.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 30,
+          "y": 49
+        },
+        "image": "images/DamageSkin/221_unit_crit_b.png",
+        "kind": "critical"
+      }
+    ]
   },
   {
     "id": "222",
@@ -39817,7 +40258,81 @@
         "y": 94
       },
       "image": "images/DamageSkin/222_effect.png"
-    }
+    },
+    "unit": [
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 62,
+          "y": 47
+        },
+        "image": "images/DamageSkin/222_unit_dot.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 62,
+          "y": 47
+        },
+        "image": "images/DamageSkin/222_unit_k.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 62,
+          "y": 47
+        },
+        "image": "images/DamageSkin/222_unit_m.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 68,
+          "y": 54
+        },
+        "image": "images/DamageSkin/222_unit_b.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 64,
+          "y": 52
+        },
+        "image": "images/DamageSkin/222_unit_crit_dot.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 63,
+          "y": 53
+        },
+        "image": "images/DamageSkin/222_unit_crit_k.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 64,
+          "y": 52
+        },
+        "image": "images/DamageSkin/222_unit_crit_m.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 72,
+          "y": 63
+        },
+        "image": "images/DamageSkin/222_unit_crit_b.png",
+        "kind": "critical"
+      }
+    ]
   },
   {
     "id": "223",
@@ -39998,7 +40513,8 @@
         "y": 89
       },
       "image": "images/DamageSkin/223_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "224",
@@ -40179,7 +40695,8 @@
         "y": 83
       },
       "image": "images/DamageSkin/224_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "225",
@@ -40360,7 +40877,8 @@
         "y": 96
       },
       "image": "images/DamageSkin/225_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "226",
@@ -40541,7 +41059,8 @@
         "y": 0
       },
       "image": "images/DamageSkin/226_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "227",
@@ -40722,7 +41241,8 @@
         "y": 81
       },
       "image": "images/DamageSkin/227_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "228",
@@ -40903,7 +41423,8 @@
         "y": 78
       },
       "image": "images/DamageSkin/228_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "229",
@@ -41084,7 +41605,8 @@
         "y": 97
       },
       "image": "images/DamageSkin/229_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "230",
@@ -41265,7 +41787,8 @@
         "y": 94
       },
       "image": "images/DamageSkin/230_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "231",
@@ -41446,7 +41969,27 @@
         "y": 81
       },
       "image": "images/DamageSkin/231_effect.png"
-    }
+    },
+    "unit": [
+      {
+        "digit": "b",
+        "origin": {
+          "x": 16,
+          "y": 38
+        },
+        "image": "images/DamageSkin/231_unit_b.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 20,
+          "y": 50
+        },
+        "image": "images/DamageSkin/231_unit_crit_b.png",
+        "kind": "critical"
+      }
+    ]
   },
   {
     "id": "232",
@@ -41627,7 +42170,8 @@
         "y": 72
       },
       "image": "images/DamageSkin/232_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "233",
@@ -41808,7 +42352,8 @@
         "y": 69
       },
       "image": "images/DamageSkin/233_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "234",
@@ -41989,7 +42534,8 @@
         "y": 119
       },
       "image": "images/DamageSkin/234_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "235",
@@ -42170,7 +42716,8 @@
         "y": 81
       },
       "image": "images/DamageSkin/235_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "236",
@@ -42351,7 +42898,8 @@
         "y": 95
       },
       "image": "images/DamageSkin/236_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "237",
@@ -42532,7 +43080,8 @@
         "y": 58
       },
       "image": "images/DamageSkin/237_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "238",
@@ -42713,7 +43262,8 @@
         "y": 39
       },
       "image": "images/DamageSkin/238_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "239",
@@ -42894,7 +43444,8 @@
         "y": 89
       },
       "image": "images/DamageSkin/239_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "240",
@@ -43075,7 +43626,8 @@
         "y": 77
       },
       "image": "images/DamageSkin/240_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "241",
@@ -43256,7 +43808,8 @@
         "y": 95
       },
       "image": "images/DamageSkin/241_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "242",
@@ -43437,7 +43990,8 @@
         "y": 139
       },
       "image": "images/DamageSkin/242_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "243",
@@ -43618,7 +44172,8 @@
         "y": 81
       },
       "image": "images/DamageSkin/243_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "244",
@@ -43799,7 +44354,8 @@
         "y": 67
       },
       "image": "images/DamageSkin/244_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "245",
@@ -43980,7 +44536,8 @@
         "y": 113
       },
       "image": "images/DamageSkin/245_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "246",
@@ -44161,7 +44718,8 @@
         "y": 80
       },
       "image": "images/DamageSkin/246_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "247",
@@ -44342,7 +44900,8 @@
         "y": 102
       },
       "image": "images/DamageSkin/247_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "248",
@@ -44523,7 +45082,8 @@
         "y": 88
       },
       "image": "images/DamageSkin/248_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "249",
@@ -44704,7 +45264,8 @@
         "y": 24
       },
       "image": "images/DamageSkin/249_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "250",
@@ -44885,7 +45446,8 @@
         "y": 83
       },
       "image": "images/DamageSkin/250_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "251",
@@ -45066,7 +45628,8 @@
         "y": 47
       },
       "image": "images/DamageSkin/251_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "252",
@@ -45247,7 +45810,8 @@
         "y": 59
       },
       "image": "images/DamageSkin/252_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "253",
@@ -45428,7 +45992,8 @@
         "y": 115
       },
       "image": "images/DamageSkin/253_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "254",
@@ -45609,7 +46174,8 @@
         "y": 105
       },
       "image": "images/DamageSkin/254_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "255",
@@ -45790,7 +46356,8 @@
         "y": 76
       },
       "image": "images/DamageSkin/255_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "256",
@@ -45971,7 +46538,8 @@
         "y": 59
       },
       "image": "images/DamageSkin/256_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "257",
@@ -46152,7 +46720,27 @@
         "y": 66
       },
       "image": "images/DamageSkin/257_effect.png"
-    }
+    },
+    "unit": [
+      {
+        "digit": "b",
+        "origin": {
+          "x": 17,
+          "y": 19
+        },
+        "image": "images/DamageSkin/257_unit_b.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 34,
+          "y": 47
+        },
+        "image": "images/DamageSkin/257_unit_crit_b.png",
+        "kind": "critical"
+      }
+    ]
   },
   {
     "id": "258",
@@ -46333,7 +46921,8 @@
         "y": 66
       },
       "image": "images/DamageSkin/258_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "259",
@@ -46514,7 +47103,81 @@
         "y": 95
       },
       "image": "images/DamageSkin/259_effect.png"
-    }
+    },
+    "unit": [
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 15,
+          "y": 34
+        },
+        "image": "images/DamageSkin/259_unit_dot.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 30,
+          "y": 46
+        },
+        "image": "images/DamageSkin/259_unit_k.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 30,
+          "y": 46
+        },
+        "image": "images/DamageSkin/259_unit_m.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 30,
+          "y": 46
+        },
+        "image": "images/DamageSkin/259_unit_b.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 18,
+          "y": 25
+        },
+        "image": "images/DamageSkin/259_unit_crit_dot.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 33,
+          "y": 51
+        },
+        "image": "images/DamageSkin/259_unit_crit_k.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 33,
+          "y": 51
+        },
+        "image": "images/DamageSkin/259_unit_crit_m.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 35,
+          "y": 51
+        },
+        "image": "images/DamageSkin/259_unit_crit_b.png",
+        "kind": "critical"
+      }
+    ]
   },
   {
     "id": "260",
@@ -46695,7 +47358,8 @@
         "y": 99
       },
       "image": "images/DamageSkin/260_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "261",
@@ -46876,7 +47540,27 @@
         "y": 99
       },
       "image": "images/DamageSkin/261_effect.png"
-    }
+    },
+    "unit": [
+      {
+        "digit": "b",
+        "origin": {
+          "x": 23,
+          "y": 42
+        },
+        "image": "images/DamageSkin/261_unit_b.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 28,
+          "y": 52
+        },
+        "image": "images/DamageSkin/261_unit_crit_b.png",
+        "kind": "critical"
+      }
+    ]
   },
   {
     "id": "262",
@@ -47057,7 +47741,8 @@
         "y": 78
       },
       "image": "images/DamageSkin/262_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "263",
@@ -47238,7 +47923,8 @@
         "y": 72
       },
       "image": "images/DamageSkin/263_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "264",
@@ -47419,7 +48105,8 @@
         "y": 65
       },
       "image": "images/DamageSkin/264_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "265",
@@ -47600,7 +48287,8 @@
         "y": 80
       },
       "image": "images/DamageSkin/265_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "266",
@@ -47781,7 +48469,8 @@
         "y": 102
       },
       "image": "images/DamageSkin/266_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "267",
@@ -47962,7 +48651,81 @@
         "y": 72
       },
       "image": "images/DamageSkin/267_effect.png"
-    }
+    },
+    "unit": [
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 15,
+          "y": 21
+        },
+        "image": "images/DamageSkin/267_unit_dot.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 25,
+          "y": 50
+        },
+        "image": "images/DamageSkin/267_unit_k.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 31,
+          "y": 48
+        },
+        "image": "images/DamageSkin/267_unit_m.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 25,
+          "y": 50
+        },
+        "image": "images/DamageSkin/267_unit_b.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 15,
+          "y": 21
+        },
+        "image": "images/DamageSkin/267_unit_crit_dot.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 25,
+          "y": 50
+        },
+        "image": "images/DamageSkin/267_unit_crit_k.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 31,
+          "y": 48
+        },
+        "image": "images/DamageSkin/267_unit_crit_m.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 25,
+          "y": 50
+        },
+        "image": "images/DamageSkin/267_unit_crit_b.png",
+        "kind": "critical"
+      }
+    ]
   },
   {
     "id": "268",
@@ -48143,7 +48906,8 @@
         "y": 116
       },
       "image": "images/DamageSkin/268_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "269",
@@ -48324,7 +49088,8 @@
         "y": 130
       },
       "image": "images/DamageSkin/269_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "270",
@@ -48505,7 +49270,8 @@
         "y": 63
       },
       "image": "images/DamageSkin/270_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "271",
@@ -48686,7 +49452,8 @@
         "y": 57
       },
       "image": "images/DamageSkin/271_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "273",
@@ -48867,7 +49634,8 @@
         "y": 52
       },
       "image": "images/DamageSkin/273_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "274",
@@ -49048,7 +49816,8 @@
         "y": 76
       },
       "image": "images/DamageSkin/274_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "275",
@@ -49229,7 +49998,8 @@
         "y": 45
       },
       "image": "images/DamageSkin/275_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "276",
@@ -49410,7 +50180,81 @@
         "y": 68
       },
       "image": "images/DamageSkin/276_effect.png"
-    }
+    },
+    "unit": [
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 12,
+          "y": 12
+        },
+        "image": "images/DamageSkin/276_unit_dot.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 24,
+          "y": 47
+        },
+        "image": "images/DamageSkin/276_unit_k.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 27,
+          "y": 47
+        },
+        "image": "images/DamageSkin/276_unit_m.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 22,
+          "y": 47
+        },
+        "image": "images/DamageSkin/276_unit_b.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 15,
+          "y": 15
+        },
+        "image": "images/DamageSkin/276_unit_crit_dot.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 30,
+          "y": 54
+        },
+        "image": "images/DamageSkin/276_unit_crit_k.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 32,
+          "y": 53
+        },
+        "image": "images/DamageSkin/276_unit_crit_m.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 26,
+          "y": 54
+        },
+        "image": "images/DamageSkin/276_unit_crit_b.png",
+        "kind": "critical"
+      }
+    ]
   },
   {
     "id": "277",
@@ -49591,7 +50435,81 @@
         "y": 55
       },
       "image": "images/DamageSkin/277_effect.png"
-    }
+    },
+    "unit": [
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 9,
+          "y": 11
+        },
+        "image": "images/DamageSkin/277_unit_dot.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 21,
+          "y": 39
+        },
+        "image": "images/DamageSkin/277_unit_k.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 23,
+          "y": 39
+        },
+        "image": "images/DamageSkin/277_unit_m.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 22,
+          "y": 39
+        },
+        "image": "images/DamageSkin/277_unit_b.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 9,
+          "y": 11
+        },
+        "image": "images/DamageSkin/277_unit_crit_dot.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 25,
+          "y": 49
+        },
+        "image": "images/DamageSkin/277_unit_crit_k.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 30,
+          "y": 49
+        },
+        "image": "images/DamageSkin/277_unit_crit_m.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 26,
+          "y": 49
+        },
+        "image": "images/DamageSkin/277_unit_crit_b.png",
+        "kind": "critical"
+      }
+    ]
   },
   {
     "id": "278",
@@ -49772,7 +50690,8 @@
         "y": 50
       },
       "image": "images/DamageSkin/278_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "279",
@@ -49953,7 +50872,81 @@
         "y": 44
       },
       "image": "images/DamageSkin/279_effect.png"
-    }
+    },
+    "unit": [
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 13,
+          "y": 13
+        },
+        "image": "images/DamageSkin/279_unit_dot.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 21,
+          "y": 38
+        },
+        "image": "images/DamageSkin/279_unit_k.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 24,
+          "y": 38
+        },
+        "image": "images/DamageSkin/279_unit_m.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 21,
+          "y": 38
+        },
+        "image": "images/DamageSkin/279_unit_b.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 13,
+          "y": 13
+        },
+        "image": "images/DamageSkin/279_unit_crit_dot.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 24,
+          "y": 44
+        },
+        "image": "images/DamageSkin/279_unit_crit_k.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 26,
+          "y": 44
+        },
+        "image": "images/DamageSkin/279_unit_crit_m.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 23,
+          "y": 44
+        },
+        "image": "images/DamageSkin/279_unit_crit_b.png",
+        "kind": "critical"
+      }
+    ]
   },
   {
     "id": "280",
@@ -50134,7 +51127,81 @@
         "y": 45
       },
       "image": "images/DamageSkin/280_effect.png"
-    }
+    },
+    "unit": [
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 12,
+          "y": 12
+        },
+        "image": "images/DamageSkin/280_unit_dot.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 24,
+          "y": 47
+        },
+        "image": "images/DamageSkin/280_unit_k.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 27,
+          "y": 47
+        },
+        "image": "images/DamageSkin/280_unit_m.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 22,
+          "y": 47
+        },
+        "image": "images/DamageSkin/280_unit_b.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 15,
+          "y": 15
+        },
+        "image": "images/DamageSkin/280_unit_crit_dot.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 30,
+          "y": 54
+        },
+        "image": "images/DamageSkin/280_unit_crit_k.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 32,
+          "y": 53
+        },
+        "image": "images/DamageSkin/280_unit_crit_m.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 26,
+          "y": 54
+        },
+        "image": "images/DamageSkin/280_unit_crit_b.png",
+        "kind": "critical"
+      }
+    ]
   },
   {
     "id": "281",
@@ -50315,7 +51382,8 @@
         "y": 68
       },
       "image": "images/DamageSkin/281_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "282",
@@ -50496,7 +51564,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/282_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "283",
@@ -50677,7 +51746,8 @@
         "y": 48
       },
       "image": "images/DamageSkin/283_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "284",
@@ -50858,7 +51928,8 @@
         "y": 92
       },
       "image": "images/DamageSkin/284_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "285",
@@ -51039,7 +52110,81 @@
         "y": 74
       },
       "image": "images/DamageSkin/285_effect.png"
-    }
+    },
+    "unit": [
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 11,
+          "y": 17
+        },
+        "image": "images/DamageSkin/285_unit_dot.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 24,
+          "y": 47
+        },
+        "image": "images/DamageSkin/285_unit_k.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 27,
+          "y": 47
+        },
+        "image": "images/DamageSkin/285_unit_m.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 22,
+          "y": 47
+        },
+        "image": "images/DamageSkin/285_unit_b.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 12,
+          "y": 17
+        },
+        "image": "images/DamageSkin/285_unit_crit_dot.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 30,
+          "y": 54
+        },
+        "image": "images/DamageSkin/285_unit_crit_k.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 32,
+          "y": 53
+        },
+        "image": "images/DamageSkin/285_unit_crit_m.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 26,
+          "y": 54
+        },
+        "image": "images/DamageSkin/285_unit_crit_b.png",
+        "kind": "critical"
+      }
+    ]
   },
   {
     "id": "286",
@@ -51220,7 +52365,81 @@
         "y": 74
       },
       "image": "images/DamageSkin/286_effect.png"
-    }
+    },
+    "unit": [
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 7,
+          "y": 36
+        },
+        "image": "images/DamageSkin/286_unit_dot.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 17,
+          "y": 51
+        },
+        "image": "images/DamageSkin/286_unit_k.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 22,
+          "y": 50
+        },
+        "image": "images/DamageSkin/286_unit_m.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 17,
+          "y": 51
+        },
+        "image": "images/DamageSkin/286_unit_b.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 7,
+          "y": 37
+        },
+        "image": "images/DamageSkin/286_unit_crit_dot.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 23,
+          "y": 57
+        },
+        "image": "images/DamageSkin/286_unit_crit_k.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 31,
+          "y": 57
+        },
+        "image": "images/DamageSkin/286_unit_crit_m.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 23,
+          "y": 55
+        },
+        "image": "images/DamageSkin/286_unit_crit_b.png",
+        "kind": "critical"
+      }
+    ]
   },
   {
     "id": "287",
@@ -51401,7 +52620,8 @@
         "y": 72
       },
       "image": "images/DamageSkin/287_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "288",
@@ -51582,7 +52802,8 @@
         "y": 86
       },
       "image": "images/DamageSkin/288_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "289",
@@ -51763,7 +52984,8 @@
         "y": 80
       },
       "image": "images/DamageSkin/289_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "290",
@@ -51944,7 +53166,27 @@
         "y": 80
       },
       "image": "images/DamageSkin/290_effect.png"
-    }
+    },
+    "unit": [
+      {
+        "digit": "b",
+        "origin": {
+          "x": 21,
+          "y": 51
+        },
+        "image": "images/DamageSkin/290_unit_b.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 30,
+          "y": 67
+        },
+        "image": "images/DamageSkin/290_unit_crit_b.png",
+        "kind": "critical"
+      }
+    ]
   },
   {
     "id": "291",
@@ -52125,7 +53367,81 @@
         "y": 86
       },
       "image": "images/DamageSkin/291_effect.png"
-    }
+    },
+    "unit": [
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 9,
+          "y": 21
+        },
+        "image": "images/DamageSkin/291_unit_dot.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 20,
+          "y": 54
+        },
+        "image": "images/DamageSkin/291_unit_k.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 23,
+          "y": 59
+        },
+        "image": "images/DamageSkin/291_unit_m.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 19,
+          "y": 58
+        },
+        "image": "images/DamageSkin/291_unit_b.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 13,
+          "y": 25
+        },
+        "image": "images/DamageSkin/291_unit_crit_dot.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 23,
+          "y": 61
+        },
+        "image": "images/DamageSkin/291_unit_crit_k.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 29,
+          "y": 66
+        },
+        "image": "images/DamageSkin/291_unit_crit_m.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 24,
+          "y": 66
+        },
+        "image": "images/DamageSkin/291_unit_crit_b.png",
+        "kind": "critical"
+      }
+    ]
   },
   {
     "id": "292",
@@ -52306,7 +53622,8 @@
         "y": 39
       },
       "image": "images/DamageSkin/292_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "293",
@@ -52487,7 +53804,8 @@
         "y": 65
       },
       "image": "images/DamageSkin/293_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "294",
@@ -52668,7 +53986,27 @@
         "y": 80
       },
       "image": "images/DamageSkin/294_effect.png"
-    }
+    },
+    "unit": [
+      {
+        "digit": "b",
+        "origin": {
+          "x": 25,
+          "y": 64
+        },
+        "image": "images/DamageSkin/294_unit_b.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 33,
+          "y": 75
+        },
+        "image": "images/DamageSkin/294_unit_crit_b.png",
+        "kind": "critical"
+      }
+    ]
   },
   {
     "id": "295",
@@ -52849,7 +54187,8 @@
         "y": 76
       },
       "image": "images/DamageSkin/295_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1287",
@@ -53030,7 +54369,8 @@
         "y": 81
       },
       "image": "images/DamageSkin/1287_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1290",
@@ -53211,7 +54551,8 @@
         "y": 90
       },
       "image": "images/DamageSkin/1290_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1030",
@@ -53392,7 +54733,8 @@
         "y": 79
       },
       "image": "images/DamageSkin/1030_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1302",
@@ -53573,7 +54915,8 @@
         "y": 56
       },
       "image": "images/DamageSkin/1302_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1322",
@@ -53754,7 +55097,8 @@
         "y": 77
       },
       "image": "images/DamageSkin/1322_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1010",
@@ -53935,7 +55279,8 @@
         "y": 75
       },
       "image": "images/DamageSkin/1010_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1017",
@@ -54116,7 +55461,8 @@
         "y": 79
       },
       "image": "images/DamageSkin/1017_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1343",
@@ -54297,7 +55643,8 @@
         "y": 84
       },
       "image": "images/DamageSkin/1343_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "296",
@@ -54478,7 +55825,8 @@
         "y": 26
       },
       "image": "images/DamageSkin/296_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "297",
@@ -54659,7 +56007,8 @@
         "y": 35
       },
       "image": "images/DamageSkin/297_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "298",
@@ -54840,7 +56189,8 @@
         "y": 89
       },
       "image": "images/DamageSkin/298_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "299",
@@ -55021,7 +56371,8 @@
         "y": 133
       },
       "image": "images/DamageSkin/299_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1000",
@@ -55202,7 +56553,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1000_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1001",
@@ -55383,7 +56735,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1001_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1002",
@@ -55564,7 +56917,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1002_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1003",
@@ -55745,7 +57099,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1003_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1004",
@@ -55926,7 +57281,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1004_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1005",
@@ -56107,7 +57463,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1005_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1006",
@@ -56288,7 +57645,8 @@
         "y": 62
       },
       "image": "images/DamageSkin/1006_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1007",
@@ -56469,7 +57827,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1007_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1008",
@@ -56650,7 +58009,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1008_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1011",
@@ -56831,7 +58191,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1011_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1012",
@@ -57012,7 +58373,8 @@
         "y": 75
       },
       "image": "images/DamageSkin/1012_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1015",
@@ -57193,7 +58555,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1015_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1016",
@@ -57374,7 +58737,8 @@
         "y": 64
       },
       "image": "images/DamageSkin/1016_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1018",
@@ -57555,7 +58919,8 @@
         "y": 78
       },
       "image": "images/DamageSkin/1018_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1019",
@@ -57736,7 +59101,8 @@
         "y": 55
       },
       "image": "images/DamageSkin/1019_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1020",
@@ -57917,7 +59283,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1020_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1021",
@@ -58098,7 +59465,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1021_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1023",
@@ -58279,7 +59647,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1023_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1024",
@@ -58460,7 +59829,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1024_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1025",
@@ -58641,7 +60011,8 @@
         "y": 67
       },
       "image": "images/DamageSkin/1025_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1026",
@@ -58822,7 +60193,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1026_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1027",
@@ -59003,7 +60375,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1027_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1028",
@@ -59184,7 +60557,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1028_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1029",
@@ -59365,7 +60739,8 @@
         "y": 66
       },
       "image": "images/DamageSkin/1029_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1031",
@@ -59546,7 +60921,8 @@
         "y": 75
       },
       "image": "images/DamageSkin/1031_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1032",
@@ -59727,7 +61103,8 @@
         "y": 71
       },
       "image": "images/DamageSkin/1032_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1033",
@@ -59908,7 +61285,8 @@
         "y": 28
       },
       "image": "images/DamageSkin/1033_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1034",
@@ -60089,7 +61467,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1034_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1035",
@@ -60270,7 +61649,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1035_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1036",
@@ -60451,7 +61831,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1036_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1037",
@@ -60632,7 +62013,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1037_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1038",
@@ -60813,7 +62195,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1038_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1039",
@@ -60994,7 +62377,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1039_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1040",
@@ -61175,7 +62559,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1040_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1041",
@@ -61356,7 +62741,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1041_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1042",
@@ -61537,7 +62923,8 @@
         "y": 99
       },
       "image": "images/DamageSkin/1042_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1043",
@@ -61718,7 +63105,8 @@
         "y": 99
       },
       "image": "images/DamageSkin/1043_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1044",
@@ -61899,7 +63287,8 @@
         "y": 78
       },
       "image": "images/DamageSkin/1044_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1045",
@@ -62080,7 +63469,8 @@
         "y": 99
       },
       "image": "images/DamageSkin/1045_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1048",
@@ -62261,7 +63651,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1048_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1049",
@@ -62442,7 +63833,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1049_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1050",
@@ -62623,7 +64015,8 @@
         "y": 0
       },
       "image": "images/DamageSkin/1050_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1051",
@@ -62804,7 +64197,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1051_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1052",
@@ -62985,7 +64379,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1052_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1053",
@@ -63166,7 +64561,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1053_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1054",
@@ -63347,7 +64743,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1054_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1056",
@@ -63528,7 +64925,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1056_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1057",
@@ -63709,7 +65107,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1057_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1058",
@@ -63890,7 +65289,8 @@
         "y": 46
       },
       "image": "images/DamageSkin/1058_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1059",
@@ -64071,7 +65471,8 @@
         "y": 52
       },
       "image": "images/DamageSkin/1059_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1060",
@@ -64252,7 +65653,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1060_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1062",
@@ -64433,7 +65835,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1062_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1063",
@@ -64614,7 +66017,8 @@
         "y": 0
       },
       "image": "images/DamageSkin/1063_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1064",
@@ -64795,7 +66199,8 @@
         "y": 0
       },
       "image": "images/DamageSkin/1064_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1065",
@@ -64976,7 +66381,8 @@
         "y": 0
       },
       "image": "images/DamageSkin/1065_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1066",
@@ -65157,7 +66563,8 @@
         "y": 0
       },
       "image": "images/DamageSkin/1066_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1067",
@@ -65338,7 +66745,8 @@
         "y": 0
       },
       "image": "images/DamageSkin/1067_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1068",
@@ -65519,7 +66927,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1068_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1069",
@@ -65700,7 +67109,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1069_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1070",
@@ -65881,7 +67291,8 @@
         "y": 0
       },
       "image": "images/DamageSkin/1070_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1073",
@@ -66062,7 +67473,8 @@
         "y": 73
       },
       "image": "images/DamageSkin/1073_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1075",
@@ -66243,7 +67655,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1075_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1076",
@@ -66424,7 +67837,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1076_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1077",
@@ -66605,7 +68019,8 @@
         "y": 75
       },
       "image": "images/DamageSkin/1077_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1078",
@@ -66786,7 +68201,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1078_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1080",
@@ -66967,7 +68383,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1080_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1083",
@@ -67148,7 +68565,8 @@
         "y": 84
       },
       "image": "images/DamageSkin/1083_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1084",
@@ -67329,7 +68747,8 @@
         "y": 71
       },
       "image": "images/DamageSkin/1084_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1085",
@@ -67510,7 +68929,8 @@
         "y": 72
       },
       "image": "images/DamageSkin/1085_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1086",
@@ -67691,7 +69111,8 @@
         "y": 72
       },
       "image": "images/DamageSkin/1086_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1081",
@@ -67872,7 +69293,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1081_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1082",
@@ -68053,7 +69475,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1082_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1055",
@@ -68234,7 +69657,8 @@
         "y": 74
       },
       "image": "images/DamageSkin/1055_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1087",
@@ -68415,7 +69839,8 @@
         "y": 79
       },
       "image": "images/DamageSkin/1087_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1088",
@@ -68596,7 +70021,8 @@
         "y": 77
       },
       "image": "images/DamageSkin/1088_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1089",
@@ -68777,7 +70203,8 @@
         "y": 78
       },
       "image": "images/DamageSkin/1089_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1090",
@@ -68958,7 +70385,8 @@
         "y": 88
       },
       "image": "images/DamageSkin/1090_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1091",
@@ -69139,7 +70567,8 @@
         "y": 82
       },
       "image": "images/DamageSkin/1091_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1092",
@@ -69320,7 +70749,8 @@
         "y": 58
       },
       "image": "images/DamageSkin/1092_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1093",
@@ -69501,7 +70931,8 @@
         "y": 7
       },
       "image": "images/DamageSkin/1093_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1094",
@@ -69682,7 +71113,8 @@
         "y": 83
       },
       "image": "images/DamageSkin/1094_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1095",
@@ -69863,7 +71295,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1095_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1096",
@@ -70044,7 +71477,8 @@
         "y": 89
       },
       "image": "images/DamageSkin/1096_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1097",
@@ -70225,7 +71659,8 @@
         "y": 66
       },
       "image": "images/DamageSkin/1097_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1079",
@@ -70406,7 +71841,8 @@
         "y": 0
       },
       "image": "images/DamageSkin/1079_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1114",
@@ -70587,7 +72023,8 @@
         "y": 85
       },
       "image": "images/DamageSkin/1114_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1115",
@@ -70768,7 +72205,8 @@
         "y": 75
       },
       "image": "images/DamageSkin/1115_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1116",
@@ -70949,7 +72387,8 @@
         "y": 74
       },
       "image": "images/DamageSkin/1116_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1117",
@@ -71130,7 +72569,8 @@
         "y": 77
       },
       "image": "images/DamageSkin/1117_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1098",
@@ -71311,7 +72751,8 @@
         "y": 68
       },
       "image": "images/DamageSkin/1098_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1099",
@@ -71492,7 +72933,8 @@
         "y": 62
       },
       "image": "images/DamageSkin/1099_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1100",
@@ -71673,7 +73115,8 @@
         "y": 50
       },
       "image": "images/DamageSkin/1100_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1132",
@@ -71854,7 +73297,8 @@
         "y": 64
       },
       "image": "images/DamageSkin/1132_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1118",
@@ -72035,7 +73479,8 @@
         "y": 71
       },
       "image": "images/DamageSkin/1118_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1119",
@@ -72216,7 +73661,8 @@
         "y": 75
       },
       "image": "images/DamageSkin/1119_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1120",
@@ -72397,7 +73843,8 @@
         "y": 82
       },
       "image": "images/DamageSkin/1120_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1121",
@@ -72578,7 +74025,8 @@
         "y": 75
       },
       "image": "images/DamageSkin/1121_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1122",
@@ -72759,7 +74207,8 @@
         "y": 85
       },
       "image": "images/DamageSkin/1122_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1123",
@@ -72940,7 +74389,8 @@
         "y": 92
       },
       "image": "images/DamageSkin/1123_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1124",
@@ -73121,7 +74571,8 @@
         "y": 84
       },
       "image": "images/DamageSkin/1124_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1125",
@@ -73302,7 +74753,8 @@
         "y": 105
       },
       "image": "images/DamageSkin/1125_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1126",
@@ -73483,7 +74935,8 @@
         "y": 72
       },
       "image": "images/DamageSkin/1126_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1127",
@@ -73664,7 +75117,8 @@
         "y": 74
       },
       "image": "images/DamageSkin/1127_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1133",
@@ -73845,7 +75299,8 @@
         "y": 130
       },
       "image": "images/DamageSkin/1133_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1134",
@@ -74026,7 +75481,8 @@
         "y": 100
       },
       "image": "images/DamageSkin/1134_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1135",
@@ -74207,7 +75663,8 @@
         "y": 124
       },
       "image": "images/DamageSkin/1135_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1136",
@@ -74388,7 +75845,8 @@
         "y": 102
       },
       "image": "images/DamageSkin/1136_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1140",
@@ -74569,7 +76027,8 @@
         "y": 91
       },
       "image": "images/DamageSkin/1140_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1141",
@@ -74750,7 +76209,8 @@
         "y": 91
       },
       "image": "images/DamageSkin/1141_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1142",
@@ -74931,7 +76391,8 @@
         "y": 103
       },
       "image": "images/DamageSkin/1142_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1143",
@@ -75112,7 +76573,8 @@
         "y": 103
       },
       "image": "images/DamageSkin/1143_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1144",
@@ -75293,7 +76755,8 @@
         "y": 80
       },
       "image": "images/DamageSkin/1144_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1230",
@@ -75474,7 +76937,8 @@
         "y": 44
       },
       "image": "images/DamageSkin/1230_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1231",
@@ -75655,7 +77119,8 @@
         "y": 122
       },
       "image": "images/DamageSkin/1231_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1232",
@@ -75836,7 +77301,8 @@
         "y": 115
       },
       "image": "images/DamageSkin/1232_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1233",
@@ -76017,7 +77483,8 @@
         "y": 44
       },
       "image": "images/DamageSkin/1233_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1234",
@@ -76198,7 +77665,8 @@
         "y": 122
       },
       "image": "images/DamageSkin/1234_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1235",
@@ -76379,7 +77847,8 @@
         "y": 115
       },
       "image": "images/DamageSkin/1235_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1245",
@@ -76560,7 +78029,8 @@
         "y": 86
       },
       "image": "images/DamageSkin/1245_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1246",
@@ -76741,7 +78211,8 @@
         "y": 86
       },
       "image": "images/DamageSkin/1246_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1247",
@@ -76922,7 +78393,8 @@
         "y": 82
       },
       "image": "images/DamageSkin/1247_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1248",
@@ -77103,7 +78575,8 @@
         "y": 82
       },
       "image": "images/DamageSkin/1248_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1237",
@@ -77284,7 +78757,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1237_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1238",
@@ -77465,7 +78939,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1238_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1239",
@@ -77646,7 +79121,8 @@
         "y": 120
       },
       "image": "images/DamageSkin/1239_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1240",
@@ -77827,7 +79303,8 @@
         "y": 120
       },
       "image": "images/DamageSkin/1240_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1241",
@@ -78008,7 +79485,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1241_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1242",
@@ -78189,7 +79667,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1242_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1243",
@@ -78370,7 +79849,8 @@
         "y": 91
       },
       "image": "images/DamageSkin/1243_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1244",
@@ -78551,7 +80031,8 @@
         "y": 91
       },
       "image": "images/DamageSkin/1244_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1236",
@@ -78732,7 +80213,8 @@
         "y": 50
       },
       "image": "images/DamageSkin/1236_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1022",
@@ -78913,7 +80395,8 @@
         "y": 78
       },
       "image": "images/DamageSkin/1022_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1250",
@@ -79094,7 +80577,8 @@
         "y": 95
       },
       "image": "images/DamageSkin/1250_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1251",
@@ -79275,7 +80759,8 @@
         "y": 115
       },
       "image": "images/DamageSkin/1251_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1252",
@@ -79456,7 +80941,8 @@
         "y": 43
       },
       "image": "images/DamageSkin/1252_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1253",
@@ -79637,7 +81123,8 @@
         "y": 43
       },
       "image": "images/DamageSkin/1253_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1254",
@@ -79818,7 +81305,8 @@
         "y": 75
       },
       "image": "images/DamageSkin/1254_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1255",
@@ -79999,7 +81487,8 @@
         "y": 75
       },
       "image": "images/DamageSkin/1255_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1256",
@@ -80180,7 +81669,8 @@
         "y": 100
       },
       "image": "images/DamageSkin/1256_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1257",
@@ -80361,7 +81851,8 @@
         "y": 100
       },
       "image": "images/DamageSkin/1257_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1258",
@@ -80542,7 +82033,8 @@
         "y": 72
       },
       "image": "images/DamageSkin/1258_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1259",
@@ -80723,7 +82215,8 @@
         "y": 72
       },
       "image": "images/DamageSkin/1259_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1262",
@@ -80904,7 +82397,8 @@
         "y": 81
       },
       "image": "images/DamageSkin/1262_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1263",
@@ -81085,7 +82579,8 @@
         "y": 81
       },
       "image": "images/DamageSkin/1263_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1260",
@@ -81266,7 +82761,8 @@
         "y": 93
       },
       "image": "images/DamageSkin/1260_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1261",
@@ -81447,7 +82943,8 @@
         "y": 120
       },
       "image": "images/DamageSkin/1261_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1266",
@@ -81628,7 +83125,8 @@
         "y": 77
       },
       "image": "images/DamageSkin/1266_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1267",
@@ -81809,7 +83307,8 @@
         "y": 103
       },
       "image": "images/DamageSkin/1267_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1268",
@@ -81990,7 +83489,8 @@
         "y": 103
       },
       "image": "images/DamageSkin/1268_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1269",
@@ -82171,7 +83671,8 @@
         "y": 92
       },
       "image": "images/DamageSkin/1269_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1270",
@@ -82352,7 +83853,8 @@
         "y": 92
       },
       "image": "images/DamageSkin/1270_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1273",
@@ -82533,7 +84035,8 @@
         "y": 133
       },
       "image": "images/DamageSkin/1273_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1274",
@@ -82714,7 +84217,8 @@
         "y": 133
       },
       "image": "images/DamageSkin/1274_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1275",
@@ -82895,7 +84399,8 @@
         "y": 123
       },
       "image": "images/DamageSkin/1275_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1276",
@@ -83076,7 +84581,8 @@
         "y": 123
       },
       "image": "images/DamageSkin/1276_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1271",
@@ -83257,7 +84763,8 @@
         "y": 135
       },
       "image": "images/DamageSkin/1271_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1272",
@@ -83438,7 +84945,8 @@
         "y": 73
       },
       "image": "images/DamageSkin/1272_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1281",
@@ -83619,7 +85127,8 @@
         "y": 110
       },
       "image": "images/DamageSkin/1281_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1277",
@@ -83800,7 +85309,8 @@
         "y": 95
       },
       "image": "images/DamageSkin/1277_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1278",
@@ -83981,7 +85491,8 @@
         "y": 95
       },
       "image": "images/DamageSkin/1278_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1279",
@@ -84162,7 +85673,8 @@
         "y": 65
       },
       "image": "images/DamageSkin/1279_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1280",
@@ -84343,7 +85855,8 @@
         "y": 65
       },
       "image": "images/DamageSkin/1280_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1288",
@@ -84524,7 +86037,8 @@
         "y": 58
       },
       "image": "images/DamageSkin/1288_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1289",
@@ -84705,7 +86219,8 @@
         "y": 58
       },
       "image": "images/DamageSkin/1289_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1291",
@@ -84886,7 +86401,8 @@
         "y": 90
       },
       "image": "images/DamageSkin/1291_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1286",
@@ -85067,7 +86583,8 @@
         "y": 93
       },
       "image": "images/DamageSkin/1286_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1292",
@@ -85248,7 +86765,8 @@
         "y": 101
       },
       "image": "images/DamageSkin/1292_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1293",
@@ -85429,7 +86947,8 @@
         "y": 101
       },
       "image": "images/DamageSkin/1293_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1294",
@@ -85610,7 +87129,8 @@
         "y": 97
       },
       "image": "images/DamageSkin/1294_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1295",
@@ -85791,7 +87311,8 @@
         "y": 97
       },
       "image": "images/DamageSkin/1295_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1309",
@@ -85972,7 +87493,8 @@
         "y": 89
       },
       "image": "images/DamageSkin/1309_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1310",
@@ -86153,7 +87675,8 @@
         "y": 53
       },
       "image": "images/DamageSkin/1310_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1311",
@@ -86334,7 +87857,8 @@
         "y": 132
       },
       "image": "images/DamageSkin/1311_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1312",
@@ -86515,7 +88039,8 @@
         "y": 128
       },
       "image": "images/DamageSkin/1312_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1300",
@@ -86696,7 +88221,8 @@
         "y": 42
       },
       "image": "images/DamageSkin/1300_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1301",
@@ -86877,7 +88403,8 @@
         "y": 42
       },
       "image": "images/DamageSkin/1301_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1303",
@@ -87058,7 +88585,8 @@
         "y": 56
       },
       "image": "images/DamageSkin/1303_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1313",
@@ -87239,7 +88767,8 @@
         "y": 134
       },
       "image": "images/DamageSkin/1313_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1315",
@@ -87420,7 +88949,8 @@
         "y": 72
       },
       "image": "images/DamageSkin/1315_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1316",
@@ -87601,7 +89131,8 @@
         "y": 88
       },
       "image": "images/DamageSkin/1316_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1317",
@@ -87782,7 +89313,8 @@
         "y": 100
       },
       "image": "images/DamageSkin/1317_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1318",
@@ -87963,7 +89495,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1318_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1319",
@@ -88144,7 +89677,8 @@
         "y": 103
       },
       "image": "images/DamageSkin/1319_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1320",
@@ -88325,7 +89859,8 @@
         "y": 93
       },
       "image": "images/DamageSkin/1320_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1321",
@@ -88506,7 +90041,8 @@
         "y": 68
       },
       "image": "images/DamageSkin/1321_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1323",
@@ -88687,7 +90223,8 @@
         "y": 97
       },
       "image": "images/DamageSkin/1323_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1324",
@@ -88868,7 +90405,8 @@
         "y": 162
       },
       "image": "images/DamageSkin/1324_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1325",
@@ -89049,7 +90587,8 @@
         "y": 123
       },
       "image": "images/DamageSkin/1325_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1326",
@@ -89230,7 +90769,8 @@
         "y": 88
       },
       "image": "images/DamageSkin/1326_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1327",
@@ -89411,7 +90951,8 @@
         "y": 120
       },
       "image": "images/DamageSkin/1327_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1328",
@@ -89592,7 +91133,8 @@
         "y": 110
       },
       "image": "images/DamageSkin/1328_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1329",
@@ -89773,7 +91315,8 @@
         "y": 99
       },
       "image": "images/DamageSkin/1329_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1330",
@@ -89954,7 +91497,8 @@
         "y": 67
       },
       "image": "images/DamageSkin/1330_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1332",
@@ -90135,7 +91679,8 @@
         "y": 106
       },
       "image": "images/DamageSkin/1332_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1333",
@@ -90316,7 +91861,8 @@
         "y": 62
       },
       "image": "images/DamageSkin/1333_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1337",
@@ -90497,7 +92043,8 @@
         "y": 114
       },
       "image": "images/DamageSkin/1337_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1331",
@@ -90678,7 +92225,8 @@
         "y": -26
       },
       "image": "images/DamageSkin/1331_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1342",
@@ -90859,7 +92407,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1342_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1339",
@@ -91040,7 +92589,8 @@
         "y": 28
       },
       "image": "images/DamageSkin/1339_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1340",
@@ -91221,7 +92771,8 @@
         "y": 85
       },
       "image": "images/DamageSkin/1340_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1341",
@@ -91402,7 +92953,8 @@
         "y": 74
       },
       "image": "images/DamageSkin/1341_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1344",
@@ -91583,7 +93135,8 @@
         "y": 96
       },
       "image": "images/DamageSkin/1344_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1345",
@@ -91764,7 +93317,8 @@
         "y": 84
       },
       "image": "images/DamageSkin/1345_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1346",
@@ -91945,7 +93499,8 @@
         "y": 68
       },
       "image": "images/DamageSkin/1346_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1347",
@@ -92126,7 +93681,8 @@
         "y": 116
       },
       "image": "images/DamageSkin/1347_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1348",
@@ -92307,7 +93863,8 @@
         "y": 77
       },
       "image": "images/DamageSkin/1348_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1349",
@@ -92488,7 +94045,8 @@
         "y": 87
       },
       "image": "images/DamageSkin/1349_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1351",
@@ -92669,7 +94227,8 @@
         "y": 105
       },
       "image": "images/DamageSkin/1351_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1352",
@@ -92850,7 +94409,8 @@
         "y": -26
       },
       "image": "images/DamageSkin/1352_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1353",
@@ -93031,7 +94591,8 @@
         "y": 57
       },
       "image": "images/DamageSkin/1353_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1355",
@@ -93212,7 +94773,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1355_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1356",
@@ -93393,7 +94955,8 @@
         "y": -26
       },
       "image": "images/DamageSkin/1356_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1358",
@@ -93574,7 +95137,8 @@
         "y": 94
       },
       "image": "images/DamageSkin/1358_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1359",
@@ -93755,7 +95319,8 @@
         "y": 104
       },
       "image": "images/DamageSkin/1359_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1362",
@@ -93936,7 +95501,8 @@
         "y": 90
       },
       "image": "images/DamageSkin/1362_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1363",
@@ -94117,7 +95683,8 @@
         "y": 64
       },
       "image": "images/DamageSkin/1363_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1366",
@@ -94298,7 +95865,8 @@
         "y": 69
       },
       "image": "images/DamageSkin/1366_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1367",
@@ -94479,7 +96047,8 @@
         "y": 94
       },
       "image": "images/DamageSkin/1367_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1364",
@@ -94660,7 +96229,8 @@
         "y": 133
       },
       "image": "images/DamageSkin/1364_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1365",
@@ -94841,7 +96411,8 @@
         "y": 122
       },
       "image": "images/DamageSkin/1365_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1354",
@@ -95022,7 +96593,8 @@
         "y": 124
       },
       "image": "images/DamageSkin/1354_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1368",
@@ -95203,7 +96775,8 @@
         "y": 116
       },
       "image": "images/DamageSkin/1368_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1369",
@@ -95384,7 +96957,8 @@
         "y": 79
       },
       "image": "images/DamageSkin/1369_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1186",
@@ -95565,7 +97139,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1186_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1370",
@@ -95746,7 +97321,8 @@
         "y": 105
       },
       "image": "images/DamageSkin/1370_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1371",
@@ -95927,7 +97503,8 @@
         "y": 87
       },
       "image": "images/DamageSkin/1371_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1372",
@@ -96108,7 +97685,8 @@
         "y": 112
       },
       "image": "images/DamageSkin/1372_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1373",
@@ -96289,7 +97867,8 @@
         "y": 94
       },
       "image": "images/DamageSkin/1373_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1374",
@@ -96470,7 +98049,8 @@
         "y": 98
       },
       "image": "images/DamageSkin/1374_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1375",
@@ -96651,7 +98231,8 @@
         "y": 67
       },
       "image": "images/DamageSkin/1375_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1377",
@@ -96832,7 +98413,8 @@
         "y": 108
       },
       "image": "images/DamageSkin/1377_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1376",
@@ -97013,7 +98595,8 @@
         "y": 80
       },
       "image": "images/DamageSkin/1376_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1380",
@@ -97194,7 +98777,8 @@
         "y": 103
       },
       "image": "images/DamageSkin/1380_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1381",
@@ -97375,7 +98959,8 @@
         "y": 85
       },
       "image": "images/DamageSkin/1381_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1382",
@@ -97556,7 +99141,8 @@
         "y": -26
       },
       "image": "images/DamageSkin/1382_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1383",
@@ -97737,7 +99323,8 @@
         "y": -26
       },
       "image": "images/DamageSkin/1383_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1386",
@@ -97918,7 +99505,8 @@
         "y": 121
       },
       "image": "images/DamageSkin/1386_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1387",
@@ -98099,7 +99687,8 @@
         "y": 131
       },
       "image": "images/DamageSkin/1387_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1388",
@@ -98280,7 +99869,8 @@
         "y": 102
       },
       "image": "images/DamageSkin/1388_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1389",
@@ -98461,7 +100051,8 @@
         "y": 69
       },
       "image": "images/DamageSkin/1389_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1390",
@@ -98642,7 +100233,8 @@
         "y": 84
       },
       "image": "images/DamageSkin/1390_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1391",
@@ -98823,7 +100415,8 @@
         "y": 71
       },
       "image": "images/DamageSkin/1391_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1392",
@@ -99004,7 +100597,8 @@
         "y": 91
       },
       "image": "images/DamageSkin/1392_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1393",
@@ -99185,7 +100779,8 @@
         "y": 82
       },
       "image": "images/DamageSkin/1393_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1396",
@@ -99366,7 +100961,8 @@
         "y": 56
       },
       "image": "images/DamageSkin/1396_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1397",
@@ -99547,7 +101143,8 @@
         "y": 94
       },
       "image": "images/DamageSkin/1397_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1401",
@@ -99728,7 +101325,8 @@
         "y": 119
       },
       "image": "images/DamageSkin/1401_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1399",
@@ -99909,7 +101507,8 @@
         "y": 94
       },
       "image": "images/DamageSkin/1399_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1400",
@@ -100090,7 +101689,8 @@
         "y": 77
       },
       "image": "images/DamageSkin/1400_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1407",
@@ -100271,7 +101871,8 @@
         "y": 156
       },
       "image": "images/DamageSkin/1407_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1402",
@@ -100452,7 +102053,8 @@
         "y": 104
       },
       "image": "images/DamageSkin/1402_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1403",
@@ -100633,7 +102235,8 @@
         "y": 100
       },
       "image": "images/DamageSkin/1403_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1404",
@@ -100814,7 +102417,8 @@
         "y": 95
       },
       "image": "images/DamageSkin/1404_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1405",
@@ -100995,7 +102599,8 @@
         "y": 49
       },
       "image": "images/DamageSkin/1405_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1408",
@@ -101176,7 +102781,8 @@
         "y": 101
       },
       "image": "images/DamageSkin/1408_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1409",
@@ -101357,7 +102963,8 @@
         "y": 131
       },
       "image": "images/DamageSkin/1409_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1412",
@@ -101538,7 +103145,8 @@
         "y": 75
       },
       "image": "images/DamageSkin/1412_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1410",
@@ -101719,7 +103327,8 @@
         "y": 116
       },
       "image": "images/DamageSkin/1410_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1411",
@@ -101900,7 +103509,8 @@
         "y": 119
       },
       "image": "images/DamageSkin/1411_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1416",
@@ -102081,7 +103691,8 @@
         "y": 111
       },
       "image": "images/DamageSkin/1416_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1417",
@@ -102262,7 +103873,8 @@
         "y": 84
       },
       "image": "images/DamageSkin/1417_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1413",
@@ -102443,7 +104055,8 @@
         "y": 115
       },
       "image": "images/DamageSkin/1413_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1414",
@@ -102624,7 +104237,8 @@
         "y": 99
       },
       "image": "images/DamageSkin/1414_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1415",
@@ -102805,7 +104419,8 @@
         "y": 142
       },
       "image": "images/DamageSkin/1415_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1421",
@@ -102986,7 +104601,8 @@
         "y": 115
       },
       "image": "images/DamageSkin/1421_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1422",
@@ -103167,7 +104783,8 @@
         "y": 92
       },
       "image": "images/DamageSkin/1422_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1418",
@@ -103348,7 +104965,8 @@
         "y": 129
       },
       "image": "images/DamageSkin/1418_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1419",
@@ -103529,7 +105147,8 @@
         "y": 104
       },
       "image": "images/DamageSkin/1419_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1423",
@@ -103710,7 +105329,8 @@
         "y": 72
       },
       "image": "images/DamageSkin/1423_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1424",
@@ -103891,7 +105511,8 @@
         "y": 107
       },
       "image": "images/DamageSkin/1424_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1426",
@@ -104072,7 +105693,81 @@
         "y": 70
       },
       "image": "images/DamageSkin/1426_effect.png"
-    }
+    },
+    "unit": [
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 8,
+          "y": 11
+        },
+        "image": "images/DamageSkin/1426_unit_dot.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 15,
+          "y": 37
+        },
+        "image": "images/DamageSkin/1426_unit_k.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 20,
+          "y": 37
+        },
+        "image": "images/DamageSkin/1426_unit_m.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 16,
+          "y": 37
+        },
+        "image": "images/DamageSkin/1426_unit_b.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 8,
+          "y": 11
+        },
+        "image": "images/DamageSkin/1426_unit_crit_dot.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 18,
+          "y": 44
+        },
+        "image": "images/DamageSkin/1426_unit_crit_k.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 24,
+          "y": 44
+        },
+        "image": "images/DamageSkin/1426_unit_crit_m.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 18,
+          "y": 44
+        },
+        "image": "images/DamageSkin/1426_unit_crit_b.png",
+        "kind": "critical"
+      }
+    ]
   },
   {
     "id": "1427",
@@ -104253,7 +105948,8 @@
         "y": 44
       },
       "image": "images/DamageSkin/1427_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1428",
@@ -104434,7 +106130,8 @@
         "y": 113
       },
       "image": "images/DamageSkin/1428_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1429",
@@ -104615,7 +106312,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1429_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1430",
@@ -104796,7 +106494,8 @@
         "y": 99
       },
       "image": "images/DamageSkin/1430_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1046",
@@ -104977,7 +106676,8 @@
         "y": 74
       },
       "image": "images/DamageSkin/1046_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1047",
@@ -105158,7 +106858,8 @@
         "y": 78
       },
       "image": "images/DamageSkin/1047_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1071",
@@ -105339,7 +107040,8 @@
         "y": 71
       },
       "image": "images/DamageSkin/1071_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1072",
@@ -105520,7 +107222,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/1072_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1074",
@@ -105701,7 +107404,8 @@
         "y": 73
       },
       "image": "images/DamageSkin/1074_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1137",
@@ -105882,7 +107586,8 @@
         "y": 74
       },
       "image": "images/DamageSkin/1137_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1159",
@@ -106063,7 +107768,8 @@
         "y": 50
       },
       "image": "images/DamageSkin/1159_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1160",
@@ -106244,7 +107950,8 @@
         "y": 77
       },
       "image": "images/DamageSkin/1160_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1161",
@@ -106425,7 +108132,8 @@
         "y": 108
       },
       "image": "images/DamageSkin/1161_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1249",
@@ -106606,7 +108314,8 @@
         "y": 0
       },
       "image": "images/DamageSkin/1249_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1298",
@@ -106787,7 +108496,8 @@
         "y": 80
       },
       "image": "images/DamageSkin/1298_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1299",
@@ -106968,7 +108678,8 @@
         "y": 104
       },
       "image": "images/DamageSkin/1299_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1304",
@@ -107149,7 +108860,8 @@
         "y": 89
       },
       "image": "images/DamageSkin/1304_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1305",
@@ -107330,7 +109042,8 @@
         "y": 98
       },
       "image": "images/DamageSkin/1305_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1306",
@@ -107511,7 +109224,8 @@
         "y": 93
       },
       "image": "images/DamageSkin/1306_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1307",
@@ -107692,7 +109406,8 @@
         "y": 76
       },
       "image": "images/DamageSkin/1307_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1308",
@@ -107873,7 +109588,8 @@
         "y": 87
       },
       "image": "images/DamageSkin/1308_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1314",
@@ -108054,7 +109770,8 @@
         "y": 96
       },
       "image": "images/DamageSkin/1314_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1394",
@@ -108235,7 +109952,8 @@
         "y": 100
       },
       "image": "images/DamageSkin/1394_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1395",
@@ -108416,7 +110134,8 @@
         "y": 93
       },
       "image": "images/DamageSkin/1395_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1398",
@@ -108597,7 +110316,8 @@
         "y": 120
       },
       "image": "images/DamageSkin/1398_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1432",
@@ -108778,7 +110498,8 @@
         "y": 55
       },
       "image": "images/DamageSkin/1432_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1433",
@@ -108959,7 +110680,8 @@
         "y": 123
       },
       "image": "images/DamageSkin/1433_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1434",
@@ -109140,7 +110862,8 @@
         "y": 114
       },
       "image": "images/DamageSkin/1434_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1435",
@@ -109321,7 +111044,8 @@
         "y": 97
       },
       "image": "images/DamageSkin/1435_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1436",
@@ -109502,7 +111226,8 @@
         "y": 44
       },
       "image": "images/DamageSkin/1436_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1443",
@@ -109683,7 +111408,8 @@
         "y": 133
       },
       "image": "images/DamageSkin/1443_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1437",
@@ -109864,7 +111590,8 @@
         "y": 103
       },
       "image": "images/DamageSkin/1437_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1438",
@@ -110045,7 +111772,8 @@
         "y": 94
       },
       "image": "images/DamageSkin/1438_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1439",
@@ -110226,7 +111954,8 @@
         "y": 114
       },
       "image": "images/DamageSkin/1439_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1440",
@@ -110407,7 +112136,8 @@
         "y": 114
       },
       "image": "images/DamageSkin/1440_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1441",
@@ -110588,7 +112318,8 @@
         "y": 87
       },
       "image": "images/DamageSkin/1441_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1442",
@@ -110769,7 +112500,81 @@
         "y": 87
       },
       "image": "images/DamageSkin/1442_effect.png"
-    }
+    },
+    "unit": [
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 11,
+          "y": 17
+        },
+        "image": "images/DamageSkin/1442_unit_dot.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 24,
+          "y": 47
+        },
+        "image": "images/DamageSkin/1442_unit_k.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 27,
+          "y": 47
+        },
+        "image": "images/DamageSkin/1442_unit_m.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 22,
+          "y": 47
+        },
+        "image": "images/DamageSkin/1442_unit_b.png",
+        "kind": "normal"
+      },
+      {
+        "digit": "dot",
+        "origin": {
+          "x": 12,
+          "y": 17
+        },
+        "image": "images/DamageSkin/1442_unit_crit_dot.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "k",
+        "origin": {
+          "x": 30,
+          "y": 54
+        },
+        "image": "images/DamageSkin/1442_unit_crit_k.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "m",
+        "origin": {
+          "x": 32,
+          "y": 53
+        },
+        "image": "images/DamageSkin/1442_unit_crit_m.png",
+        "kind": "critical"
+      },
+      {
+        "digit": "b",
+        "origin": {
+          "x": 26,
+          "y": 54
+        },
+        "image": "images/DamageSkin/1442_unit_crit_b.png",
+        "kind": "critical"
+      }
+    ]
   },
   {
     "id": "1444",
@@ -110950,7 +112755,8 @@
         "y": 121
       },
       "image": "images/DamageSkin/1444_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1445",
@@ -111131,7 +112937,8 @@
         "y": 111
       },
       "image": "images/DamageSkin/1445_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1449",
@@ -111312,7 +113119,8 @@
         "y": 106
       },
       "image": "images/DamageSkin/1449_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1450",
@@ -111493,7 +113301,8 @@
         "y": 64
       },
       "image": "images/DamageSkin/1450_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1451",
@@ -111674,7 +113483,8 @@
         "y": 92
       },
       "image": "images/DamageSkin/1451_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1452",
@@ -111855,7 +113665,8 @@
         "y": 89
       },
       "image": "images/DamageSkin/1452_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1453",
@@ -112036,7 +113847,8 @@
         "y": 47
       },
       "image": "images/DamageSkin/1453_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1454",
@@ -112217,7 +114029,8 @@
         "y": 60
       },
       "image": "images/DamageSkin/1454_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1456",
@@ -112398,7 +114211,8 @@
         "y": 76
       },
       "image": "images/DamageSkin/1456_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "1457",
@@ -112579,7 +114393,8 @@
         "y": 96
       },
       "image": "images/DamageSkin/1457_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "7777",
@@ -112760,7 +114575,8 @@
         "y": 70
       },
       "image": "images/DamageSkin/7777_effect.png"
-    }
+    },
+    "unit": null
   },
   {
     "id": "319",
@@ -112773,6 +114589,7 @@
       },
       "image": "images/DamageSkin/319_miss.png"
     },
-    "effect": null
+    "effect": null,
+    "unit": null
   }
 ]
