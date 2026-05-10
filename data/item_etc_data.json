@@ -6543,7 +6543,7 @@
     "desc": "It's a beautiful Maple Leaf.",
     "image": "images/Etc/4001126.png",
     "stats": {
-      "price": 100000,
+      "price": 1000,
       "slotMax": 9999
     }
   },
@@ -18223,7 +18223,9 @@
     "image": "images/Etc/4001897.png",
     "stats": {
       "price": 1,
-      "notSale": 1
+      "notSale": 1,
+      "tradeBlock": "1",
+      "accountSharable": "1"
     }
   },
   {
@@ -22681,7 +22683,9 @@
     "image": "images/Etc/4009411.png",
     "stats": {
       "price": 1,
-      "slotMax": 9999
+      "slotMax": 9999,
+      "tradeBlock": 0,
+      "accountSharable": 1
     }
   },
   {
@@ -51682,11 +51686,12 @@
     "desc": "A fragment filled with dreams.",
     "image": "images/Etc/4033732.png",
     "stats": {
-      "quest": 1,
-      "accountSharable": 1,
+      "quest": 0,
       "autoPrice": 1,
       "notSale": 1,
-      "price": 1
+      "price": 1,
+      "tradeBlock": "0",
+      "accountSharable": "1"
     }
   },
   {
@@ -80397,7 +80402,8 @@
       "price": 1,
       "slotMax": 9999,
       "delay": 90,
-      "tradeBlock": 1
+      "tradeBlock": 0,
+      "accountSharable": 1
     }
   }
 ]

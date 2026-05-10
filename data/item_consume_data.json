@@ -6206,6 +6206,372 @@
     }
   },
   {
+    "id": "2029991",
+    "category": "Consume",
+    "name": "Surprise Style Box #1 (Donor)",
+    "desc": "This box will allow you to get a Donor Item at random from a pool of available items. You may meet with Sosori at the Astravia Hub to switch a temporary item for a permanent one for a smaller fee than buying it.",
+    "image": "images/Consume/2029991.png",
+    "stats": {
+      "notSale": 1,
+      "bigSize": 1,
+      "tradeBlock": 1
+    }
+  },
+  {
+    "id": "2029992",
+    "category": "Consume",
+    "name": "Surprise Style Box #2 (Donor)",
+    "desc": "This box will allow you to get a Donor Item at random from a pool of available items. You may meet with Sosori at the Astravia Hub to switch a temporary item for a permanent one for a smaller fee than buying it.",
+    "image": "images/Consume/2029992.png",
+    "stats": {
+      "notSale": 1,
+      "bigSize": 1,
+      "tradeBlock": 1
+    }
+  },
+  {
+    "id": "2029993",
+    "category": "Consume",
+    "name": "Surprise Style Box #3 (Donor)",
+    "desc": "This box will allow you to get a Donor Item at random from a pool of available items. You may meet with Sosori at the Astravia Hub to switch a temporary item for a permanent one for a smaller fee than buying it.",
+    "image": "images/Consume/2029993.png",
+    "stats": {
+      "notSale": 1,
+      "bigSize": 1,
+      "tradeBlock": 1
+    }
+  },
+  {
+    "id": "2022727",
+    "category": "Consume",
+    "name": "<Battle Mage 30> Mastery Book Box",
+    "desc": "Open box and receive a random level 30 Battle Mage Mastery Book: #cPower Stance, Infinity, Dark Genesis, Sweeping Staff, Party Shield & Slamming Staff#",
+    "image": "images/Consume/2022727.png",
+    "stats": {
+      "price": 1,
+      "slotMax": 100
+    }
+  },
+  {
+    "id": "2022700",
+    "category": "Consume",
+    "name": "<Hero 20> Mastery Book Box",
+    "desc": "Open box and receive a random level 20 Hero Mastery Book: #cMonster Magnet, Achilles, Rush, Power Stance, Advanced Combo Attack, Brandish, Guardian, Enrage or Intrepid Slash#",
+    "image": "images/Consume/2022700.png",
+    "stats": {
+      "slotMax": 100,
+      "price": 1
+    }
+  },
+  {
+    "id": "2022701",
+    "category": "Consume",
+    "name": "<Hero 30> Mastery Book Box",
+    "desc": "Open box and receive a random level 30 Hero Mastery Book: #cMonster Magnet, Achilles, Rush, Power Stance, Advanced Combo Attack, Brandish, Guardian, Enrage or Intrepid Slash#",
+    "image": "images/Consume/2022701.png",
+    "stats": {
+      "price": 1,
+      "slotMax": 100
+    }
+  },
+  {
+    "id": "2022702",
+    "category": "Consume",
+    "name": "<Paladin 20> Mastery Book Box",
+    "desc": "Open box and receive a random level 20 Paladin Mastery Book: #cMonster Magnet, Achilles, Rush, Power Stance, Blast, Guardian, Holy Charge, Divine Charge, Heaven's Hammer or Advanced Charge#",
+    "image": "images/Consume/2022702.png",
+    "stats": {
+      "price": 1,
+      "slotMax": 100
+    }
+  },
+  {
+    "id": "2022703",
+    "category": "Consume",
+    "name": "<Paladin 30> Mastery Book Box",
+    "desc": "Open box and receive a random level 30 Paladin Mastery Book: #cMonster Magnet, Achilles, Rush, Power Stance, Blast, Guardian or Heaven's Hammer#",
+    "image": "images/Consume/2022703.png",
+    "stats": {
+      "slotMax": 100,
+      "price": 1
+    }
+  },
+  {
+    "id": "2022704",
+    "category": "Consume",
+    "name": "<Dark Knight 20> Mastery Book Box",
+    "desc": "Open box and receive a random level 20 Dark Knight Mastery Book: #cMonster Magnet, Achilles, Rush, Power Stance, Berserk & Dark Impale#",
+    "image": "images/Consume/2022704.png",
+    "stats": {
+      "price": 1,
+      "slotMax": 100
+    }
+  },
+  {
+    "id": "2022705",
+    "category": "Consume",
+    "name": "<Dark Knight 30> Mastery Book Box",
+    "desc": "Open box and receive a random level 30 Dark Knight Mastery Book: #cMonster Magnet, Achilles, Rush, Power Stance, Berserk & Dark Impale#",
+    "image": "images/Consume/2022705.png",
+    "stats": {
+      "price": 1,
+      "slotMax": 100
+    }
+  },
+  {
+    "id": "2022706",
+    "category": "Consume",
+    "name": "<F/P Mage 20> Mastery Book Box",
+    "desc": "Open box and receive a random level 20 Fire/Poison Arch Mage Mastery Book: #cScavenge, Infinity, Paralyze, Fire Demon, Elquines, Meteor Shower & Fire Drake#",
+    "image": "images/Consume/2022706.png",
+    "stats": {
+      "slotMax": 100,
+      "price": 1
+    }
+  },
+  {
+    "id": "2022707",
+    "category": "Consume",
+    "name": "<F/P Mage 30> Mastery Book Box",
+    "desc": "Open box and receive a random level 30 Fire/Poison Arch Mage Mastery Book: #cScavenge, Infinity, Paralyze, Fire Demon, Elquines, Meteor Shower & Fire Drake#",
+    "image": "images/Consume/2022707.png",
+    "stats": {
+      "price": 1,
+      "slotMax": 100
+    }
+  },
+  {
+    "id": "2022708",
+    "category": "Consume",
+    "name": "<I/L Mage 20> Mastery Book Box",
+    "desc": "Open box and receive a random level 20 Ice/Lightning Arch Mage Mastery Book: #cScavenge, Infinity, Chain Lightning, Ice Demon, Ifrit, Blizzard & Glacial Stab#",
+    "image": "images/Consume/2022708.png",
+    "stats": {
+      "slotMax": 100,
+      "price": 1
+    }
+  },
+  {
+    "id": "2022709",
+    "category": "Consume",
+    "name": "<I/L Mage 30> Mastery Book Box",
+    "desc": "Open box and receive a random level 30 Ice/Lightning Arch Mage Mastery Book: #cScavenge, Infinity, Chain Lightning, Ice Demon, Ifrit, Blizzard & Glacial Stab#",
+    "image": "images/Consume/2022709.png",
+    "stats": {
+      "price": 1,
+      "slotMax": 100
+    }
+  },
+  {
+    "id": "2022710",
+    "category": "Consume",
+    "name": "<Bishop 20> Mastery Book Box",
+    "desc": "Open box and receive a random level 20 Bishop Mastery Book: #cMana Reflection, Infinity, Holy Shield, Genesis, Angel Ray & Angelic Charge#",
+    "image": "images/Consume/2022710.png",
+    "stats": {
+      "slotMax": 100,
+      "price": 1
+    }
+  },
+  {
+    "id": "2022711",
+    "category": "Consume",
+    "name": "<Bishop 30> Mastery Book Box",
+    "desc": "Open box and receive a random level 30 Bishop Mastery Book: #cMana Reflection, Infinity, Holy Shield, Genesis, Angel Ray & Angelic Charge#",
+    "image": "images/Consume/2022711.png",
+    "stats": {
+      "price": 1,
+      "slotMax": 100
+    }
+  },
+  {
+    "id": "2022712",
+    "category": "Consume",
+    "name": "<Bowmaster 20> Mastery Book Box",
+    "desc": "Open box and receive a random level 20 Bowmaster Mastery Book: #cSharp Eyes, Dragon's Breath, Bow Expert, Hamstring Shot, Hurricane, Phoenix & Concentrate#",
+    "image": "images/Consume/2022712.png",
+    "stats": {
+      "slotMax": 100,
+      "price": 1
+    }
+  },
+  {
+    "id": "2022713",
+    "category": "Consume",
+    "name": "<Bowmaster 30> Mastery Book Box",
+    "desc": "Open box and receive a random level 30 Bowmaster Mastery Book: #cSharp Eyes, Dragon's Breath, Bow Expert, Hamstring Shot, Hurricane, Phoenix & Concentrate#",
+    "image": "images/Consume/2022713.png",
+    "stats": {
+      "price": 1,
+      "slotMax": 100
+    }
+  },
+  {
+    "id": "2022714",
+    "category": "Consume",
+    "name": "<Marksman 20> Mastery Book Box",
+    "desc": "Open box and receive a random level 20 Marksman Mastery Book: #cSharp Eyes, Dragon's Breath, Marksman Boost, Blind, Piercing Arrow, Frostprey & Snipe#",
+    "image": "images/Consume/2022714.png",
+    "stats": {
+      "slotMax": 100,
+      "price": 1
+    }
+  },
+  {
+    "id": "2022715",
+    "category": "Consume",
+    "name": "<Marksman 30> Mastery Book Box",
+    "desc": "Open box and receive a random level 30 Marksman Mastery Book: #cSharp Eyes, Dragon's Breath, Marksman Boost, Blind, Piercing Arrow, Frostprey & Snipe#",
+    "image": "images/Consume/2022715.png",
+    "stats": {
+      "price": 1,
+      "slotMax": 100
+    }
+  },
+  {
+    "id": "2022716",
+    "category": "Consume",
+    "name": "<Nightlord 20> Mastery Book Box",
+    "desc": "Open box and receive a random level 20 Nightlord Mastery Book: #cShadow Shifter, Venomous Star, Taunt, Critical Mastery, Triple Throw, Dark Shuriken & Shadow Claw#",
+    "image": "images/Consume/2022716.png",
+    "stats": {
+      "slotMax": 100,
+      "price": 1
+    }
+  },
+  {
+    "id": "2022717",
+    "category": "Consume",
+    "name": "<Nightlord 30> Mastery Book Box",
+    "desc": "Open box and receive a random level 30 Nightlord Mastery Book: #cShadow Shifter, Venomous Star, Taunt, Critical Mastery, Triple Throw, Dark Shuriken & Shadow Claw#",
+    "image": "images/Consume/2022717.png",
+    "stats": {
+      "price": 1,
+      "slotMax": 100
+    }
+  },
+  {
+    "id": "2022718",
+    "category": "Consume",
+    "name": "<Shadower 20> Mastery Book Box",
+    "desc": "Open box and receive a random level 20 Shadower Mastery Book: #cShadow Shifter, Venomous Stab, Taunt, Boomerang Step, Assassinate, Smoke Shell & Pickpocket Mastery#",
+    "image": "images/Consume/2022718.png",
+    "stats": {
+      "slotMax": 100,
+      "price": 1
+    }
+  },
+  {
+    "id": "2022719",
+    "category": "Consume",
+    "name": "<Shadower 30> Mastery Book Box",
+    "desc": "Open box and receive a random level 30 Shadower Mastery Book: #cShadow Shifter, Venomous Stab, Taunt, Boomerang Step, Assassinate, Smoke Shell & Pickpocket Mastery#",
+    "image": "images/Consume/2022719.png",
+    "stats": {
+      "price": 1,
+      "slotMax": 100
+    }
+  },
+  {
+    "id": "2022720",
+    "category": "Consume",
+    "name": "<Buccaneer 20> Mastery Book Box",
+    "desc": "Open box and receive a random level 20 Buccaneer Mastery Book: #cDragon Strike, Energy Orb, Super Transformation, Demolition, Snatch, Barrage, Speed Infusion & Time Leap#",
+    "image": "images/Consume/2022720.png",
+    "stats": {
+      "slotMax": 100,
+      "price": 1
+    }
+  },
+  {
+    "id": "2022721",
+    "category": "Consume",
+    "name": "<Buccaneer 30> Mastery Book Box",
+    "desc": "Open box and receive a random level 30 Buccaneer Mastery Book: #cDragon Strike, Energy Orb, Demolition, Snatch, Barrage, Speed Infusion & Time Leap#",
+    "image": "images/Consume/2022721.png",
+    "stats": {
+      "price": 1,
+      "slotMax": 100
+    }
+  },
+  {
+    "id": "2022722",
+    "category": "Consume",
+    "name": "<Corsair 20> Mastery Book Box",
+    "desc": "Open box and receive a random level 20 Corsair Mastery Book: #cElemental Boost, Wrath of the Octopi, Air Strike, Rapid Fire, Battleship Cannon, Battleship Torpedo, Shadow Bullets & Bullseye#",
+    "image": "images/Consume/2022722.png",
+    "stats": {
+      "slotMax": 100,
+      "price": 1
+    }
+  },
+  {
+    "id": "2022723",
+    "category": "Consume",
+    "name": "<Corsair 30> Mastery Book Box",
+    "desc": "Open box and receive a random level 30 Corsair Mastery Book: #cElemental Boost, Wrath of the Octopi, Air Strike, Rapid Fire, Battleship Cannon, Battleship Torpedo & Shadow Bullets#",
+    "image": "images/Consume/2022723.png",
+    "stats": {
+      "price": 1,
+      "slotMax": 100
+    }
+  },
+  {
+    "id": "2022724",
+    "category": "Consume",
+    "name": "<Aran 20> Mastery Book Box",
+    "desc": "Open box and receive a random level 20 Aran Mastery Book: #cOverswing, High Mastery, Freeze Standing, Final Blow, High Defense, Combo Judgement, Combo Tempest & Combo Barrier#",
+    "image": "images/Consume/2022724.png",
+    "stats": {
+      "slotMax": 100,
+      "price": 1
+    }
+  },
+  {
+    "id": "2022725",
+    "category": "Consume",
+    "name": "<Aran 30> Mastery Book Box",
+    "desc": "Open box and receive a random level 30 Aran Mastery Book: #cOverswing, High Mastery, Freeze Standing, Final Blow, High Defense, Combo Tempest & Combo Barrier#",
+    "image": "images/Consume/2022725.png",
+    "stats": {
+      "price": 1,
+      "slotMax": 100
+    }
+  },
+  {
+    "id": "2022726",
+    "category": "Consume",
+    "name": "<Battle Mage 20> Mastery Book Box",
+    "desc": "Open box and receive a random level 20 Battle Mage Mastery Book: #cPower Stance, Infinity, Dark Genesis, Sweeping Staff, Party Shield, Slamming Staff & Finishing Blow#",
+    "image": "images/Consume/2022726.png",
+    "stats": {
+      "slotMax": 100,
+      "price": 1
+    }
+  },
+  {
+    "id": "2022728",
+    "category": "Consume",
+    "name": "Mystery Mastery Book 20",
+    "desc": "Chance to obtain a Mastery Book 20 at Random.",
+    "image": "images/Consume/2022728.png",
+    "stats": {
+      "price": 1,
+      "slotMax": 100
+    }
+  },
+  {
+    "id": "2022729",
+    "category": "Consume",
+    "name": "Mystery Mastery Book 30",
+    "desc": "Chance to obtain a Mastery Book 30 at Random.",
+    "image": "images/Consume/2022729.png",
+    "stats": {
+      "price": 1,
+      "slotMax": 100
+    }
+  },
+  {
     "id": "2030000",
     "category": "Consume",
     "name": "Return Scroll - Nearest Town",
@@ -16786,9 +17152,9 @@
     "desc": "A case full of arrows. Can only be used with a bow. \\nAttack + 4.",
     "image": "images/Consume/2060003.png",
     "stats": {
-      "price": 20,
       "slotMax": 9999,
-      "incPAD": 4
+      "incPAD": 4,
+      "price": 0
     }
   },
   {
@@ -16801,7 +17167,8 @@
       "slotMax": 9999,
       "incPAD": 7,
       "reqLevel": 10,
-      "tradeBlock": 1
+      "tradeBlock": 1,
+      "price": 0
     }
   },
   {
@@ -16814,7 +17181,8 @@
       "slotMax": 9999,
       "incPAD": 10,
       "reqLevel": 10,
-      "tradeBlock": 1
+      "tradeBlock": 1,
+      "price": 0
     }
   },
   {
@@ -16824,9 +17192,9 @@
     "desc": "A case full of arrows. Can only be used with a crossbow.nAttack + 4.",
     "image": "images/Consume/2061003.png",
     "stats": {
-      "price": 20,
       "slotMax": 9999,
-      "incPAD": 4
+      "incPAD": 4,
+      "price": 0
     }
   },
   {
@@ -16836,9 +17204,9 @@
     "desc": "A case full of arrows. Can only be used with a bow.nAttack + 4.",
     "image": "images/Consume/2060004.png",
     "stats": {
-      "price": 20,
       "slotMax": 9999,
-      "incPAD": 4
+      "incPAD": 4,
+      "price": 0
     }
   },
   {
@@ -16848,9 +17216,9 @@
     "desc": "A case full of arrows. Can only be used with a crossbow.nAttack + 4.",
     "image": "images/Consume/2061004.png",
     "stats": {
-      "price": 20,
       "slotMax": 9999,
-      "incPAD": 4
+      "incPAD": 4,
+      "price": 0
     }
   },
   {
@@ -16860,8 +17228,8 @@
     "desc": "A barrel full of arrows. Only usable with bows.",
     "image": "images/Consume/2060000.png",
     "stats": {
-      "price": 0,
-      "slotMax": 9999
+      "slotMax": 9999,
+      "price": 0
     }
   },
   {
@@ -16871,9 +17239,9 @@
     "desc": "A barrel full of bronze arrows. Only usable with bows.\\nAttack + 1",
     "image": "images/Consume/2060001.png",
     "stats": {
-      "price": 5,
       "slotMax": 9999,
-      "incPAD": 1
+      "incPAD": 1,
+      "price": 0
     }
   },
   {
@@ -16883,9 +17251,9 @@
     "desc": "A barrel full of steel arrows. Only usable with bows.\\nSTR +1, Attack +1",
     "image": "images/Consume/2060002.png",
     "stats": {
-      "price": 10,
       "slotMax": 9999,
-      "incPAD": 2
+      "incPAD": 2,
+      "price": 0
     }
   },
   {
@@ -16895,8 +17263,8 @@
     "desc": "A barrel full of arrows. Only usable with crossbows.",
     "image": "images/Consume/2061000.png",
     "stats": {
-      "price": 0,
-      "slotMax": 9999
+      "slotMax": 9999,
+      "price": 0
     }
   },
   {
@@ -16906,7 +17274,7 @@
     "desc": "A barrel full of bronze arrows. Only usable with crossbows.\\nAttack + 1",
     "image": "images/Consume/2061001.png",
     "stats": {
-      "price": 5,
+      "price": 0,
       "slotMax": 9999,
       "incPAD": 1
     }
@@ -16918,22 +17286,22 @@
     "desc": "A barrel full of steel arrows. Only usable with crossbows.nAttack +2",
     "image": "images/Consume/2061002.png",
     "stats": {
-      "price": 10,
       "slotMax": 9999,
-      "incPAD": 2
+      "incPAD": 2,
+      "price": 0
     }
   },
   {
     "id": "2060007",
     "category": "Consume",
     "name": "Royal Bow Quiver",
-    "desc": "A bow quiver made using a secret method known only to the King of Lionheart Castle. These can be recharged when used up.\\nAttack + 12",
+    "desc": "A bow quiver made using a secret method. These can be recharged when used up.\\nAttack + 10",
     "image": "images/Consume/2060007.png",
     "stats": {
-      "slotMax": 6000,
-      "reqLevel": 180,
-      "incPAD": 12,
+      "slotMax": 9999,
+      "incPAD": 10,
       "unitPrice": 100,
+      "reqLevel": 120,
       "price": 0
     }
   },
@@ -16941,13 +17309,13 @@
     "id": "2061005",
     "category": "Consume",
     "name": "Royal Crossbow Quiver",
-    "desc": "A crossbow quiver made using a secret method known only to the King of Lionheart Castle. These can be recharged when used up.\\nAttack + 12",
+    "desc": "A crossbow quiver made using a secret method. These can be recharged when used up.\\nAttack + 10",
     "image": "images/Consume/2061005.png",
     "stats": {
-      "slotMax": 6000,
-      "reqLevel": 180,
-      "incPAD": 12,
+      "slotMax": 9999,
+      "incPAD": 10,
       "unitPrice": 100,
+      "reqLevel": 120,
       "price": 0
     }
   },
@@ -16955,13 +17323,13 @@
     "id": "2060008",
     "category": "Consume",
     "name": "Quality Arrow for Bow",
-    "desc": "Quiver filled with quality arrows. Only usable with bows.\\nLevel Limit : 100, Attack +5",
+    "desc": "Quiver filled with quality arrows. Only usable with bows.\\nAttack +7",
     "image": "images/Consume/2060008.png",
     "stats": {
-      "slotMax": 3500,
-      "incPAD": 8,
-      "reqLevel": 70,
+      "slotMax": 9999,
+      "incPAD": 7,
       "unitPrice": 20,
+      "reqLevel": 70,
       "price": 0
     }
   },
@@ -16969,13 +17337,13 @@
     "id": "2061006",
     "category": "Consume",
     "name": "Quality Arrow for Crossbow",
-    "desc": "Quiver filled with quality arrows. Only usable with crossbows.\\nLevel Limit : 100, Attack +5",
+    "desc": "Quiver filled with quality arrows. Only usable with crossbows.\\n Attack +7",
     "image": "images/Consume/2061006.png",
     "stats": {
-      "slotMax": 3500,
-      "incPAD": 8,
-      "reqLevel": 70,
+      "slotMax": 9999,
+      "incPAD": 7,
       "unitPrice": 20,
+      "reqLevel": 70,
       "price": 0
     }
   },
@@ -16986,11 +17354,11 @@
     "desc": "A throwing-star made out of steel. Once they run out, they need to be recharged.\\nLevel Limit : 10, Attack + 15",
     "image": "images/Consume/2070000.png",
     "stats": {
-      "price": 250,
       "slotMax": 9999,
       "unitPrice": 1,
       "incPAD": 15,
-      "reqLevel": 10
+      "reqLevel": 10,
+      "price": 0
     }
   },
   {
@@ -17000,11 +17368,11 @@
     "desc": "A throwing-star made out of steel. Once they run out, they need to be recharged.\\nLevel Limit : 10, Attack + 17",
     "image": "images/Consume/2070001.png",
     "stats": {
-      "price": 500,
       "slotMax": 9999,
       "incPAD": 17,
       "reqLevel": 10,
-      "unitPrice": 1
+      "unitPrice": 1,
+      "price": 0
     }
   },
   {
@@ -17014,11 +17382,11 @@
     "desc": "A throwing-star made out of steel. Once they run out, they need to be recharged.\\nLevel Limit : 10, Attack + 19",
     "image": "images/Consume/2070002.png",
     "stats": {
-      "price": 1000,
       "slotMax": 9999,
       "incPAD": 19,
       "reqLevel": 10,
-      "unitPrice": 1
+      "unitPrice": 1,
+      "price": 0
     }
   },
   {
@@ -17028,11 +17396,11 @@
     "desc": "A throwing-star made out of steel. Once they run out, they need to be recharged.\\nLevel Limit : 10, Attack + 21",
     "image": "images/Consume/2070003.png",
     "stats": {
-      "price": 1500,
       "slotMax": 9999,
       "incPAD": 21,
       "reqLevel": 10,
-      "unitPrice": 1
+      "unitPrice": 1,
+      "price": 0
     }
   },
   {
@@ -17042,11 +17410,11 @@
     "desc": "A throwing-star made out of steel. Once they run out, they need to be recharged.\\nLevel Limit : 10, Attack + 23",
     "image": "images/Consume/2070004.png",
     "stats": {
-      "price": 2500,
       "slotMax": 9999,
       "incPAD": 23,
       "reqLevel": 10,
-      "unitPrice": 1
+      "unitPrice": 1,
+      "price": 0
     }
   },
   {
@@ -17056,11 +17424,11 @@
     "desc": "A throwing-star made out of steel. Once they run out, they need to be recharged.\\nLevel Limit : 10, Attack + 25",
     "image": "images/Consume/2070005.png",
     "stats": {
-      "price": 10000,
       "slotMax": 9999,
       "incPAD": 25,
       "reqLevel": 10,
-      "unitPrice": 1
+      "unitPrice": 1,
+      "price": 0
     }
   },
   {
@@ -17070,11 +17438,11 @@
     "desc": "A throwing-star made out of steel. Once they run out, they need to be recharged.\\nLevel Limit : 10, Attack + 27",
     "image": "images/Consume/2070006.png",
     "stats": {
-      "price": 20000,
       "slotMax": 9999,
       "incPAD": 27,
       "reqLevel": 10,
-      "unitPrice": 1
+      "unitPrice": 1,
+      "price": 0
     }
   },
   {
@@ -17084,11 +17452,11 @@
     "desc": "When thrown, it spins fast and flies at great speed. Once they are all used up, they need to be recharged.\\nLevel Limit : 10, Attack + 19",
     "image": "images/Consume/2070009.png",
     "stats": {
-      "price": 500,
       "slotMax": 9999,
       "incPAD": 19,
       "reqLevel": 10,
-      "unitPrice": 1
+      "unitPrice": 1,
+      "price": 0
     }
   },
   {
@@ -17098,11 +17466,11 @@
     "desc": "Sharp icicles. Once they run out, they need to be recharged.rnLevel Limit : 10, Attack + 21",
     "image": "images/Consume/2070010.png",
     "stats": {
-      "price": 500,
       "slotMax": 9999,
       "incPAD": 21,
       "reqLevel": 10,
-      "unitPrice": 1
+      "unitPrice": 1,
+      "price": 0
     }
   },
   {
@@ -17112,11 +17480,11 @@
     "desc": "Maple-shaped steel throwing-stars. Once they run out, they need to be recharged.rnLevel Limit : 10, Attack + 21",
     "image": "images/Consume/2070011.png",
     "stats": {
-      "price": 500,
       "slotMax": 9999,
       "incPAD": 21,
       "reqLevel": 10,
-      "unitPrice": 1
+      "unitPrice": 1,
+      "price": 0
     }
   },
   {
@@ -17126,10 +17494,10 @@
     "desc": "A paper plane that can be thrown at things. Once they run out, they need to be recharged. Attack +20",
     "image": "images/Consume/2070012.png",
     "stats": {
-      "price": 2500,
       "slotMax": 9999,
       "incPAD": 20,
-      "unitPrice": 1
+      "unitPrice": 1,
+      "price": 0
     }
   },
   {
@@ -17139,10 +17507,10 @@
     "desc": "A tasty orange that can be thrown at things. Attack + 20",
     "image": "images/Consume/2070013.png",
     "stats": {
-      "price": 2500,
       "slotMax": 9999,
       "incPAD": 20,
-      "unitPrice": 1
+      "unitPrice": 1,
+      "price": 0
     }
   },
   {
@@ -17152,11 +17520,11 @@
     "desc": "A throwing-star made out of steel. Once they run out, they need to be recharged.\\nLevel Limit : 10, Attack + 27",
     "image": "images/Consume/2070007.png",
     "stats": {
-      "price": 25000,
       "slotMax": 9999,
       "incPAD": 27,
       "reqLevel": 70,
-      "unitPrice": 1
+      "unitPrice": 1,
+      "price": 0
     }
   },
   {
@@ -17166,11 +17534,11 @@
     "desc": "A well-packed snowball. Once they run out, they need to be recharged.\\nLevel Limit : 10, Attack + 17",
     "image": "images/Consume/2070008.png",
     "stats": {
-      "price": 500,
       "slotMax": 9999,
       "incPAD": 17,
       "reqLevel": 10,
-      "unitPrice": 1
+      "unitPrice": 1,
+      "price": 0
     }
   },
   {
@@ -17180,13 +17548,13 @@
     "desc": "These are steel throwing stars given by Dark Lord for Beginner Thieves. Unlike normal throwing stars, you can't recharge it. \\nAttack + 15",
     "image": "images/Consume/2070015.png",
     "stats": {
-      "price": 1,
       "slotMax": 9999,
       "incPAD": 15,
       "reqLevel": 10,
       "tradeBlock": 1,
       "notSale": 1,
-      "unitPrice": 1
+      "unitPrice": 1,
+      "price": 0
     }
   },
   {
@@ -17199,7 +17567,8 @@
       "slotMax": 9999,
       "incPAD": 29,
       "reqLevel": 50,
-      "unitPrice": 1
+      "unitPrice": 1,
+      "price": 0
     }
   },
   {
@@ -17212,7 +17581,8 @@
       "slotMax": 9999,
       "incPAD": 30,
       "reqLevel": 70,
-      "unitPrice": 1
+      "unitPrice": 1,
+      "price": 0
     }
   },
   {
@@ -17233,13 +17603,13 @@
     "id": "2070019",
     "category": "Consume",
     "name": "Magic Throwing Knife",
-    "desc": "A throwing knife made out of a mysterious form of energy from space. This unique knife has the energy of space flowing through the blade.\\nLevel Limit : 120, Attack +33",
+    "desc": "A throwing knife made out of a mysterious form of energy from space. This unique knife has the energy of space flowing through the blade.\\nLevel Limit : 120, Attack +31",
     "image": "images/Consume/2070019.png",
     "stats": {
-      "slotMax": 800,
+      "slotMax": 9999,
       "unitPrice": 425,
       "incPAD": 31,
-      "reqLevel": 130,
+      "reqLevel": 120,
       "price": 0
     }
   },
@@ -17247,12 +17617,12 @@
     "id": "2070024",
     "category": "Consume",
     "name": "Royal Throwing-Knives",
-    "desc": "A throwing-knife made using a secret method known only to the King of Lionheart Castle. These can be recharged when used up. \\nAttack + 32",
+    "desc": "A throwing-knife made using a secret method known. These can be recharged when used up. \\nAttack + 32",
     "image": "images/Consume/2070024.png",
     "stats": {
-      "slotMax": 1000,
+      "slotMax": 9999,
       "incPAD": 32,
-      "reqLevel": 180,
+      "reqLevel": 130,
       "unitPrice": 450,
       "price": 0
     }
@@ -22095,6 +22465,7 @@
       "0": 1121002,
       "1": 1221002,
       "2": 1321002,
+      "3": 11121204,
       "slotMax": 9999,
       "price": 1,
       "masterLevel": 20,
@@ -22112,6 +22483,7 @@
       "0": 1121002,
       "1": 1221002,
       "2": 1321002,
+      "3": 11121204,
       "slotMax": 9999,
       "price": 1,
       "masterLevel": 30,
@@ -22152,8 +22524,8 @@
   {
     "id": "2290010",
     "category": "Consume",
-    "name": "[Mastery Book] Brandish 20",
-    "desc": "At a 70% success rate, it raises the Mastery Level of #cBrandish# to 20.\\r\\nJob: Hero\\r\\nRequirement: Skill level above 5",
+    "name": "[Mastery Book] Raging Blow 20",
+    "desc": "At a 70% success rate, it raises the Mastery Level of #cRaging Blow# to 20.\\r\\nJob: Hero\\r\\nRequirement: Skill level above 5",
     "image": "images/Consume/2290010.png",
     "stats": {
       "0": 1121008,
@@ -22167,8 +22539,8 @@
   {
     "id": "2290011",
     "category": "Consume",
-    "name": "[Mastery Book] Brandish 30",
-    "desc": "At a 50% success rate, it raises the Mastery Level of #cBrandish# to 30.\\r\\nJob: Hero\\r\\nRequirement: Skill level above 15",
+    "name": "[Mastery Book] Raging Blow 30",
+    "desc": "At a 50% success rate, it raises the Mastery Level of #cRaging Blow# to 30.\\r\\nJob: Hero\\r\\nRequirement: Skill level above 15",
     "image": "images/Consume/2290011.png",
     "stats": {
       "0": 1121008,
@@ -22304,11 +22676,11 @@
   {
     "id": "2290020",
     "category": "Consume",
-    "name": "[Mastery Book] Heaven's Hammer 20",
-    "desc": "At a 70% success rate, it raises the Mastery Level of #cHeaven's Hammer# to 20.\\r\\nJob: Paladin\\r\\nRequirement: Skill level above 5",
+    "name": "[Mastery Book] Holy Flame Hammer 20",
+    "desc": "At a 70% success rate, it raises the Mastery Level of #cHoly Flame Hammer# to 20.\\r\\nJob: Paladin\\r\\nRequirement: Skill level above 5",
     "image": "images/Consume/2290020.png",
     "stats": {
-      "0": 1221011,
+      "0": 1221017,
       "slotMax": 9999,
       "price": 1,
       "masterLevel": 20,
@@ -22319,11 +22691,11 @@
   {
     "id": "2290021",
     "category": "Consume",
-    "name": "[Mastery Book] Heaven's Hammer 30",
-    "desc": "At a 50% success rate, it raises the Mastery Level of #cHeaven's Hammer# to 30.\\r\\nJob: Paladin\\r\\nRequirement: Skill level above 15",
+    "name": "[Mastery Book] Holy Flame Hammer 30",
+    "desc": "At a 50% success rate, it raises the Mastery Level of #cHoly Flame Hammer# to 30.\\r\\nJob: Paladin\\r\\nRequirement: Skill level above 15",
     "image": "images/Consume/2290021.png",
     "stats": {
-      "0": 1221011,
+      "0": 1221017,
       "slotMax": 9999,
       "price": 1,
       "masterLevel": 30,
@@ -22371,6 +22743,7 @@
       "0": 2121002,
       "1": 2221002,
       "2": 2321002,
+      "3": 12121056,
       "slotMax": 9999,
       "price": 1,
       "masterLevel": 20,
@@ -22388,6 +22761,7 @@
       "0": 2121002,
       "1": 2221002,
       "2": 2321002,
+      "3": 12121056,
       "slotMax": 9999,
       "price": 1,
       "masterLevel": 30,
@@ -22439,6 +22813,7 @@
       "0": 2121004,
       "1": 2221004,
       "2": 2321004,
+      "3": 12121057,
       "slotMax": 9999,
       "price": 1,
       "masterLevel": 20,
@@ -22456,6 +22831,7 @@
       "0": 2121004,
       "1": 2221004,
       "2": 2321004,
+      "3": 12121057,
       "slotMax": 9999,
       "price": 1,
       "masterLevel": 30,
@@ -22556,8 +22932,8 @@
   {
     "id": "2290036",
     "category": "Consume",
-    "name": "[Mastery Book] Fire Demon 20",
-    "desc": "At a 70% success rate, it raises the Mastery Level of #cFire Demon# to 20.\\r\\nJob: Arch Mage (Fire, Poison)\\r\\nRequirement: Skill level above 5",
+    "name": "[Mastery Book] Fire Haze 20",
+    "desc": "At a 70% success rate, it raises the Mastery Level of #cFire Haze# to 20.\\r\\nJob: Arch Mage (Fire, Poison)\\r\\nRequirement: Skill level above 5",
     "image": "images/Consume/2290036.png",
     "stats": {
       "0": 2121003,
@@ -22571,8 +22947,8 @@
   {
     "id": "2290037",
     "category": "Consume",
-    "name": "[Mastery Book] Fire Demon 30",
-    "desc": "At a 50% success rate, it raises the Mastery Level of #cFire Demon# to 30.\\r\\nJob: Arch Mage (Fire, Poison)\\r\\nRequirement: Skill level above 15",
+    "name": "[Mastery Book] Fire Haze 30",
+    "desc": "At a 50% success rate, it raises the Mastery Level of #cFire Haze# to 30.\\r\\nJob: Arch Mage (Fire, Poison)\\r\\nRequirement: Skill level above 15",
     "image": "images/Consume/2290037.png",
     "stats": {
       "0": 2121003,
@@ -22586,8 +22962,8 @@
   {
     "id": "2290038",
     "category": "Consume",
-    "name": "[Mastery Book] Ifrit 20",
-    "desc": "At a 70% success rate, it raises the Mastery Level of #cIfrit# to 20.\\r\\nJob: Arch Mage (Fire, Poison)\\r\\nRequirement: Skill level above 5",
+    "name": "[Mastery Book] Raviel 20",
+    "desc": "At a 70% success rate, it raises the Mastery Level of #cRaviel# to 20.\\r\\nJob: Arch Mage (Fire, Poison)\\r\\nRequirement: Skill level above 5",
     "image": "images/Consume/2290038.png",
     "stats": {
       "0": 2221005,
@@ -22601,8 +22977,8 @@
   {
     "id": "2290039",
     "category": "Consume",
-    "name": "[Mastery Book] Ifrit 30",
-    "desc": "At a 50% success rate, it raises the Mastery Level of #cIfrit# to 30.\\r\\nJob: Arch Mage (Fire, Poison)\\r\\nRequirement: Skill level above 15",
+    "name": "[Mastery Book] Raviel 30",
+    "desc": "At a 50% success rate, it raises the Mastery Level of #cRaviel# to 30.\\r\\nJob: Arch Mage (Fire, Poison)\\r\\nRequirement: Skill level above 15",
     "image": "images/Consume/2290039.png",
     "stats": {
       "0": 2221005,
@@ -22616,8 +22992,8 @@
   {
     "id": "2290042",
     "category": "Consume",
-    "name": "[Mastery Book] Ice Demon 20",
-    "desc": "At a 70% success rate, it raises the Mastery Level of #cIce Demon# to 20.\\r\\nJob: Arch Mage (Ice, Lightning)\\r\\nRequirement: Skill level above 5",
+    "name": "[Mastery Book] Glacier 20",
+    "desc": "At a 70% success rate, it raises the Mastery Level of #cGlacier# to 20.\\r\\nJob: Arch Mage (Ice, Lightning)\\r\\nRequirement: Skill level above 5",
     "image": "images/Consume/2290042.png",
     "stats": {
       "0": 2221003,
@@ -22631,8 +23007,8 @@
   {
     "id": "2290043",
     "category": "Consume",
-    "name": "[Mastery Book] Ice Demon 30",
-    "desc": "At a 50% success rate, it raises the Mastery Level of #cIce Demon# to 30.\\r\\nJob: Arch Mage (Ice, Lightning)\\r\\nRequirement: Skill level above 15",
+    "name": "[Mastery Book] Glacier 30",
+    "desc": "At a 50% success rate, it raises the Mastery Level of #cGlacier# to 30.\\r\\nJob: Arch Mage (Ice, Lightning)\\r\\nRequirement: Skill level above 15",
     "image": "images/Consume/2290043.png",
     "stats": {
       "0": 2221003,
@@ -22772,6 +23148,7 @@
     "stats": {
       "0": 3121002,
       "1": 3221002,
+      "2": 13121008,
       "slotMax": 9999,
       "price": 1,
       "masterLevel": 20,
@@ -22788,6 +23165,7 @@
     "stats": {
       "0": 3121002,
       "1": 3221002,
+      "2": 13121008,
       "slotMax": 9999,
       "price": 1,
       "masterLevel": 30,
@@ -22955,6 +23333,8 @@
     "image": "images/Consume/2290064.png",
     "stats": {
       "0": 3121008,
+      "1": 13121056,
+      "2": 3221006,
       "slotMax": 9999,
       "price": 1,
       "masterLevel": 20,
@@ -22970,6 +23350,8 @@
     "image": "images/Consume/2290065.png",
     "stats": {
       "0": 3121008,
+      "1": 13121056,
+      "2": 3221006,
       "slotMax": 9999,
       "price": 1,
       "masterLevel": 30,
@@ -23136,6 +23518,7 @@
     "stats": {
       "0": 4120002,
       "1": 4220002,
+      "2": 14120011,
       "slotMax": 9999,
       "price": 1,
       "masterLevel": 20,
@@ -23152,6 +23535,7 @@
     "stats": {
       "0": 4120002,
       "1": 4220002,
+      "2": 14120011,
       "slotMax": 9999,
       "price": 1,
       "masterLevel": 30,
@@ -24887,6 +25271,1079 @@
     }
   },
   {
+    "id": "2290214",
+    "category": "Consume",
+    "name": "[Mastery Book] Call of Cygnus 20",
+    "desc": "With a 70% chance of success",
+    "image": "images/Consume/2290214.png",
+    "stats": {
+      "0": 15121012,
+      "1": 14121010,
+      "2": 13121055,
+      "3": 12121000,
+      "4": 11121018,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290215",
+    "category": "Consume",
+    "name": "[Mastery Book] Call of Cygnus 30",
+    "desc": "With a 50% chance of success",
+    "image": "images/Consume/2290215.png",
+    "stats": {
+      "0": 15121012,
+      "1": 14121010,
+      "2": 13121055,
+      "3": 12121000,
+      "4": 11121018,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290202",
+    "category": "Consume",
+    "name": "[Mastery Book] Rising Rage 20",
+    "desc": "With a 70% chance of success",
+    "image": "images/Consume/2290202.png",
+    "stats": {
+      "0": 1121012,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290203",
+    "category": "Consume",
+    "name": "[Mastery Book] Rising Rage 30",
+    "desc": "With a 50% chance of success",
+    "image": "images/Consume/2290203.png",
+    "stats": {
+      "0": 1121012,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290206",
+    "category": "Consume",
+    "name": "[Mastery Book] Boom Spiral 20",
+    "desc": "With a 70% chance of success",
+    "image": "images/Consume/2290206.png",
+    "stats": {
+      "0": 1321011,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290207",
+    "category": "Consume",
+    "name": "[Mastery Book] Doom Spiral 30",
+    "desc": "With a 50% chance of success",
+    "image": "images/Consume/2290207.png",
+    "stats": {
+      "0": 1321011,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290208",
+    "category": "Consume",
+    "name": "[Mastery Book] Blood Rupture 20",
+    "desc": "With a 70% chance of success",
+    "image": "images/Consume/2290208.png",
+    "stats": {
+      "0": 1321013,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290209",
+    "category": "Consume",
+    "name": "[Mastery Book] Blood Rupture 30",
+    "desc": "With a 50% chance of success",
+    "image": "images/Consume/2290209.png",
+    "stats": {
+      "0": 1321013,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290210",
+    "category": "Consume",
+    "name": "[Mastery Book] Impailing Rays 20",
+    "desc": "With a 70% chance of success",
+    "image": "images/Consume/2290210.png",
+    "stats": {
+      "0": 11121004,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290211",
+    "category": "Consume",
+    "name": "[Mastery Book] Impailing Rays 30",
+    "desc": "With a 50% chance of success",
+    "image": "images/Consume/2290211.png",
+    "stats": {
+      "0": 11121004,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290212",
+    "category": "Consume",
+    "name": "[Mastery Book] Solar Pierce 20",
+    "desc": "With a 70% chance of success",
+    "image": "images/Consume/2290212.png",
+    "stats": {
+      "0": 11121203,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290213",
+    "category": "Consume",
+    "name": "[Mastery Book] Solar Pierce 30",
+    "desc": "With a 50% chance of success",
+    "image": "images/Consume/2290213.png",
+    "stats": {
+      "0": 11121203,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290264",
+    "category": "Consume",
+    "name": "[Mastery Book] Bahamut 20",
+    "desc": "With a 70% chance of success.",
+    "image": "images/Consume/2290264.png",
+    "stats": {
+      "0": 2321003,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290265",
+    "category": "Consume",
+    "name": "[Mastery Book] Bahamut 30",
+    "desc": "With a 50% chance of success.",
+    "image": "images/Consume/2290265.png",
+    "stats": {
+      "0": 2321003,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290216",
+    "category": "Consume",
+    "name": "[Mastery Book] Towering Inferno 20",
+    "desc": "With a 70% chance of success",
+    "image": "images/Consume/2290216.png",
+    "stats": {
+      "0": 12121002,
+      "slotMax": 9999,
+      "price": 1,
+      "masterLevel": 20,
+      "reqSkillLevel": 5,
+      "success": 70
+    }
+  },
+  {
+    "id": "2290217",
+    "category": "Consume",
+    "name": "[Mastery Book] Towering Inferno 30",
+    "desc": "With a 50% chance of success",
+    "image": "images/Consume/2290217.png",
+    "stats": {
+      "0": 12121002,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290218",
+    "category": "Consume",
+    "name": "[Mastery Book] Dragon Blaze 20",
+    "desc": "With a 70% chance of success",
+    "image": "images/Consume/2290218.png",
+    "stats": {
+      "0": 12121055,
+      "slotMax": 9999,
+      "price": 1,
+      "masterLevel": 20,
+      "reqSkillLevel": 5,
+      "success": 70
+    }
+  },
+  {
+    "id": "2290219",
+    "category": "Consume",
+    "name": "[Mastery Book] Dragon Blaze 30",
+    "desc": "With a 50% chance of success",
+    "image": "images/Consume/2290219.png",
+    "stats": {
+      "0": 12121055,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290220",
+    "category": "Consume",
+    "name": "[Mastery Book] Dragon Fireballs 20",
+    "desc": "With a 70% chance of success",
+    "image": "images/Consume/2290220.png",
+    "stats": {
+      "0": 12121054,
+      "slotMax": 9999,
+      "price": 1,
+      "masterLevel": 20,
+      "reqSkillLevel": 5,
+      "success": 70
+    }
+  },
+  {
+    "id": "2290221",
+    "category": "Consume",
+    "name": "[Mastery Book] Dragon Fireballs 30",
+    "desc": "With a 50% chance of success",
+    "image": "images/Consume/2290221.png",
+    "stats": {
+      "0": 12121054,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290222",
+    "category": "Consume",
+    "name": "[Mastery Book] Flame Barrier 20",
+    "desc": "With a 70% chance of success",
+    "image": "images/Consume/2290222.png",
+    "stats": {
+      "0": 12121012,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290224",
+    "category": "Consume",
+    "name": "[Mastery Book] High Speed Shot 20",
+    "desc": "With a 70% chance of success",
+    "image": "images/Consume/2290224.png",
+    "stats": {
+      "0": 3221009,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290225",
+    "category": "Consume",
+    "name": "[Mastery Book] High Speed Shot 30",
+    "desc": "With a 50% chance of success",
+    "image": "images/Consume/2290225.png",
+    "stats": {
+      "0": 3221009,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290226",
+    "category": "Consume",
+    "name": "[Mastery Book] Song of Heaven 20",
+    "desc": "With a 70% chance of success",
+    "image": "images/Consume/2290226.png",
+    "stats": {
+      "0": 13121001,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "masterLevel": 20,
+      "reqSkillLevel": 5
+    }
+  },
+  {
+    "id": "2290227",
+    "category": "Consume",
+    "name": "[Mastery Book] Song of Heaven 30",
+    "desc": "With a 50% chance of success",
+    "image": "images/Consume/2290227.png",
+    "stats": {
+      "0": 13121001,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290228",
+    "category": "Consume",
+    "name": "[Mastery Book] Monsoon 20",
+    "desc": "With a 70% chance of success",
+    "image": "images/Consume/2290228.png",
+    "stats": {
+      "0": 13121052,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "masterLevel": 20,
+      "reqSkillLevel": 5
+    }
+  },
+  {
+    "id": "2290229",
+    "category": "Consume",
+    "name": "[Mastery Book] Monsoon 30",
+    "desc": "With a 70% chance of success",
+    "image": "images/Consume/2290229.png",
+    "stats": {
+      "0": 13121052,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290230",
+    "category": "Consume",
+    "name": "[Mastery Book] Gritty Gust 20",
+    "desc": "With a 70% chance of success",
+    "image": "images/Consume/2290230.png",
+    "stats": {
+      "0": 13121054,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "masterLevel": 20,
+      "reqSkillLevel": 5
+    }
+  },
+  {
+    "id": "2290231",
+    "category": "Consume",
+    "name": "[Mastery Book] Gritty Gust 30",
+    "desc": "With a 50% chance of success",
+    "image": "images/Consume/2290231.png",
+    "stats": {
+      "0": 13121054,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290232",
+    "category": "Consume",
+    "name": "[Mastery Book] Galeclaw 20",
+    "desc": "With a 70% chance of success",
+    "image": "images/Consume/2290232.png",
+    "stats": {
+      "0": 13121057,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290233",
+    "category": "Consume",
+    "name": "[Mastery Book] Galeclaw 30",
+    "desc": "With a 50% chance of success",
+    "image": "images/Consume/2290233.png",
+    "stats": {
+      "0": 13121057,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290234",
+    "category": "Consume",
+    "name": "[Mastery Book] Showdown 20",
+    "desc": "With a 70% chance of success. This book is for Night Lords.",
+    "image": "images/Consume/2290234.png",
+    "stats": {
+      "0": 4121010,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290235",
+    "category": "Consume",
+    "name": "[Mastery Book] Showdown 30",
+    "desc": "With a 50% chance of success. This book is for Night Lords.",
+    "image": "images/Consume/2290235.png",
+    "stats": {
+      "0": 4121010,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290236",
+    "category": "Consume",
+    "name": "[Mastery Book] Shadow Veil 20",
+    "desc": "With a 70% chance of success",
+    "image": "images/Consume/2290236.png",
+    "stats": {
+      "0": 4221009,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290237",
+    "category": "Consume",
+    "name": "[Mastery Book] Shadow Veil 30",
+    "desc": "With a 50% chance of success",
+    "image": "images/Consume/2290237.png",
+    "stats": {
+      "0": 4221009,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290238",
+    "category": "Consume",
+    "name": "[Mastery Book] Phantom Blow 20",
+    "desc": "With a 70% chance of success",
+    "image": "images/Consume/2290238.png",
+    "stats": {
+      "0": 4221010,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290239",
+    "category": "Consume",
+    "name": "[Mastery Book] Phantom Blow 30",
+    "desc": "With a 50% chance of success",
+    "image": "images/Consume/2290239.png",
+    "stats": {
+      "0": 4221010,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290240",
+    "category": "Consume",
+    "name": "[Mastery Book] Sudden Raid 20",
+    "desc": "With a 70% chance of success",
+    "image": "images/Consume/2290240.png",
+    "stats": {
+      "0": 14121007,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290241",
+    "category": "Consume",
+    "name": "[Mastery Book] Sudden Raid 30",
+    "desc": "With a 50% chance of success",
+    "image": "images/Consume/2290241.png",
+    "stats": {
+      "0": 14121007,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290244",
+    "category": "Consume",
+    "name": "[Mastery Book] Quintuple Star 20",
+    "desc": "With a 70% chance of success",
+    "image": "images/Consume/2290244.png",
+    "stats": {
+      "0": 14121001,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290245",
+    "category": "Consume",
+    "name": "[Mastery Book] Quintuple Star 30",
+    "desc": "With a 50% chance of success",
+    "image": "images/Consume/2290245.png",
+    "stats": {
+      "0": 14121001,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290246",
+    "category": "Consume",
+    "name": "[Mastery Book] Shadow Stars 20",
+    "desc": "With a 70% chance of success. This is for Nightwalkers",
+    "image": "images/Consume/2290246.png",
+    "stats": {
+      "0": 14121008,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290247",
+    "category": "Consume",
+    "name": "[Mastery Book] Shadow Stars 30",
+    "desc": "With a 50% chance of success. This is for Nightwalkers",
+    "image": "images/Consume/2290247.png",
+    "stats": {
+      "0": 14121008,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290242",
+    "category": "Consume",
+    "name": "[Mastery Book] Showdown 20",
+    "desc": "With a 70% chance of success. This is for Nightwalkers.",
+    "image": "images/Consume/2290242.png",
+    "stats": {
+      "0": 14121006,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290243",
+    "category": "Consume",
+    "name": "[Mastery Book] Showdown 30",
+    "desc": "With a 50% chance of success. This is for Nightwalkers.",
+    "image": "images/Consume/2290243.png",
+    "stats": {
+      "0": 14121006,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290248",
+    "category": "Consume",
+    "name": "[Mastery Book] Octopunch 20",
+    "desc": "With a 70% chance of success. ",
+    "image": "images/Consume/2290248.png",
+    "stats": {
+      "0": 5121011,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290249",
+    "category": "Consume",
+    "name": "[Mastery Book] Octopunch 30",
+    "desc": "With a 50% chance of success.",
+    "image": "images/Consume/2290249.png",
+    "stats": {
+      "0": 5121011,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290250",
+    "category": "Consume",
+    "name": "[Mastery Book] Double Blast 20",
+    "desc": "With a 70% chance of success.",
+    "image": "images/Consume/2290250.png",
+    "stats": {
+      "0": 5121012,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290251",
+    "category": "Consume",
+    "name": "[Mastery Book] Double Blast 30",
+    "desc": "With a 50% chance of success.",
+    "image": "images/Consume/2290251.png",
+    "stats": {
+      "0": 5121012,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290252",
+    "category": "Consume",
+    "name": "[Mastery Book] Power Unity 20",
+    "desc": "With a 70% chance of success.",
+    "image": "images/Consume/2290252.png",
+    "stats": {
+      "0": 5121013,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290253",
+    "category": "Consume",
+    "name": "[Mastery Book] Power Unity 30",
+    "desc": "With a 50% chance of success.",
+    "image": "images/Consume/2290253.png",
+    "stats": {
+      "0": 5121013,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290254",
+    "category": "Consume",
+    "name": "[Mastery Book] Eight Legs Easton 20",
+    "desc": "With a 70% chance of success.",
+    "image": "images/Consume/2290254.png",
+    "stats": {
+      "0": 5221017,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290255",
+    "category": "Consume",
+    "name": "[Mastery Book] Eight Legs Easton 30",
+    "desc": "With a 50% chance of success.",
+    "image": "images/Consume/2290255.png",
+    "stats": {
+      "0": 5221017,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290256",
+    "category": "Consume",
+    "name": "[Mastery Book] Jolly Roger 20",
+    "desc": "With a 70% chance of success.",
+    "image": "images/Consume/2290256.png",
+    "stats": {
+      "0": 5221018,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290257",
+    "category": "Consume",
+    "name": "[Mastery Book] Whale Rising 20",
+    "desc": "With a 70% chance of success.",
+    "image": "images/Consume/2290257.png",
+    "stats": {
+      "0": 15121052,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290258",
+    "category": "Consume",
+    "name": "[Mastery Book] Whale Rising 30",
+    "desc": "With a 50% chance of success.",
+    "image": "images/Consume/2290258.png",
+    "stats": {
+      "0": 15121052,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290259",
+    "category": "Consume",
+    "name": "[Mastery Book] Thunderbolt 20",
+    "desc": "With a 70% chance of success.",
+    "image": "images/Consume/2290259.png",
+    "stats": {
+      "0": 15121002,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290260",
+    "category": "Consume",
+    "name": "[Mastery Book] Thunderbolt 30",
+    "desc": "With a 50% chance of success.",
+    "image": "images/Consume/2290260.png",
+    "stats": {
+      "0": 15121002,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290261",
+    "category": "Consume",
+    "name": "[Mastery Book] Annihilate 20",
+    "desc": "With a 70% chance of success.",
+    "image": "images/Consume/2290261.png",
+    "stats": {
+      "0": 15121001,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290262",
+    "category": "Consume",
+    "name": "[Mastery Book] Annihilate 30",
+    "desc": "With a 50% chance of success.",
+    "image": "images/Consume/2290262.png",
+    "stats": {
+      "0": 15121001,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290263",
+    "category": "Consume",
+    "name": "[Mastery Book] Typhoon 20",
+    "desc": "With a 70% chance of success.",
+    "image": "images/Consume/2290263.png",
+    "stats": {
+      "0": 15121003,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290266",
+    "category": "Consume",
+    "name": "[Mastery Book] Angelic Lance 20",
+    "desc": "With a 70% chance of success.",
+    "image": "images/Consume/2290266.png",
+    "stats": {
+      "0": 2321010,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290267",
+    "category": "Consume",
+    "name": "[Mastery Book] Angelic Lance 30",
+    "desc": "With a 50% chance of success.",
+    "image": "images/Consume/2290267.png",
+    "stats": {
+      "0": 2321010,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290268",
+    "category": "Consume",
+    "name": "[Mastery Book] Final Blow 20",
+    "desc": "With a 70% chance of success.",
+    "image": "images/Consume/2290268.png",
+    "stats": {
+      "0": 21120005,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290269",
+    "category": "Consume",
+    "name": "[Mastery Book] Final Blow 30",
+    "desc": "With a 50% chance of success.",
+    "image": "images/Consume/2290269.png",
+    "stats": {
+      "0": 21120005,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290270",
+    "category": "Consume",
+    "name": "[Mastery Book] Hex of The Beholder 20",
+    "desc": "With a 70% chance of success.",
+    "image": "images/Consume/2290270.png",
+    "stats": {
+      "0": 1320009,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290271",
+    "category": "Consume",
+    "name": "[Mastery Book] Armor Crash",
+    "desc": "With a 70% chance of success.",
+    "image": "images/Consume/2290271.png",
+    "stats": {
+      "0": 11121016,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290272",
+    "category": "Consume",
+    "name": "[Mastery Book] Showdown 20",
+    "desc": "With a 70% chance of success. \\nThis Skill Book is for Night Lords",
+    "image": "images/Consume/2290272.png",
+    "stats": {
+      "0": 4121010,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 70,
+      "reqSkillLevel": 5,
+      "masterLevel": 20
+    }
+  },
+  {
+    "id": "2290273",
+    "category": "Consume",
+    "name": "[Mastery Book] Showdown 30",
+    "desc": "With a 50% chance of success. \\nThis Skill Book is for Night Lords",
+    "image": "images/Consume/2290273.png",
+    "stats": {
+      "0": 4121010,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290274",
+    "category": "Consume",
+    "name": "[Mastery Book] Dragon Blaze 30",
+    "desc": "With a 50% chance of success.",
+    "image": "images/Consume/2290274.png",
+    "stats": {
+      "0": 12121055,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
+    "id": "2290275",
+    "category": "Consume",
+    "name": "[Mastery Book] Flame Barrier 30",
+    "desc": "With a 50% chance of success.",
+    "image": "images/Consume/2290275.png",
+    "stats": {
+      "0": 12121012,
+      "slotMax": 9999,
+      "price": 1,
+      "success": 50,
+      "reqSkillLevel": 15,
+      "masterLevel": 30
+    }
+  },
+  {
     "id": "2310000",
     "category": "Consume",
     "name": "The Owl of Minerva",
@@ -24923,11 +26380,11 @@
     "desc": "A bullet made out of steel. A set contains numerous bullets and once they are used up, they'll need to be recharged.\\nAttack + 10",
     "image": "images/Consume/2330000.png",
     "stats": {
-      "price": 250,
       "slotMax": 9999,
       "incPAD": 10,
       "reqLevel": 10,
-      "unitPrice": 1
+      "unitPrice": 1,
+      "price": 0
     }
   },
   {
@@ -24937,11 +26394,11 @@
     "desc": "A bullet made out of steel. A set contains numerous bullets and once they are used up, they'll need to be recharged.rnAttack + 12",
     "image": "images/Consume/2330001.png",
     "stats": {
-      "price": 500,
       "slotMax": 9999,
       "incPAD": 12,
       "reqLevel": 30,
-      "unitPrice": 1
+      "unitPrice": 1,
+      "price": 0
     }
   },
   {
@@ -24951,11 +26408,11 @@
     "desc": "A bullet made out of steel. A set contains numerous bullets and once they are used up, they'll need to be recharged.rnAttack + 14",
     "image": "images/Consume/2330002.png",
     "stats": {
-      "price": 1000,
       "slotMax": 9999,
       "incPAD": 14,
       "reqLevel": 50,
-      "unitPrice": 1
+      "unitPrice": 1,
+      "price": 0
     }
   },
   {
@@ -24965,11 +26422,11 @@
     "desc": "A bullet made out of steel. A set contains numerous bullets and once they are used up, they'll need to be recharged.rnAttack + 16",
     "image": "images/Consume/2330003.png",
     "stats": {
-      "price": 1500,
       "slotMax": 9999,
       "incPAD": 16,
       "reqLevel": 70,
-      "unitPrice": 1
+      "unitPrice": 1,
+      "price": 0
     }
   },
   {
@@ -24979,11 +26436,11 @@
     "desc": "A bullet made out of steel. A set contains numerous bullets and once they are used up, they'll need to be recharged.rnAttack + 18",
     "image": "images/Consume/2330004.png",
     "stats": {
-      "price": 2500,
       "slotMax": 9999,
       "incPAD": 18,
       "reqLevel": 90,
-      "unitPrice": 1
+      "unitPrice": 1,
+      "price": 0
     }
   },
   {
@@ -24993,11 +26450,11 @@
     "desc": "A bullet made out of steel. A set contains numerous bullets and once they are used up, they'll need to be recharged.\\nAttack + 20",
     "image": "images/Consume/2330005.png",
     "stats": {
-      "price": 10000,
       "slotMax": 9999,
       "incPAD": 20,
       "reqLevel": 110,
-      "unitPrice": 1
+      "unitPrice": 1,
+      "price": 0
     }
   },
   {
@@ -25007,13 +26464,13 @@
     "desc": "A bullet made out of steel. A set contains numerous bullets.rnAttack + 10",
     "image": "images/Consume/2330006.png",
     "stats": {
-      "price": 20000,
       "slotMax": 9999,
       "incPAD": 10,
       "reqLevel": 10,
       "notSale": 1,
       "tradeBlock": 1,
-      "unitPrice": 1
+      "unitPrice": 1,
+      "price": 0
     }
   },
   {
@@ -25023,11 +26480,11 @@
     "desc": "A capsule used for fire-elemental attacks.",
     "image": "images/Consume/2331000.png",
     "stats": {
-      "price": 2500,
       "slotMax": 9999,
       "incPAD": 16,
       "reqLevel": 70,
-      "unitPrice": 1
+      "unitPrice": 1,
+      "price": 0
     }
   },
   {
@@ -25037,24 +26494,24 @@
     "desc": "A capsule used for ice-elemental attacks.",
     "image": "images/Consume/2332000.png",
     "stats": {
-      "price": 2500,
       "slotMax": 9999,
       "incPAD": 16,
       "reqLevel": 70,
-      "unitPrice": 1
+      "unitPrice": 1,
+      "price": 0
     }
   },
   {
     "id": "2330007",
     "category": "Consume",
-    "name": "",
-    "desc": "",
+    "name": "Armor Destruction Bullet",
+    "desc": "Bullets made of steel. They pierce armor like never seen before.\\nAttack +22",
     "image": "images/Consume/2330007.png",
     "stats": {
-      "slotMax": 4000,
+      "slotMax": 9999,
       "unitPrice": 40,
       "incPAD": 22,
-      "reqLevel": 130,
+      "reqLevel": 120,
       "price": 0
     }
   },
@@ -25062,13 +26519,13 @@
     "id": "2330008",
     "category": "Consume",
     "name": "Giant Bullet",
-    "desc": "Bullets made of steel. Once they run out, they need to be recharged.\\nLevel Limit : 130, Attack +24",
+    "desc": "Bullets made of steel. Once they run out, they need to be recharged.\\nAttack +24",
     "image": "images/Consume/2330008.png",
     "stats": {
-      "slotMax": 4500,
+      "slotMax": 9999,
       "unitPrice": 40,
       "incPAD": 24,
-      "reqLevel": 180,
+      "reqLevel": 130,
       "price": 0
     }
   },
@@ -34424,17 +35881,2420 @@
     }
   },
   {
-    "id": "2430000",
+    "id": "2380046",
     "category": "Consume",
-    "name": "Torn Cygnus' Book Volume 1",
-    "desc": "When used one at a time, a special power covers my body and blesses me.  I think if I collect 20, I'll be able to read what's written inside.",
-    "image": "images/Consume/2430000.png",
+    "name": "Frog Card",
+    "desc": "A card that features Frog.",
+    "image": "images/Consume/2380046.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420001
+    }
+  },
+  {
+    "id": "2380047",
+    "category": "Consume",
+    "name": "White Rooster Card",
+    "desc": "A card that features White Rooster.",
+    "image": "images/Consume/2380047.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420005
+    }
+  },
+  {
+    "id": "2381039",
+    "category": "Consume",
+    "name": "Crow Card",
+    "desc": "A card that features Crow.",
+    "image": "images/Consume/2381039.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400000
+    }
+  },
+  {
+    "id": "2381040",
+    "category": "Consume",
+    "name": "Fire Raccoon Card",
+    "desc": "A card that features Fire Raccoon.",
+    "image": "images/Consume/2381040.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400001
+    }
+  },
+  {
+    "id": "2381041",
+    "category": "Consume",
+    "name": "Cloud Fox Card",
+    "desc": "A card that features Cloud Fox.",
+    "image": "images/Consume/2381041.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400002
+    }
+  },
+  {
+    "id": "2381042",
+    "category": "Consume",
+    "name": "Genin Card",
+    "desc": "A card that features Genin.",
+    "image": "images/Consume/2381042.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400400
+    }
+  },
+  {
+    "id": "2381043",
+    "category": "Consume",
+    "name": "Ashigaru Card",
+    "desc": "A card featuring Ashigaru.",
+    "image": "images/Consume/2381043.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400404
+    }
+  },
+  {
+    "id": "2381044",
+    "category": "Consume",
+    "name": "Rooster Card",
+    "desc": "A card that features Rooster",
+    "image": "images/Consume/2381044.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9600001
+    }
+  },
+  {
+    "id": "2381045",
+    "category": "Consume",
+    "name": "Duck Card",
+    "desc": "A card that features Duck",
+    "image": "images/Consume/2381045.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9600002
+    }
+  },
+  {
+    "id": "2381046",
+    "category": "Consume",
+    "name": "Sheep Card",
+    "desc": "A card that features Sheep",
+    "image": "images/Consume/2381046.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9600003
+    }
+  },
+  {
+    "id": "2381047",
+    "category": "Consume",
+    "name": "Goat Card",
+    "desc": "A card that features Goat",
+    "image": "images/Consume/2381047.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9600004
+    }
+  },
+  {
+    "id": "2381077",
+    "category": "Consume",
+    "name": "Biner Card",
+    "desc": "A card with a drawing of Biner.",
+    "image": "images/Consume/2381077.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420502
+    }
+  },
+  {
+    "id": "2381078",
+    "category": "Consume",
+    "name": "Batoo Card",
+    "desc": "A card with a drawing of Batoo.",
+    "image": "images/Consume/2381078.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420506
+    }
+  },
+  {
+    "id": "2381079",
+    "category": "Consume",
+    "name": "Stopnow Card",
+    "desc": "A card with a drawing of Stopnow.",
+    "image": "images/Consume/2381079.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420500
+    }
+  },
+  {
+    "id": "2381116",
+    "category": "Consume",
+    "name": "Street Slime Card",
+    "desc": "A card that features Street Slime.\\n#cWhen hunting at Masteria \\nSpeed +2",
+    "image": "images/Consume/2381116.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400538
+    }
+  },
+  {
+    "id": "2381117",
+    "category": "Consume",
+    "name": "Urban Fungus Card",
+    "desc": "A card that features Urban Fungus.\\n#cWhen hunting at Masteria \\nAvoidability +2",
+    "image": "images/Consume/2381117.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400539
+    }
+  },
+  {
+    "id": "2381118",
+    "category": "Consume",
+    "name": "Killa Bee Card",
+    "desc": "A card that features Killa Bee.\\n#cWhen hunting at Masteria \\nJump +2",
+    "image": "images/Consume/2381118.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400540
+    }
+  },
+  {
+    "id": "2381119",
+    "category": "Consume",
+    "name": "Boomer Card",
+    "desc": "A card that features Boomer.\\n#cWhen hunting at Masteria \\nAccuracy +2",
+    "image": "images/Consume/2381119.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400547
+    }
+  },
+  {
+    "id": "2381120",
+    "category": "Consume",
+    "name": "Mighty Maple Eater Card",
+    "desc": "A card that features monstername.\\n#cWhen hunting at Masteria \\nSpeed +3",
+    "image": "images/Consume/2381120.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400548
+    }
+  },
+  {
+    "id": "2381121",
+    "category": "Consume",
+    "name": "Glutton Ghoul Card",
+    "desc": "A card that features Glutton Ghoul.\\n#cWhen hunting at Masteria \\nJump +3",
+    "image": "images/Consume/2381121.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400556
+    }
+  },
+  {
+    "id": "2381122",
+    "category": "Consume",
+    "name": "Psycho Jack Card",
+    "desc": "A card that features Psycho Jack Card.\\n#cWhen hunting at Masteria \\nAvoidability +3",
+    "image": "images/Consume/2381122.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400558
+    }
+  },
+  {
+    "id": "2381123",
+    "category": "Consume",
+    "name": "Rotting Skeleton Card",
+    "desc": "A card that features Rotting Skeleton.\\n#cWhen hunting at Masteria \\nAccuracy +3",
+    "image": "images/Consume/2381123.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400638
+    }
+  },
+  {
+    "id": "2381124",
+    "category": "Consume",
+    "name": "Yellow Lizard Card",
+    "desc": "A card that features Yellow Lizard.\\nAcc +3",
+    "image": "images/Consume/2381124.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420004
+    }
+  },
+  {
+    "id": "2381125",
+    "category": "Consume",
+    "name": "Toad Card",
+    "desc": "A card that features Toad.\\nJump +3",
+    "image": "images/Consume/2381125.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420000
+    }
+  },
+  {
+    "id": "2382073",
+    "category": "Consume",
+    "name": "Dark Cloud Fox Card",
+    "desc": "A card that features Dark Cloud Fox.",
+    "image": "images/Consume/2382073.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400004
+    }
+  },
+  {
+    "id": "2382074",
+    "category": "Consume",
+    "name": "Paper Lantern Ghost Card",
+    "desc": "A card that features Paper Lantern Ghost.",
+    "image": "images/Consume/2382074.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400011
+    }
+  },
+  {
+    "id": "2382075",
+    "category": "Consume",
+    "name": "Extra A Card",
+    "desc": "A card that features Extra A.",
+    "image": "images/Consume/2382075.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400100
+    }
+  },
+  {
+    "id": "2382077",
+    "category": "Consume",
+    "name": "Black Goat Card",
+    "desc": "A card that features Black Goat\\n#cShanghai\\nJump +1#",
+    "image": "images/Consume/2382077.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9600005
+    }
+  },
+  {
+    "id": "2382078",
+    "category": "Consume",
+    "name": "Cow Card",
+    "desc": "A card that features Cow\\n#cShanghai\\nJump +1#",
+    "image": "images/Consume/2382078.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9600006
+    }
+  },
+  {
+    "id": "2382079",
+    "category": "Consume",
+    "name": "Plow Ox Card",
+    "desc": "A card that features Plow Ox\\n#cShanghai\\nJump +1#",
+    "image": "images/Consume/2382079.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9600007
+    }
+  },
+  {
+    "id": "2382080",
+    "category": "Consume",
+    "name": "Black Sheep Card",
+    "desc": "A card that features Black Sheep\\n#cShanghai\\nJump +1#",
+    "image": "images/Consume/2382080.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9600008
+    }
+  },
+  {
+    "id": "2382088",
+    "category": "Consume",
+    "name": "Nospeed Card",
+    "desc": "A card with a drawing of Nospeed.",
+    "image": "images/Consume/2382088.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420503
+    }
+  },
+  {
+    "id": "2382089",
+    "category": "Consume",
+    "name": "Freezer Card",
+    "desc": "A card with a drawing of Freezer.",
+    "image": "images/Consume/2382089.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420501
+    }
+  },
+  {
+    "id": "2382090",
+    "category": "Consume",
+    "name": "Octobunny Card",
+    "desc": "A card with a drawing of Octobunny.",
+    "image": "images/Consume/2382090.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420508
+    }
+  },
+  {
+    "id": "2382091",
+    "category": "Consume",
+    "name": "Chlorotrap Card",
+    "desc": "A card with a drawing of Chlorotrap.",
+    "image": "images/Consume/2382091.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420527
+    }
+  },
+  {
+    "id": "2382136",
+    "category": "Consume",
+    "name": "Sakura Cellion Card",
+    "desc": "A card that features Sakura Cellion.\\n#cWhen hunting at Amoria \\nAvoidability +2",
+    "image": "images/Consume/2382136.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400509
+    }
+  },
+  {
+    "id": "2382137",
+    "category": "Consume",
+    "name": "Indigo Eye Card",
+    "desc": "A card that features Indigo Eye.\\n#cWhen hunting at Amoria \\nJump +2",
+    "image": "images/Consume/2382137.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400515
+    }
+  },
+  {
+    "id": "2382138",
+    "category": "Consume",
+    "name": "Crystal Boar Card",
+    "desc": "A card that features Crystal Boar.\\n#cWhen hunting at Amoria \\nSpeed +2",
+    "image": "images/Consume/2382138.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400516
+    }
+  },
+  {
+    "id": "2382139",
+    "category": "Consume",
+    "name": "Fire Tusk Card",
+    "desc": "A card that features Fire Tusk.\\n#cWhen hunting at Masteria \\nSpeed +3/Defense against fire-based attacks +20%",
+    "image": "images/Consume/2382139.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400542
+    }
+  },
+  {
+    "id": "2382140",
+    "category": "Consume",
+    "name": "Electrophant Card",
+    "desc": "A card that features Electrophant.\\n#cWhen hunting at Masteria \\nJump +3/Defense against lightning-based attacks +20%",
+    "image": "images/Consume/2382140.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400543
+    }
+  },
+  {
+    "id": "2382141",
+    "category": "Consume",
+    "name": "I.AM.ROBOT Card",
+    "desc": "A card that features I.AM.ROBOT.\\n#cWhen hunting at Masteria \\nAvoidability +3",
+    "image": "images/Consume/2382141.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400546
+    }
+  },
+  {
+    "id": "2382142",
+    "category": "Consume",
+    "name": "Nightmare Card",
+    "desc": "A card that features Nightmare.\\n#cWhen hunting at Masteria \\nAccuracy +3",
+    "image": "images/Consume/2382142.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400563
+    }
+  },
+  {
+    "id": "2382143",
+    "category": "Consume",
+    "name": "Baby Typhon Card",
+    "desc": "A card that features Baby Typhon.\\n#cWhen hunting at Masteria \\nSpeed +3",
+    "image": "images/Consume/2382143.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400573
+    }
+  },
+  {
+    "id": "2382144",
+    "category": "Consume",
+    "name": "Leprechaun Card",
+    "desc": "A card that features Leprechaun.\\n#cWhen hunting at Masteria \\nJump +3",
+    "image": "images/Consume/2382144.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400584
+    }
+  },
+  {
+    "id": "2382145",
+    "category": "Consume",
+    "name": "Red Lizard Card",
+    "desc": "A card that features Red Lizard.\\nSpeed +3",
+    "image": "images/Consume/2382145.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420003
+    }
+  },
+  {
+    "id": "2382200",
+    "category": "Consume",
+    "name": "Boogie Card",
+    "desc": "A card that features Boogie.",
+    "image": "images/Consume/2382200.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 6130104
+    }
+  },
+  {
+    "id": "2383050",
+    "category": "Consume",
+    "name": "Nightghost Card",
+    "desc": "A card that features Nightghost.",
+    "image": "images/Consume/2383050.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400003
+    }
+  },
+  {
+    "id": "2383051",
+    "category": "Consume",
+    "name": "Water Goblin Card",
+    "desc": "A card that features Water Goblin.",
+    "image": "images/Consume/2383051.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400012
+    }
+  },
+  {
+    "id": "2383052",
+    "category": "Consume",
+    "name": "Extra B Card",
+    "desc": "A card that features Extra B.",
+    "image": "images/Consume/2383052.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400101
+    }
+  },
+  {
+    "id": "2383053",
+    "category": "Consume",
+    "name": "Extra C Card",
+    "desc": "A card that features Extra C.",
+    "image": "images/Consume/2383053.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400102
+    }
+  },
+  {
+    "id": "2383054",
+    "category": "Consume",
+    "name": "Chunin Card",
+    "desc": "A card that features Chunin.\\n#cIncreases Jump +2 when you hunt at Sakura Castle.#",
+    "image": "images/Consume/2383054.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400401
+    }
+  },
+  {
+    "id": "2383055",
+    "category": "Consume",
+    "name": "Kunoichi Card",
+    "desc": "A card that features Kunoichi. \\n#cIncreases Drop Rate of \"Use\" items when you hunt at Sakura Castle.#",
+    "image": "images/Consume/2383055.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400406
+    }
+  },
+  {
+    "id": "2383064",
+    "category": "Consume",
+    "name": "Emo Slime Card",
+    "desc": "A card with a drawing of Emo Slime.",
+    "image": "images/Consume/2383064.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420528
+    }
+  },
+  {
+    "id": "2383065",
+    "category": "Consume",
+    "name": "Trucker Card",
+    "desc": "A card with a drawing of Trucker.",
+    "image": "images/Consume/2383065.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420507
+    }
+  },
+  {
+    "id": "2383066",
+    "category": "Consume",
+    "name": "Tippo Red Card",
+    "desc": "A card with a drawing of Tippo Red.",
+    "image": "images/Consume/2383066.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420504
+    }
+  },
+  {
+    "id": "2383067",
+    "category": "Consume",
+    "name": "Dark Fission Card",
+    "desc": "A card with a drawing of Dark Fission.",
+    "image": "images/Consume/2383067.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420529
+    }
+  },
+  {
+    "id": "2383068",
+    "category": "Consume",
+    "name": "Tippo Blue Card",
+    "desc": "A card with a drawing of Tippo Blue.",
+    "image": "images/Consume/2383068.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420505
+    }
+  },
+  {
+    "id": "2383069",
+    "category": "Consume",
+    "name": "Oly Oly Card",
+    "desc": "A card with a drawing of Oly Oly.",
+    "image": "images/Consume/2383069.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420530
+    }
+  },
+  {
+    "id": "2383070",
+    "category": "Consume",
+    "name": "Pac Pinky Card",
+    "desc": "A card with a drawing of Pac Pinky.",
+    "image": "images/Consume/2383070.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420509
+    }
+  },
+  {
+    "id": "2383071",
+    "category": "Consume",
+    "name": "Scaredy Scarlion Card",
+    "desc": "A card with a drawing of Scaredy Scarlion.",
+    "image": "images/Consume/2383071.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420531
+    }
+  },
+  {
+    "id": "2383072",
+    "category": "Consume",
+    "name": "Ratatula Card",
+    "desc": "A card with a drawing of Ratatula.",
+    "image": "images/Consume/2383072.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420532
+    }
+  },
+  {
+    "id": "2383073",
+    "category": "Consume",
+    "name": "Selkie Jr. Card",
+    "desc": "A card with a drawing of Selkie Jr..",
+    "image": "images/Consume/2383073.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420511
+    }
+  },
+  {
+    "id": "2383123",
+    "category": "Consume",
+    "name": "Gryphon Card",
+    "desc": "A card that features Gryphon.\\n#cWhen hunting at Masteria \\nAvoidability +3",
+    "image": "images/Consume/2383123.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400544
+    }
+  },
+  {
+    "id": "2383124",
+    "category": "Consume",
+    "name": "Sophilia Doll Card",
+    "desc": "A card that features Sophilia Doll.\\n#cWhen hunting at Masteria \\nAccuracy +3",
+    "image": "images/Consume/2383124.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400560
+    }
+  },
+  {
+    "id": "2383125",
+    "category": "Consume",
+    "name": "Voodoo Card",
+    "desc": "A card that features Voodoo.\\n#cWhen hunting at Masteria \\nSpeed +4",
+    "image": "images/Consume/2383125.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400561
+    }
+  },
+  {
+    "id": "2383126",
+    "category": "Consume",
+    "name": "Hoodoo Card",
+    "desc": "A card that features Hoodoo.\\n#cWhen hunting at Masteria \\nJump +4",
+    "image": "images/Consume/2383126.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400562
+    }
+  },
+  {
+    "id": "2383127",
+    "category": "Consume",
+    "name": "Phantom Tree Card",
+    "desc": "A card that features Phantom Tree.\\n#cWhen hunting at Masteria \\nAvoidability +4",
+    "image": "images/Consume/2383127.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400588
+    }
+  },
+  {
+    "id": "2383128",
+    "category": "Consume",
+    "name": "Dead Scarecrow Card",
+    "desc": "A card that features Dead Scarecrow.\\n#cWhen hunting at Masteria \\nAccuracy +4",
+    "image": "images/Consume/2383128.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400639
+    }
+  },
+  {
+    "id": "2383129",
+    "category": "Consume",
+    "name": "Python Card",
+    "desc": "A card that features Python.\\nAcc +4",
+    "image": "images/Consume/2383129.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420002
+    }
+  },
+  {
+    "id": "2384041",
+    "category": "Consume",
+    "name": "Extra D Card",
+    "desc": "A card that features Extra D.",
+    "image": "images/Consume/2384041.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400103
+    }
+  },
+  {
+    "id": "2384042",
+    "category": "Consume",
+    "name": "Leader A Card",
+    "desc": "A card that features Leader A.",
+    "image": "images/Consume/2384042.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400110
+    }
+  },
+  {
+    "id": "2384043",
+    "category": "Consume",
+    "name": "Leader B Card",
+    "desc": "A card that features Leader B.",
+    "image": "images/Consume/2384043.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400111
+    }
+  },
+  {
+    "id": "2384051",
+    "category": "Consume",
+    "name": "Rodeo Card",
+    "desc": "A card with a drawing of Rodeo.",
+    "image": "images/Consume/2384051.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420533
+    }
+  },
+  {
+    "id": "2384052",
+    "category": "Consume",
+    "name": "Slimy Card",
+    "desc": "A card with a drawing of Slimy.",
+    "image": "images/Consume/2384052.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420510
+    }
+  },
+  {
+    "id": "2384053",
+    "category": "Consume",
+    "name": "Charmer Card",
+    "desc": "A card with a drawing of Charmer.",
+    "image": "images/Consume/2384053.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420534
+    }
+  },
+  {
+    "id": "2384054",
+    "category": "Consume",
+    "name": "Mr. Anchor Card",
+    "desc": "A card with a drawing of Mr. Anchor.",
+    "image": "images/Consume/2384054.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420512
+    }
+  },
+  {
+    "id": "2384055",
+    "category": "Consume",
+    "name": "Jester Scarlion Card",
+    "desc": "A card with a drawing of Jester Scarlion.",
+    "image": "images/Consume/2384055.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420535
+    }
+  },
+  {
+    "id": "2384056",
+    "category": "Consume",
+    "name": "Froscola Card",
+    "desc": "A card with a drawing of Froscola.",
+    "image": "images/Consume/2384056.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420536
+    }
+  },
+  {
+    "id": "2384057",
+    "category": "Consume",
+    "name": "Yabber Doo Card",
+    "desc": "A card with a drawing of Yabber Doo.",
+    "image": "images/Consume/2384057.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420537
+    }
+  },
+  {
+    "id": "2384058",
+    "category": "Consume",
+    "name": "Red Slime Card",
+    "desc": "A card featuring Red Slime.\\n\\cLUK +3#",
+    "image": "images/Consume/2384058.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 7120103
+    }
+  },
+  {
+    "id": "2384108",
+    "category": "Consume",
+    "name": "Windraider Card",
+    "desc": "A card that features Windraider.\\n#cWhen hunting at Masteria \\nSpeed +4",
+    "image": "images/Consume/2384108.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400576
+    }
+  },
+  {
+    "id": "2384109",
+    "category": "Consume",
+    "name": "Crimson Tree Card",
+    "desc": "A card that features Crimson Tree.\\n#cWhen hunting at Masteria \\nJump +4",
+    "image": "images/Consume/2384109.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400586
+    }
+  },
+  {
+    "id": "2384110",
+    "category": "Consume",
+    "name": "Twisted Jester Card",
+    "desc": "A card that features Twisted Jester.\\n#cWhen hunting at Masteria \\nAvoidability +5",
+    "image": "images/Consume/2384110.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400640
+    }
+  },
+  {
+    "id": "2384200",
+    "category": "Consume",
+    "name": "Jr. Gargoyle Card",
+    "desc": "A card that features Jr. Gargoyle.",
+    "image": "images/Consume/2384200.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9300035
+    }
+  },
+  {
+    "id": "2384201",
+    "category": "Consume",
+    "name": "Puco Card",
+    "desc": "A card that features Puco.",
+    "image": "images/Consume/2384201.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 6230101
+    }
+  },
+  {
+    "id": "2384202",
+    "category": "Consume",
+    "name": "Punco Card",
+    "desc": "A card that features Punco.",
+    "image": "images/Consume/2384202.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 6300003
+    }
+  },
+  {
+    "id": "2384203",
+    "category": "Consume",
+    "name": "Cuzco Card",
+    "desc": "A card that features Cuzco.",
+    "image": "images/Consume/2384203.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 6400003
+    }
+  },
+  {
+    "id": "2384204",
+    "category": "Consume",
+    "name": "Opachu Card",
+    "desc": "A card that features Opachu.",
+    "image": "images/Consume/2384204.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 6400004
+    }
+  },
+  {
+    "id": "2385024",
+    "category": "Consume",
+    "name": "Jonin Card",
+    "desc": "A card that features Jonin.\\n#cIncreases Speed +4 when you hunt at Sakura Castle.#",
+    "image": "images/Consume/2385024.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400402
+    }
+  },
+  {
+    "id": "2385026",
+    "category": "Consume",
+    "name": "Black Bear Card",
+    "desc": "A card that features Black Bear.\\n#cIf hunting at Mount Song\\nJump +4#",
+    "image": "images/Consume/2385026.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9600012
+    }
+  },
+  {
+    "id": "2385027",
+    "category": "Consume",
+    "name": "White Tiger Card",
+    "desc": "A card that features White Tiger.\\n#cIf hunting at Mount Song\\nAccuracy +4#",
+    "image": "images/Consume/2385027.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9600013
+    }
+  },
+  {
+    "id": "2385034",
+    "category": "Consume",
+    "name": "Booper Scarlion Card",
+    "desc": "A card with a drawing of Booper Scarlion.",
+    "image": "images/Consume/2385034.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420538
+    }
+  },
+  {
+    "id": "2385035",
+    "category": "Consume",
+    "name": "Berserkie Card",
+    "desc": "A card with a drawing of Berserkie.",
+    "image": "images/Consume/2385035.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420514
+    }
+  },
+  {
+    "id": "2385036",
+    "category": "Consume",
+    "name": "Vikerola Card",
+    "desc": "A card with a drawing of Vikerola.",
+    "image": "images/Consume/2385036.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420539
+    }
+  },
+  {
+    "id": "2385037",
+    "category": "Consume",
+    "name": "Veetron Card",
+    "desc": "A card with a drawing of Veetron.",
+    "image": "images/Consume/2385037.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420515
+    }
+  },
+  {
+    "id": "2385093",
+    "category": "Consume",
+    "name": "Wolf Spider Card",
+    "desc": "A card that features Wolf Spider.\\n#cWhen hunting at Masteria \\nAccuracy +5",
+    "image": "images/Consume/2385093.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400545
+    }
+  },
+  {
+    "id": "2385094",
+    "category": "Consume",
+    "name": "Firebrand Card",
+    "desc": "A card that features Firebrand.\\n#cWhen hunting at Masteria \\nSpeed +5",
+    "image": "images/Consume/2385094.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400577
+    }
+  },
+  {
+    "id": "2385095",
+    "category": "Consume",
+    "name": "Stormbreaker Card",
+    "desc": "A card that features Stormbreaker.\\n#cWhen hunting at Masteria \\nJump +5",
+    "image": "images/Consume/2385095.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400581
+    }
+  },
+  {
+    "id": "2385096",
+    "category": "Consume",
+    "name": "Bacal Card",
+    "desc": "A card that features Bacal\\n#cJump +10, Speed +10",
+    "image": "images/Consume/2385096.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420523
+    }
+  },
+  {
+    "id": "2385200",
+    "category": "Consume",
+    "name": "Mingu Card",
+    "desc": "A card that features Mingu.",
+    "image": "images/Consume/2385200.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9300270
+    }
+  },
+  {
+    "id": "2386018",
+    "category": "Consume",
+    "name": "Dreamy Ghost Card",
+    "desc": "A card that features Dreamy Ghost.",
+    "image": "images/Consume/2386018.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400013
+    }
+  },
+  {
+    "id": "2386019",
+    "category": "Consume",
+    "name": "Male Boss A Card",
+    "desc": "A card that features Male Boss A.",
+    "image": "images/Consume/2386019.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400120
+    }
+  },
+  {
+    "id": "2386020",
+    "category": "Consume",
+    "name": "Ninto Card",
+    "desc": "A card that features Ninto.\\n#cIncreases Avoidability +5 when you hunt at Sakura Castle.#",
+    "image": "images/Consume/2386020.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400403
+    }
+  },
+  {
+    "id": "2386025",
+    "category": "Consume",
+    "name": "Giant Eagle Card",
+    "desc": "A card that features Giant Eagle\\n#cIf hunting at Mount Song\\nAvoidability +5/Speed +5#",
+    "image": "images/Consume/2386025.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9600014
+    }
+  },
+  {
+    "id": "2386026",
+    "category": "Consume",
+    "name": "Male Burglar Card",
+    "desc": "A card that features Male Burglar\\n#cIf hunting at Mount Song\\nAvoidability +5/Speed +5#",
+    "image": "images/Consume/2386026.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9600015
+    }
+  },
+  {
+    "id": "2386027",
+    "category": "Consume",
+    "name": "Female Burglar Card",
+    "desc": "A card that features Female Burglar\\n#cIf hunting at Mount Song\\nAvoidability +5/Speed +5#",
+    "image": "images/Consume/2386027.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9600016
+    }
+  },
+  {
+    "id": "2386028",
+    "category": "Consume",
+    "name": "Incense Burner Demon Card",
+    "desc": "A card that features Incense Burner Demon\\n#cIf hunting at Mount Song\\nAvoidability +5/Speed +5#",
+    "image": "images/Consume/2386028.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9600017
+    }
+  },
+  {
+    "id": "2386029",
+    "category": "Consume",
+    "name": "Temple Block Monster Card",
+    "desc": "A card that features Temple Block Monster\\n#cIf hunting at Mount Song\\nAvoidability +5/Speed +5#",
+    "image": "images/Consume/2386029.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9600018
+    }
+  },
+  {
+    "id": "2386200",
+    "category": "Consume",
+    "name": "Black Bird Card",
+    "desc": "A card that features Black Bird.",
+    "image": "images/Consume/2386200.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400599
+    }
+  },
+  {
+    "id": "2387014",
+    "category": "Consume",
+    "name": "Crocky the Gatekeeper Card",
+    "desc": "A card with a picture of Crocky the Gatekeeper.",
+    "image": "images/Consume/2387014.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9600019
+    }
+  },
+  {
+    "id": "2387015",
+    "category": "Consume",
+    "name": "Reindeer (LHC) Card",
+    "desc": "A card with a picture of a Reindeer.",
+    "image": "images/Consume/2387015.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9600020
+    }
+  },
+  {
+    "id": "2387016",
+    "category": "Consume",
+    "name": "Blood Reindeer Card",
+    "desc": "A card with a picture of a Blood Reindeer.",
+    "image": "images/Consume/2387016.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9600021
+    }
+  },
+  {
+    "id": "2387017",
+    "category": "Consume",
+    "name": "Bearwolf Card",
+    "desc": "A card with a picture of a Bearwolf.",
+    "image": "images/Consume/2387017.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9600022
+    }
+  },
+  {
+    "id": "2387018",
+    "category": "Consume",
+    "name": "Grey Vulture Card",
+    "desc": "A card with a picture of a Grey Vulture.",
+    "image": "images/Consume/2387018.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9600023
+    }
+  },
+  {
+    "id": "2387019",
+    "category": "Consume",
+    "name": "Castle Golem Card",
+    "desc": "A card with a picture of a Castle Golem.",
+    "image": "images/Consume/2387019.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9600024
+    }
+  },
+  {
+    "id": "2387020",
+    "category": "Consume",
+    "name": "Cloud Fox Card",
+    "desc": "A card with a picture of a Cloud Fox.",
+    "image": "images/Consume/2387020.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9600026
+    }
+  },
+  {
+    "id": "2387021",
+    "category": "Consume",
+    "name": "Dark Cloud Fox Card",
+    "desc": "A card with a picture of a Dark Cloud Fox.",
+    "image": "images/Consume/2387021.png",
+    "stats": {
+      "price": 1,
+      "tradeBlock": 1,
+      "bigSize": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400253
+    }
+  },
+  {
+    "id": "2387022",
+    "category": "Consume",
+    "name": "Crow Card",
+    "desc": "A card with a picture of a Crow.",
+    "image": "images/Consume/2387022.png",
+    "stats": {
+      "price": 1,
+      "tradeBlock": 1,
+      "bigSize": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400254
+    }
+  },
+  {
+    "id": "2387023",
+    "category": "Consume",
+    "name": "Flaming Tanuki Card",
+    "desc": "A card with a picture of a Flaming Tanuki.",
+    "image": "images/Consume/2387023.png",
+    "stats": {
+      "price": 1,
+      "tradeBlock": 1,
+      "bigSize": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400255
+    }
+  },
+  {
+    "id": "2387024",
+    "category": "Consume",
+    "name": "Nightghost Card",
+    "desc": "A card with a picture of a Nightghost.",
+    "image": "images/Consume/2387024.png",
+    "stats": {
+      "price": 1,
+      "tradeBlock": 1,
+      "bigSize": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400256
+    }
+  },
+  {
+    "id": "2387025",
+    "category": "Consume",
+    "name": "Paper Lantern Ghost Card",
+    "desc": "A card with a picture of a Paper Lantern Ghost.",
+    "image": "images/Consume/2387025.png",
+    "stats": {
+      "price": 1,
+      "tradeBlock": 1,
+      "bigSize": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400257
+    }
+  },
+  {
+    "id": "2387026",
+    "category": "Consume",
+    "name": "Water Goblin Card",
+    "desc": "A card with a picture of a Water Goblin.",
+    "image": "images/Consume/2387026.png",
+    "stats": {
+      "price": 1,
+      "tradeBlock": 1,
+      "bigSize": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400260
+    }
+  },
+  {
+    "id": "2387028",
+    "category": "Consume",
+    "name": "Pinedeer Card",
+    "desc": "",
+    "image": "images/Consume/2387028.png",
+    "stats": {
+      "price": 1,
+      "tradeBlock": 1,
+      "bigSize": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400259
+    }
+  },
+  {
+    "id": "2387030",
+    "category": "Consume",
+    "name": "Ewenana Card",
+    "desc": "",
+    "image": "images/Consume/2387030.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420517
+    }
+  },
+  {
+    "id": "2387031",
+    "category": "Consume",
+    "name": "Ramanana Card",
+    "desc": "",
+    "image": "images/Consume/2387031.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420519
+    }
+  },
+  {
+    "id": "2387032",
+    "category": "Consume",
+    "name": "Flyon Card",
+    "desc": "",
+    "image": "images/Consume/2387032.png",
+    "stats": {
+      "price": 1,
+      "tradeBlock": 1,
+      "bigSize": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400287
+    }
+  },
+  {
+    "id": "2388034",
+    "category": "Consume",
+    "name": "Blue Mushmom Card",
+    "desc": "A card that features Blue Mushmom.",
+    "image": "images/Consume/2388034.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400205
+    }
+  },
+  {
+    "id": "2388035",
+    "category": "Consume",
+    "name": "Black Crow Card",
+    "desc": "A card that features Black Crow.",
+    "image": "images/Consume/2388035.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400014
+    }
+  },
+  {
+    "id": "2388036",
+    "category": "Consume",
+    "name": "Female Boss Card",
+    "desc": "A card that features Female Boss.",
+    "image": "images/Consume/2388036.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400121
+    }
+  },
+  {
+    "id": "2388037",
+    "category": "Consume",
+    "name": "The Boss Card",
+    "desc": "A card that features The Boss.",
+    "image": "images/Consume/2388037.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400300
+    }
+  },
+  {
+    "id": "2388038",
+    "category": "Consume",
+    "name": "Castellan Card",
+    "desc": "A card that features Castellan.\\n#cIncreases Meso Drop Rate when you hunt at Sakura Castle.#",
+    "image": "images/Consume/2388038.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400408
+    }
+  },
+  {
+    "id": "2388044",
+    "category": "Consume",
+    "name": "Giant Centipede Card",
+    "desc": "A card that features Giant Centipede\\n#cShanghai\\nItem/Meso Drop rate will be increased#",
+    "image": "images/Consume/2388044.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9600010
+    }
+  },
+  {
+    "id": "2388045",
+    "category": "Consume",
+    "name": "Wulin Yaoseng Card",
+    "desc": "A card that features Wulin Yaoseng\\n#cIf hunting at Shaolin Temple\\nItem/Meso drop rate will be increased#",
+    "image": "images/Consume/2388045.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9600025
+    }
+  },
+  {
+    "id": "2388048",
+    "category": "Consume",
+    "name": "Vergamot Card",
+    "desc": "A card that features Vergamot. \\n#cItem and Meso drop rate +50% while hunting at Neo Tokyo.#",
+    "image": "images/Consume/2388048.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400265
+    }
+  },
+  {
+    "id": "2388049",
+    "category": "Consume",
+    "name": "Nameless Magic Monster Card",
+    "desc": "A card that features an Nameless magic monster. \\n#cItem and Meso drop rate +50% while hunting at Neo Tokyo.#",
+    "image": "images/Consume/2388049.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400266
+    }
+  },
+  {
+    "id": "2388050",
+    "category": "Consume",
+    "name": "Dunas Card",
+    "desc": "A card that features Dunas. \\n#cItem and Meso drop rate +50% while hunting at Neo Tokyo.#",
+    "image": "images/Consume/2388050.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400270
+    }
+  },
+  {
+    "id": "2388051",
+    "category": "Consume",
+    "name": "Nibergen Card",
+    "desc": "A card that features Nibergen. \\n#cItem and Meso drop rate +50% while hunting at Neo Tokyo.#",
+    "image": "images/Consume/2388051.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400273
+    }
+  },
+  {
+    "id": "2388058",
+    "category": "Consume",
+    "name": "Capt. Latanica Card",
+    "desc": "A card with a drawing of Capt. Latanica.",
+    "image": "images/Consume/2388058.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420513
+    }
+  },
+  {
+    "id": "2388060",
+    "category": "Consume",
+    "name": "Krexel Card",
+    "desc": "A card with a drawing of Krexel.\\n#cIf hunting around the Ulu City area\\nItem/Meso drop rate is increased#",
+    "image": "images/Consume/2388060.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420522
+    }
+  },
+  {
+    "id": "2388063",
+    "category": "Consume",
+    "name": "Furious Targa Card",
+    "desc": "A card with a drawing of Furious Targa.",
+    "image": "images/Consume/2388063.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420544
+    }
+  },
+  {
+    "id": "2388066",
+    "category": "Consume",
+    "name": "Furious Scarlion Card",
+    "desc": "A card with a drawing of Furious Scarlion.",
+    "image": "images/Consume/2388066.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9420549
+    }
+  },
+  {
+    "id": "2388071",
+    "category": "Consume",
+    "name": "Kacchuu Musha Card",
+    "desc": "A card that features Kacchuu Musha.",
+    "image": "images/Consume/2388071.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400288
+    }
+  },
+  {
+    "id": "2388072",
+    "category": "Consume",
+    "name": "Headless Horseman Card",
+    "desc": "A card that features Headless Horseman.",
+    "image": "images/Consume/2388072.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400289
+    }
+  },
+  {
+    "id": "2388073",
+    "category": "Consume",
+    "name": "Black Mage Captain Card",
+    "desc": "A card that features Black Mage Captain.",
+    "image": "images/Consume/2388073.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400294
+    }
+  },
+  {
+    "id": "2388074",
+    "category": "Consume",
+    "name": "Red Crocky Card",
+    "desc": "A card that features Red Crocky.",
+    "image": "images/Consume/2388074.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400296
+    }
+  },
+  {
+    "id": "2388153",
+    "category": "Consume",
+    "name": "Bodyguard A Card ",
+    "desc": "",
+    "image": "images/Consume/2388153.png",
+    "stats": {
+      "price": 1,
+      "tradeBlock": 1,
+      "bigSize": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400112
+    }
+  },
+  {
+    "id": "2388154",
+    "category": "Consume",
+    "name": "Bodyguard B Card ",
+    "desc": "",
+    "image": "images/Consume/2388154.png",
+    "stats": {
+      "price": 1,
+      "tradeBlock": 1,
+      "bigSize": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400113
+    }
+  },
+  {
+    "id": "2388194",
+    "category": "Consume",
+    "name": "Geist Balrog Card",
+    "desc": "A card that features Geist Balrog.",
+    "image": "images/Consume/2388194.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400514
+    }
+  },
+  {
+    "id": "2388195",
+    "category": "Consume",
+    "name": "Headless Horseman Card",
+    "desc": "A card that features Headless Horseman.\\n#cWhen hunting at Masteria \\nSpeed +5/Jump +5 and Meso drop rate will be increased by 25%",
+    "image": "images/Consume/2388195.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400549
+    }
+  },
+  {
+    "id": "2388196",
+    "category": "Consume",
+    "name": "Bigfoot Card",
+    "desc": "A card that features Bigfoot.\\n#cWhen hunting at Masteria \\nAvoidability +5/Accuracy +5 and Item drop rate will be increased by 25%",
+    "image": "images/Consume/2388196.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400575
+    }
+  },
+  {
+    "id": "2388197",
+    "category": "Consume",
+    "name": "Red Nirg Card",
+    "desc": "A card that features Red Nirg.\\n#cWhen hunting at Masteria \\nSpeed +5/Jump +5 and drop rate of mastery books will be increased by 50%",
+    "image": "images/Consume/2388197.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400591
+    }
+  },
+  {
+    "id": "2388198",
+    "category": "Consume",
+    "name": "Margana Card",
+    "desc": "A card that features Margana.\\n#cWhen hunting at Masteria \\nSpeed +5/Jump +5 and drop rate of scrolls will be increased by 50%",
+    "image": "images/Consume/2388198.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400590
+    }
+  },
+  {
+    "id": "2388199",
+    "category": "Consume",
+    "name": "Rellik Card",
+    "desc": "A card that features Rellik.\\n#cWhen hunting at Masteria \\nSpeed +5/Jump +5 and drop rate of jewel ores will be increased by 50%",
+    "image": "images/Consume/2388199.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400592
+    }
+  },
+  {
+    "id": "2388200",
+    "category": "Consume",
+    "name": "Hsalf Card",
+    "desc": "A card that features Hsalf.\\n#cWhen hunting at Masteria \\nSpeed +5/Jump +5 and drop rate of mineral ores will be increased by 50%",
+    "image": "images/Consume/2388200.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400593
+    }
+  },
+  {
+    "id": "2388201",
+    "category": "Consume",
+    "name": "Master Gawyllacs Card",
+    "desc": "A card that features Master Gawyllacs.\\n#cWhen hunting at Masteria \\nSpeed +5/Jump +5 and Meso drop rate will be increased by 50%",
+    "image": "images/Consume/2388201.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9300776,
+      "mesoupbyitem": 1,
+      "prob": 50
+    }
+  },
+  {
+    "id": "2388202",
+    "category": "Consume",
+    "name": "Pianus Card",
+    "desc": "A card that features right facing Pianus.\\n#cIf hunting around the Aqua Road area\\nItem/Meso drop rate is increased#",
+    "image": "images/Consume/2388202.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 8520000
+    }
+  },
+  {
+    "id": "2388203",
+    "category": "Consume",
+    "name": "Chao Card",
+    "desc": "A card that features Chao.\\n#cWhen hunting at Ellin Forest\\nItem/Meso Drop rate will be increased by 25%",
+    "image": "images/Consume/2388203.png",
     "stats": {
       "tradeBlock": 1,
       "price": 1,
-      "slotMax": 9999,
-      "notSale": 1,
-      "quest": 1
+      "only": 1,
+      "monsterBook": 1,
+      "bigSize": 1,
+      "mob": 5250004
+    }
+  },
+  {
+    "id": "2388204",
+    "category": "Consume",
+    "name": "Ephenia Card",
+    "desc": "A card that features Ephenia.\\n#cWhen hunting at Ellin Forest\\nItem/Meso Drop rate will be increased by 50%",
+    "image": "images/Consume/2388204.png",
+    "stats": {
+      "tradeBlock": 1,
+      "price": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "bigSize": 1,
+      "mob": 5250007
+    }
+  },
+  {
+    "id": "2388205",
+    "category": "Consume",
+    "name": "Poison Stone Golem Card",
+    "desc": "A card that features Poison Stone Golem.\\n#cWhen hunting at Ellin Forest\\nItem/Meso Drop rate will be increased by 25%",
+    "image": "images/Consume/2388205.png",
+    "stats": {
+      "bigSize": 1,
+      "monsterBook": 1,
+      "only": 1,
+      "price": 1,
+      "tradeBlock": 1,
+      "mob": 9300182
+    }
+  },
+  {
+    "id": "2388206",
+    "category": "Consume",
+    "name": "Summoned Auf Haven Card",
+    "desc": "A card that features Summoned Auf Haven.",
+    "image": "images/Consume/2388206.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 9400290
+    }
+  },
+  {
+    "id": "2388207",
+    "category": "Consume",
+    "name": "King Castle Golem Card",
+    "desc": "A card that features King Castle Golem.\\n#cIncreases drop rate of Burning Energy when in the Rose Garden.#",
+    "image": "images/Consume/2388207.png",
+    "stats": {
+      "price": 1,
+      "bigSize": 1,
+      "tradeBlock": 1,
+      "only": 1,
+      "monsterBook": 1,
+      "mob": 8211004
     }
   },
   {
@@ -34661,8 +38521,8 @@
   {
     "id": "2430029",
     "category": "Consume",
-    "name": "Ore Bag",
-    "desc": "It's a bag to store your precious stones baby!",
+    "name": "Astravia Storage Bag",
+    "desc": "This grants access to the Astravia's Storage Sytem.",
     "image": "images/Consume/2430029.png",
     "stats": {
       "price": 1,
@@ -37648,8 +41508,8 @@
   {
     "id": "2430349",
     "category": "Consume",
-    "name": "Retro Scooter 90-Day Coupon",
-    "desc": "Teaches you the [Retro Scooter] riding skill for 90 days, starting today. ",
+    "name": "Astravia EXP Orb",
+    "desc": "This EXP Token will give you extra EXP upon pickup",
     "image": "images/Consume/2430349.png",
     "stats": {
       "price": 1,
@@ -126995,6 +130855,77 @@
       "notConsume": 1,
       "tradeBlock": 1,
       "endUseDate": "201902202359"
+    }
+  },
+  {
+    "id": "2430000",
+    "category": "Consume",
+    "name": "Surprise Beauty Coupon",
+    "desc": "Alters your appears at random. Please do not complain if you start looking like Axel on drugs.",
+    "image": "images/Consume/2430000.png",
+    "stats": {
+      "tradeBlock": 0,
+      "price": 1000,
+      "slotMax": 30000,
+      "notSale": 0
+    }
+  },
+  {
+    "id": "2430349",
+    "category": "Consume",
+    "name": "Astravia EXP Orb",
+    "desc": "This EXP Token will give you extra EXP upon pickup",
+    "image": "images/Consume/2430349.png",
+    "stats": {
+      "price": 1,
+      "tradeBlock": 1,
+      "slotMax": 9999,
+      "delay": 90
+    }
+  },
+  {
+    "id": "2439953",
+    "category": "Consume",
+    "name": "Normal Flame",
+    "desc": "Use on equipment items to grant them a #cSmall# bonus to all stats. #cIf used on equipment that already has bonus stats, those bonus stats will be rerolled. Level 30 - 100 gear only#. You can gain between #c1 and 5# to all stats.",
+    "image": "images/Consume/2439953.png",
+    "stats": {
+      "slotMax": 100,
+      "cash": 1,
+      "tradeBlock": 1,
+      "price": 1,
+      "success": 100,
+      "randstat": 1
+    }
+  },
+  {
+    "id": "2439954",
+    "category": "Consume",
+    "name": "Epic Flame",
+    "desc": "Use on equipment or weapon items to grant them a #cSmall# bonus to all stats. #cIf used on equipment that already has bonus stats, those bonus stats will be rerolled. Level 110+ gear#. You can gain between #c5 and 10# to all stats. If on a weapon #c1 and 3# WATT/MATK",
+    "image": "images/Consume/2439954.png",
+    "stats": {
+      "slotMax": 100,
+      "cash": 1,
+      "tradeBlock": 1,
+      "price": 1,
+      "success": 100,
+      "randstat": 1
+    }
+  },
+  {
+    "id": "2439955",
+    "category": "Consume",
+    "name": "Legendary Flame",
+    "desc": "Use on equipment or weapon items to grant them a #cLarge# bonus to all stats. #cIf used on equipment that already has bonus stats, those bonus stats will be rerolled. Level 120+ gear#. You can gain between #c10 and 15# to all stats. If on a weapon #c3 and 10# WATT/MATK",
+    "image": "images/Consume/2439955.png",
+    "stats": {
+      "slotMax": 100,
+      "cash": 1,
+      "tradeBlock": 1,
+      "price": 1,
+      "success": 100,
+      "randstat": 1
     }
   },
   {

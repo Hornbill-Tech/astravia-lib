@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T04:17:32.930Z",
+  "generatedAt": "2026-05-10T10:47:25.092Z",
   "categories": [
     {
       "key": "adventurers",
@@ -11098,7 +11098,7 @@
                 {
                   "id": 2211003,
                   "name": "Thunder Spear",
-                  "description": "Hurl a thunder spear at up to 3 enemies, electrifying each 3 times in a flash of frigid lightning.",
+                  "description": "Hurl a thunder spear at up to 1 enemy, electrifying each 3 times in a flash of frigid lightning.",
                   "masterLevel": 30,
                   "image": "images/Skill/2211003.png",
                   "levels": [
@@ -12009,7 +12009,7 @@
                 {
                   "id": 2221006,
                   "name": "Chain Lightning",
-                  "description": "Hurl a forking thunderbolt that leaps between up to 6 enemies, lashing each 2 times in a cascading arc of light.",
+                  "description": "Hurl a forking thunderbolt that leaps between up to 6 enemies, lashing each 4 times in a cascading arc of light.",
                   "masterLevel": 30,
                   "image": "images/Skill/2221006.png",
                   "levels": [
@@ -43517,7 +43517,7 @@
                 {
                   "id": 21120005,
                   "name": "Final Blow",
-                  "description": "Swing your polearm wide for massive damage to up to 12 enemies 4 times each. Available after Triple Swing.",
+                  "description": "Swing your polearm wide for massive damage to up to 1 enemies 4 times each. Available after Triple Swing.",
                   "masterLevel": 30,
                   "image": "images/Skill/21120005.png",
                   "levels": [
